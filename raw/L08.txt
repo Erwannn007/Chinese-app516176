@@ -1,0 +1,75 @@
+# 8 | 我爸爸也在医院工作 | Mon père travaille aussi à l'hôpital
+OBJ Comprendre et décrire des lieux et des positions.
+OBJ Utiliser la préposition « 在 » pour indiquer où se passe une action.
+OBJ Utiliser le verbe modal « 能 ».
+## Texte 1 | Chez Wang Yifei, Bai Jiayue et Chen Tianzhong sont en visite.
+白家月: 房间外有一只小猫。 | Bai Jiayue : Il y a un petit chat devant la pièce.
+陈天中: 我没看见，它在哪儿呢？ | Chen Tianzhong : Je ne le vois pas, où est-il ?
+白家月: 它在桌子下呢。 | Bai Jiayue : Il est sous la table.
+陈天中: 这只小猫真漂亮！ | Chen Tianzhong : Ce petit chat est vraiment beau !
+TIP Un classificateur peut se combiner directement avec un démonstratif : 这只, 这个.
+V 房间 | fángjiān | n. | pièce, chambre
+V 外 | wài | n. | dehors, à l'extérieur
+V 只 | zhī | cl. | classificateur (certains animaux)
+V 小 | xiǎo | adj. | petit
+V 猫 | māo | n. | chat
+V 没 | méi | adv. | ne… pas (passé), pas encore
+V 看见 | kànjiàn | v. | voir, apercevoir
+V 桌子 | zhuōzi | n. | table, bureau
+V 下 | xià | n. | dessous, en bas
+V 漂亮 | piàoliang | adj. | joli, beau
+V 学校 | xuéxiào | n. | école
+V 书店 | shūdiàn | n. | librairie
+V 医生 | yīshēng | n. | médecin
+## Texte 2 | En classe, après le cours, Bai Jiayue appelle Li Wen.
+白家月: 我们在哪儿见呢？ | Bai Jiayue : Où est-ce qu'on se retrouve ?
+李文: 在学校书店前见吧。 | Li Wen : Devant la librairie de l'école.
+白家月: 好的。下午两点你能到吗？ | Bai Jiayue : D'accord. Tu peux être là à 14 h ?
+李文: 我能到。我在学校吃午饭。 | Li Wen : Oui. Je déjeune à l'école.
+V 在 | zài | prép. | à, dans (lieu de l'action)
+V 前 | qián | n. | devant, avant
+V 能 | néng | v. modal | pouvoir, être en mesure de
+V 到 | dào | v. | arriver
+V 午饭 | wǔfàn | n. | déjeuner
+## Texte 3 | À l'hôpital, Liu Ming discute avec son collègue, le docteur Hu.
+刘明: 小胡，还没吃饭呢？ | Liu Ming : Xiao Hu, tu n'as pas encore mangé ?
+胡医生: 没吃呢。 | Dr Hu : Pas encore.
+刘明: 大医院病人多，医生非常忙。 | Liu Ming : Dans les grands hôpitaux, il y a beaucoup de patients, les médecins sont très occupés.
+胡医生: 是的。我爸爸也在医院工作，他也非常忙。 | Dr Hu : Oui. Mon père travaille aussi à l'hôpital, il est aussi très occupé.
+刘明: 你家有两个医生？ | Liu Ming : Il y a donc deux médecins dans ta famille ?
+胡医生: 对。 | Dr Hu : Oui.
+TIP « 小 + nom de famille » est une façon affectueuse d'appeler quelqu'un de plus jeune que soi.
+V 饭 | fàn | n. | repas
+V 大 | dà | adj. | grand
+V 病人 | bìngrén | n. | patient, malade
+V 多 | duō | adj. | nombreux, beaucoup
+V 工作 | gōngzuò | v. | travailler
+V 胡医生 | Hú yīshēng | nom propre | docteur Hu
+G Les mots de position | Les mots de position de ce livre : 上 (sur), 下 (sous), 里 (dans), 外 (dehors), 前 (devant), 后 (derrière/après), 外边 (à l'extérieur). Ils se placent APRÈS le nom : 桌子上 = sur la table, 房间里 = dans la pièce.
+EX 房间里有一只小猫。 | Il y a un petit chat dans la pièce.
+EX 我们去书店外吧。 | Allons devant (à l'extérieur de) la librairie.
+EX 小雪的手机在桌子上呢。 | Le portable de Xiaoxue est sur la table.
+G La préposition « 在 » | « 在 » + lieu se place AVANT le verbe pour dire où l'action se passe : Sujet + 在 + lieu + verbe. (En français on met le lieu à la fin, en chinois avant le verbe !)
+EX 我在学校吃午饭。 | Je déjeune à l'école.
+EX 他爸爸在医院工作。 | Son père travaille à l'hôpital.
+EX 你在哪儿买菜？ | Où achètes-tu les légumes ?
+G Le verbe modal « 能 » | « 能 » devant un verbe exprime la capacité, la possibilité ou le fait que les conditions permettent de faire quelque chose. Négation : 不能.
+EX 下午两点你能到吗？ | Tu peux arriver à 14 h ?
+EX 爸爸能去。 | Papa peut y aller.
+EX 我不能去学校吃午饭。 | Je ne peux pas aller déjeuner à l'école.
+XL 白家月和李文在___见。 | 书店前 | 家里/书店里/书店前 | « 在学校书店前见吧。»
+XL 李文下午___能到。 | 两点 | 两点/两点半/三点后 | « 下午两点你能到吗？— 我能到。»
+XL 大医院里___。 | 病人多 | 人很少/病人多/医生不忙 | « 大医院病人多，医生非常忙。»
+XL 胡医生家有___医生。 | 两个 | 一个/两个/三个 | Lui et son père sont médecins.
+XQ 胡医生的爸爸在哪儿工作？ | 他爸爸在医院工作。
+XQ 胡医生的爸爸工作忙吗？ | 他爸爸工作非常忙。
+XB 哪儿/在/桌子/书店/能
+X 胡医生的爸爸___医院工作。 | 在 | 在 + lieu + verbe.
+X 我下午两点___到学校。 | 能 | 能 = pouvoir.
+X 陈天中：小猫在___呢？ | 哪儿 | 在哪儿 = où.
+X 白家月：小猫在___下。 | 桌子 | 桌子下 = sous la table.
+X 白家月：我们去___，你去吗？ 李文：我现在有事，不能去。 | 书店 | Un lieu : la librairie.
+XP 医生___。 (photo : deux médecins) | 医生非常忙。
+XP 我们在___见吧。 (photo : une librairie) | 我们在书店见吧。
+XP 你___去___吗？ (photo : supermarché) | 你想去超市买菜吗？
+XP 桌子上___。 (photo : un chat sur la table) | 桌子上有一只小猫。

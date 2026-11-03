@@ -1,0 +1,30 @@
+@ 12
+WR Quelle syllabe n'a pas le même ton que les autres ? | A shuǐ/B shuì/C hěn | B
+WR Quel mot n'a pas les mêmes tons que les autres ? | A wèntí/B kànbìng/C diànshì | A
+WR Quel mot n'a pas les mêmes tons que les autres ? | A gāoxìng/B fēicháng/C zhīdào | B
+WR Quel mot n'a pas les mêmes tons que les autres ? | A qù chāoshì/B zài shāngdiàn/C duìbuqǐ | C
+WR Quel mot correspond à « míngzi » ? | A 名字/B 老师/C 孩子 | A
+WR Quel mot correspond à « Zhōngguó » ? | A 谢谢/B 中国/C 你好 | B
+WR Quel mot correspond à « lǎoshī » ? | A 孩子/B 名字/C 老师 | C
+WR Quel mot correspond à « háizi » ? | A 孩子/B 中国/C 谢谢 | A
+WR Quel mot correspond à « xièxie » ? | A 名字/B 谢谢/C 老师 | B
+PRON Écriture des caractères (5) | Traits complexes : 横折钩 héngzhégōu, 竖弯钩 shùwāngōu, 横折弯钩 héngzhéwāngōu, 竖折折钩 shùzhézhégōu. Nouvelle règle : « d'abord le milieu, puis les deux côtés » (水, 小).
+HZ ㇆ | 横折钩 héngzhégōu : horizontal, vers le bas, crochet
+HZ ㇟ | 竖弯钩 shùwāngōu : vertical, courbe, crochet
+HZ ㇈ | 横折弯钩 héngzhéwāngōu : horizontal, brisé, courbe, crochet
+HZ ㇉ | 竖折折钩 shùzhézhégōu : vertical, brisé deux fois, crochet
+HR 先中间后两边 | Le milieu d'abord, puis les deux côtés | 水
+HC 书 几 吃 妈 少
+WB A Une fille qui lit/B Une rue sous la neige/C Des gens devant la télé/D Une fille malade au lit
+WQ 我女儿生病了。 | D | Image D : une fille malade au lit.
+WQ 今天天不太好，下雪了。 | B | Image B : une rue sous la neige.
+WQ 12:00了，你们怎么还在看电视？ | C | Image C : des gens devant la télé.
+WB A 热水。/B 我病了。/C 对。/D 好的，谢谢！
+WQ 你怎么了？ | B | – Qu'est-ce qui t'arrive ? – Je suis malade.
+WQ 你想喝点儿什么？ | A | – Tu veux boire quelque chose ? – De l'eau chaude.
+WQ 你开车了？ | C | – Tu es venu en voiture ? – Oui.
+WB A 冷/B 生病/C 名字
+WQ 他（ ）了，没来上班。 | B | 生病了 = être tombé malade.
+WQ 男：外边雨大吗？ 女：很大，我觉得有点儿（ ）。 | A | 有点儿冷 = un peu froid.
+WR 昨天的天气很好，我和朋友们去外边玩了。 ★ 说话人觉得昨天： | A 天气好/B 雨不大/C 有点儿冷 | A
+WR 老张去看病，医生说他要吃三天药。 ★ 医生说老张： | A 要吃药/B 要多睡觉/C 要多喝水 | A

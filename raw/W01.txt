@@ -1,0 +1,27 @@
+@ 1
+PRON Les syllabes chinoises | En chinois, un caractère correspond en général à une syllabe. Une syllabe = initiale (声母, consonne de début) + finale (韵母, voyelle(s)) + ton (声调). Certaines syllabes n'ont pas d'initiale (ex. ā 阿).
+PEX 八 | b + a + 1er ton = bā
+PEX 拔 | b + a + 2e ton = bá
+PEX 把 | b + a + 3e ton = bǎ
+PEX 爸 | b + a + 4e ton = bà
+PEX 茶 | chá
+PEX 狗 | gǒu
+PEX 猫 | māo
+PEX 菜 | cài
+PRON Initiales et finales (1) | Initiales : b p m f / d t n l / g k h. Finales : a o e i u ü er / ai ei ao ou / an en / ang eng ong. Toutes les combinaisons n'existent pas : seules n et l se combinent avec ü ; b, p, f ne vont pas avec e ; f, g, k, h ne vont pas avec i. « er » ne prend jamais d'initiale.
+PRON Les 4 tons | Il y a 4 tons de base : 1er ton ¯ (haut et plat, 55), 2e ton ´ (montant, 35), 3e ton ˇ (descend puis remonte, 214), 4e ton ` (descendant, 51). Le signe se place sur la voyelle principale. Un ton différent = un sens différent ! (mā 妈 maman, má 麻 chanvre, mǎ 马 cheval, mà 骂 gronder)
+PEX 口 | kǒu
+PEX 饭 | fàn
+PEX 喝 | hē
+PEX 二 | èr
+PEX 朋友 | péngyou
+PEX 面包 | miànbāo
+PEX 妹妹 | mèimei
+PEX 房间 | fángjiān
+PEX 白天 | báitiān
+PEX 饭店 | fàndiàn
+PEX 电脑 | diànnǎo
+WB A 你好！ — 你好！/B 你好！ — 你们好！/C 谢谢！ — 不客气！
+WQ Un homme salue une femme au comptoir. | A | Entre deux personnes : 你好 ! — 你好 !
+WQ Quelqu'un aide une personne tombée sur la glace, elle remercie. | C | 谢谢 ! — 不客气 ! (merci / de rien)
+WQ Un professeur salue un groupe d'élèves. | B | Pour un groupe on dit 你们好.

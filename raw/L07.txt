@@ -1,0 +1,106 @@
+# 7 | 我晚上六点半下班 | Je finis le travail à 18 h 30
+OBJ Comprendre et dire à quel moment se passe une action.
+OBJ Utiliser la particule « 吧 » (1) pour proposer, suggérer, demander.
+OBJ Utiliser la particule « 呢 » (2) pour confirmer un fait.
+OBJ Placer correctement les adverbes et les expressions de temps (devant le verbe).
+## Texte 1 | Bai Jiayue et Annie se parlent au téléphone.
+白家月: 现在几点？ | Bai Jiayue : Quelle heure est-il ?
+安妮: 早上八点四十。 | Annie : 8 h 40 du matin.
+白家月: 我上午十点十分有课。 | Bai Jiayue : J'ai cours à 10 h 10.
+安妮: 好的，我们下午两点见吧。 | Annie : D'accord, on se voit à 14 h alors.
+V 现在 | xiànzài | n. | maintenant
+V 点 | diǎn | cl. | heure (8点 = 8 h)
+V 早上 | zǎoshang | n. | (tôt le) matin
+V 上午 | shàngwǔ | n. | matinée
+V 分 | fēn | cl. | minute
+V 课 | kè | n. | cours, leçon
+V 下午 | xiàwǔ | n. | après-midi
+V 见 | jiàn | v. | voir, rencontrer
+V 吧 | ba | part. | particule de suggestion / proposition
+V 中午 | zhōngwǔ | n. | midi
+## Texte 2 | Sur le campus, Li Wen croise Bai Jiayue.
+李文: 下午我想去电影院看电影，你去吗？ | Li Wen : Cet après-midi, je veux aller voir un film au cinéma, tu viens ?
+白家月: 我不想去，下午还有事。 | Bai Jiayue : Non merci, j'ai encore des choses à faire cet après-midi.
+李文: 好的。明天呢？ | Li Wen : D'accord. Et demain ?
+白家月: 我明天下午两点还上课呢，四点半下课。 | Bai Jiayue : Demain à 14 h j'ai encore cours, je finis à 16 h 30.
+V 电影院 | diànyǐngyuàn | n. | cinéma (salle)
+V 看 | kàn | v. | regarder, voir, lire
+V 电影 | diànyǐng | n. | film
+V 事 | shì | n. | chose (à faire), affaire
+V 上课 | shàngkè | v. | aller en cours, avoir cours
+V 呢 | ne | part. | particule qui confirme un fait
+V 半 | bàn | num. | demi, et demie
+V 下课 | xiàkè | v. | finir le cours
+## Texte 3 | Wang Yixue appelle Liu Ming depuis le bureau.
+王一雪: 喂，你在哪儿呢？ | Wang Yixue : Allô, tu es où ?
+刘明: 我在家里呢。 | Liu Ming : Je suis à la maison.
+王一雪: 我晚上六点半下班。 | Wang Yixue : Je finis le travail à 18 h 30.
+刘明: 我八点去医院上班。 | Liu Ming : Moi, je vais travailler à l'hôpital à 20 h.
+王一雪: 好的，你去店里买些菜吧。 | Wang Yixue : D'accord, va acheter des légumes au magasin.
+刘明: 好，我十分钟后去。 | Liu Ming : D'accord, j'y vais dans dix minutes.
+TIP Quand « 里 » indique un lieu après un nom (家里, 超市里), il se prononce au ton neutre « li ». Dans « 里边 », il se prononce au 3e ton « lǐ ».
+V 在 | zài | v. | être (à un endroit)
+V 家 | jiā | n. | maison, chez soi
+V 里 | li / lǐ | n. | dans, à l'intérieur
+V 晚上 | wǎnshang | n. | soir
+V 医院 | yīyuàn | n. | hôpital
+V 上班 | shàngbān | v. | aller au travail
+V 店 | diàn | n. | magasin, boutique
+V 菜 | cài | n. | légumes
+V 分钟 | fēnzhōng | cl. | minute (durée)
+V 后 | hòu | n. | après, plus tard
+G L'expression du temps (2) | (1) « 点 » pour les heures pleines, « 分 » pour les minutes. « 分 » peut s'omettre, sauf pour « 十分 » (pile 10 minutes). Pour moins de 10 minutes, on dit « 零 » : 22:05 = 二十二点零五. 9:00 = 九点, 20:00 = 二十点, 15:40 = 十五点四十, 21:10 = 二十一点十分. (2) Les moments de la journée 早上, 上午, 中午, 下午, 晚上 se placent devant l'heure : 下午两点半 (14 h 30), 晚上九点十分 (21 h 10). 半 = et demie.
+EX 上午 | le matin
+EX 中午十二点 | midi
+EX 下午两点半 | 14 h 30
+EX 晚上九点十分 | 21 h 10
+G La particule « 吧 » (1) | « 吧 » (ton neutre, ba) en fin de phrase exprime une suggestion, une proposition, un conseil ou une demande polie (« …, d'accord ? », « allons… »).
+EX A：我们下午三点见吧。 B：好的。 | – On se voit à 15 h ? – D'accord.
+EX A：你去超市买吧。 B：超市没有。 | – Va l'acheter au supermarché. – Le supermarché n'en a pas.
+EX A：我们去西安饭店吃晚饭吧。 B：好的。 | – Allons dîner au restaurant Xi'an. – D'accord.
+G Place des adverbes et des expressions de temps | En chinois, les adverbes (不, 很, 也, 还…) et les expressions de temps (上午十点半…) se placent avant le verbe ou l'adjectif. Le temps se met soit avant le sujet, soit juste après : 我上午十点有课 / 上午十点我有课 — jamais à la fin comme en français !
+EX 我不想去。 | Je ne veux pas y aller.
+EX 妹妹很高兴。 | Ma petite sœur est très contente.
+EX 她上午十点半上课。 | Elle a cours à 10 h 30.
+G La particule « 呢 » (2) | Ici, « 呢 » à la fin d'une phrase affirmative confirme un fait (souvent une action en cours ou une situation actuelle). Structure : ……呢。
+EX 我明天下午两点还上课呢。 | Demain à 14 h, j'ai encore cours (tu vois).
+EX 妹妹会做两个菜呢。 | Ma petite sœur sait faire deux plats, quand même !
+EX 李文晚上还有事呢。 | Li Wen a encore quelque chose à faire ce soir.
+XL 李文下午想去___。 | 看电影 | 超市/看电影/西安饭店 | « 下午我想去电影院看电影。»
+XL 白家月明天下午还___。 | 上课 | 上课/有事/去超市 | « 我明天下午两点还上课呢。»
+XL 刘明___呢。 | 在家里 | 上班/买菜/在家里 | « 我在家里呢。»
+XL 王一雪___下班。 | 六点半 | 五点/六点/六点半 | « 我晚上六点半下班。»
+XQ 刘明晚上还去做什么？ | 他晚上八点去医院上班。
+XQ 刘明十分钟后去做什么？ | 他十分钟后去店里买菜。
+XC A：我们___点见？ B：我们下午两点见吧。 | 几 | 几点 = à quelle heure.
+XC A：你上午去上课，是吗？ B：对，我___有课。 | 上午 | Le temps se place avant le verbe.
+XC A：我们现在去超市吧。 B：对不起，我___有课。 | 现在 | 现在 = maintenant (avant le verbe).
+XB 医院/十二点半/课/现在/见
+X 她星期天没有___。 | 课 | 没有课 = ne pas avoir cours.
+X 我们中午___下课。 | 十二点半 | 中午十二点半 = 12 h 30.
+X 我们下课，下午两点___吧。 | 见 | 两点见吧 = on se voit à 14 h.
+X 白家月：对不起，我___有事呢，你去吧。 | 现在 | Adverbe de temps avant le verbe.
+X 王一雪：你今天晚上几点去___上班？ 刘明：晚上八点。 | 医院 | 刘明 travaille à l'hôpital.
+XP 我们上午___吧。 (horloge : 10 h 10) | 我们上午十点十分见吧。
+XP 我今天晚上___还___呢。 (horloge : 9 h) | 我今天晚上九点还有课呢。
+XP 妹妹___有课。 (horloge : 12 h 10) | 妹妹中午十二点十分有课。
+PP 现在12点。 | Il est midi.
+PP 早上好！ | Bonjour (le matin) !
+PP 晚上好！ | Bonsoir !
+PP 我们中午12点吃饭。 | Nous mangeons à midi.
+PP 我下午5点去超市。 | Je vais au supermarché à 17 h.
+PP 你几点上课？ — 我十点十分上课。 | À quelle heure as-tu cours ? — À 10 h 10.
+PP 你几点下课？ — 我十二点下课。 | À quelle heure finis-tu ? — À midi.
+PP 明天见！ | À demain !
+PP 我们几点见？ | À quelle heure on se voit ?
+PP 你早点儿休息吧。 | Repose-toi tôt.
+PP 我们现在走吧。 | Partons maintenant.
+PP 星期天你有事吗？ — 星期天我没有事。 | Tu es occupé dimanche ? — Non, je n'ai rien.
+PP 我在吃饭呢。 | Je suis en train de manger.
+PP 外边下雨呢。 | Il pleut dehors.
+PP 你在哪儿？ — 我在家。 | Où es-tu ? — À la maison.
+PP 他早上八点上班。 | Il commence le travail à 8 h.
+PP 他去手机店买手机。 | Il va acheter un portable au magasin de téléphones.
+PP 下课后，我们去吃饭。 | Après le cours, nous allons manger.
+PP 休息十分钟。 | Pause de dix minutes.
+PP 十分钟后见。 | On se voit dans dix minutes.

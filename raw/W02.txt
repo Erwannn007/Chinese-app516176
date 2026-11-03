@@ -1,0 +1,23 @@
+@ 2
+PRON Initiales et finales (2) | Les initiales j, q, x se combinent seulement avec i, ü et les finales qui commencent par i ou ü (ia, ie, iao, iou, ian, in, iang, ing, iong, üe, üan, ün) — jamais avec a, u directement.
+PEX 鸡 | jī
+PEX 七 | qī
+PEX 写 | xiě
+PEX 请 | qǐng
+PEX 再见 | zàijiàn
+PEX 谢谢 | xièxie
+PEX 星期 | xīngqī
+PEX 高兴 | gāoxìng
+PRON Règles d'écriture du pinyin (1) | (1) Seules, les finales i, u, ü s'écrivent yi, wu, yu (雨 yǔ, 五 wǔ, 一 yī, 椅子 yǐzi). (2) Après j, q, x, le ü perd ses deux points : ju, qu, xu (mais on prononce toujours ü !). (3) Seule, la finale iou s'écrit you (有 yǒu, 朋友 péngyou). (4) Après une initiale, iou s'écrit iu et le ton se met sur u : jiǔ 九, liù 六, niúnǎi 牛奶, xiūxi 休息.
+PEX 雨 | yǔ
+PEX 五 | wǔ
+PEX 椅子 | yǐzi
+PEX 九 | jiǔ
+PEX 朋友 | péngyou
+PEX 牛奶 | niúnǎi
+PEX 休息 | xiūxi
+WB A 老师，再见！ — 再见！/B 对不起。 — 没关系。/C 很高兴认识你。 — 认识你我也很高兴。/D 大家好，我叫白家月。 — 白家月，你好。
+WQ Deux hommes se serrent la main pour la première fois. | C | Première rencontre : 很高兴认识你。
+WQ Des élèves quittent leur professeure. | A | Au revoir : 老师，再见！
+WQ Une étudiante se présente devant la classe. | D | Se présenter : 我叫……
+WQ Un garçon a bousculé une fille et s'excuse. | B | 对不起 — 没关系 (pardon / pas grave).

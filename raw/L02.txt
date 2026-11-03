@@ -1,0 +1,54 @@
+# 2 | 我叫李文 | Je m'appelle Li Wen
+OBJ Comprendre une présentation et se présenter avec un nom chinois.
+OBJ S'excuser avec « 对不起 » et répondre avec « 没关系 ».
+OBJ Maîtriser l'ordre de base des mots en chinois.
+OBJ Comprendre la structure des noms chinois.
+## Texte 1 | En classe, Wang Yifei fait connaissance avec les élèves.
+王一飞: 请问，你叫什么名字？ | Wang Yifei : Excuse-moi, comment t'appelles-tu ?
+陈天中: 我叫陈天中。 | Chen Tianzhong : Je m'appelle Chen Tianzhong.
+TIP « 请问 » est une formule polie pour demander à quelqu'un de répondre à une question.
+V 请问 | qǐngwèn | v. | excusez-moi (pour poser une question)
+V 你 | nǐ | pron. | tu, toi
+V 叫 | jiào | v. | s'appeler
+V 什么 | shénme | pron. | quoi, quel
+V 名字 | míngzi | n. | nom, prénom
+V 我 | wǒ | pron. | je, moi
+## Texte 2 | Sur le campus, Chen Tianzhong salue Bai Jiayue mais la prend pour quelqu'un d'autre.
+陈天中: 你好，安妮！ | Chen Tianzhong : Salut, Annie !
+白家月: 你好，陈天中！我不是安妮，我是白家月。 | Bai Jiayue : Salut, Chen Tianzhong ! Je ne suis pas Annie, je suis Bai Jiayue.
+陈天中: 对不起！ | Chen Tianzhong : Pardon !
+白家月: 没关系！ | Bai Jiayue : Ce n'est pas grave !
+TIP À l'oral, on dit aussi « 没事 » ou « 没事没事 ».
+V 不 | bù | adv. | ne… pas, non
+V 是 | shì | v. | être
+V 对不起 | duìbuqǐ | v. | pardon, désolé
+V 没关系 | méi guānxi | | ce n'est pas grave
+V 没事 | méishì | v. | ce n'est rien
+## Texte 3 | Sur le campus, Li Wen et Bai Jiayue se rencontrent pour la première fois.
+李文: 你好！我叫李文。 | Li Wen : Bonjour ! Je m'appelle Li Wen.
+白家月: 你好！我叫白家月。 | Bai Jiayue : Bonjour ! Je m'appelle Bai Jiayue.
+李文: 很高兴认识你。 | Li Wen : Enchanté de te connaître.
+白家月: 认识你我也很高兴。 | Bai Jiayue : Moi aussi, je suis content(e) de te connaître.
+TIP Nom chinois = nom de famille + prénom (ex. 李 + 文).
+V 很 | hěn | adv. | très
+V 高兴 | gāoxìng | adj. | content, heureux
+V 认识 | rènshi | v. | connaître, faire la connaissance de
+V 也 | yě | adv. | aussi
+G L'ordre de base des mots | L'ordre de base en chinois est : Sujet + Verbe (prédicat) + Objet. Exemple : 我 (sujet) 叫 (verbe) 陈天中 (objet).
+EX 你叫什么名字？ | Comment t'appelles-tu ?
+EX 我叫白家月。 | Je m'appelle Bai Jiayue.
+EX 我是学生。 | Je suis étudiant(e).
+TW 七加一，再减一，加完减完等于几？加完减完还是七。 | Sept plus un, puis moins un : ça fait combien ? Après l'addition et la soustraction, c'est toujours sept.
+PP 你是学生。 | Tu es étudiant.
+PP 你是学生吗？ | Es-tu étudiant ?
+PP 你是老师吗？ | Êtes-vous professeur ?
+PP 他不是学生。 | Il n'est pas étudiant.
+PP 她是老师。 | Elle est professeure.
+PP 我不是白家月。 | Je ne suis pas Bai Jiayue.
+PP 我叫贝拉。 | Je m'appelle Bella.
+PP 你好吗？ — 我很好。 | Comment vas-tu ? — Je vais très bien.
+PP 我们很高兴。 | Nous sommes très contents.
+PP 很高兴认识你！ | Très heureux de te connaître !
+PP 你认识他吗？ — 我不认识他。 | Tu le connais ? — Je ne le connais pas.
+PP 你也认识她吗？ | Tu la connais aussi ?
+PP 我也是学生。 | Je suis aussi étudiant.

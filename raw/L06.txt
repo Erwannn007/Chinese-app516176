@@ -1,0 +1,94 @@
+# 6 | 你的手机号是多少？ | Quel est ton numéro de portable ?
+OBJ Comprendre un numéro de portable et l'utiliser pour appeler.
+OBJ Utiliser deux groupes verbaux (ou plus) pour exprimer le but ou la manière d'une action.
+OBJ Maîtriser le verbe modal « 想 ».
+OBJ Demander la manière de faire avec « 怎么 ».
+## Texte 1 | Sur le campus, Li Wen demande son numéro de portable à Bai Jiayue.
+李文: 家月，你的手机号是多少？ | Li Wen : Jiayue, quel est ton numéro de portable ?
+白家月: 我的手机号是+33 601493190。 | Bai Jiayue : Mon numéro, c'est le +33 601493190.
+李文: 我的手机号是+86 13552721160。 | Li Wen : Le mien, c'est le +86 13552721160.
+白家月: 好的。 | Bai Jiayue : D'accord.
+TIP Aujourd'hui, on utilise parfois « 电话 » pour parler du portable.
+TIP Un numéro de téléphone se lit chiffre par chiffre, et le chiffre « 1 » se prononce « yāo ».
+V 手机 | shǒujī | n. | téléphone portable
+V 电话 | diànhuà | n. | téléphone ; appel
+V 号 | hào | n. | numéro
+V 晚饭 | wǎnfàn | n. | dîner
+V 超市 | chāoshì | n. | supermarché
+V 牛奶 | niúnǎi | n. | lait
+V 出租车 | chūzūchē | n. | taxi
+V 米饭 | mǐfàn | n. | riz (cuit)
+## Texte 2 | En classe, après le cours, Bai Jiayue et Chen Tianzhong discutent.
+陈天中: 家月，明天你去哪儿？ | Chen Tianzhong : Jiayue, où vas-tu demain ?
+白家月: 我想去超市买东西。 | Bai Jiayue : Je voudrais aller au supermarché faire des courses.
+陈天中: 你去超市买什么？ | Chen Tianzhong : Qu'est-ce que tu vas acheter au supermarché ?
+白家月: 我想买些牛奶。 | Bai Jiayue : Je voudrais acheter du lait.
+V 明天 | míngtiān | n. | demain
+V 去 | qù | v. | aller
+V 哪儿 | nǎr | pron. | où
+V 想 | xiǎng | v. modal | vouloir, avoir envie de
+V 买 | mǎi | v. | acheter
+V 东西 | dōngxi | n. | chose, affaires
+V 些 | xiē | cl. | quelques, un peu
+V 现在 | xiànzài | n. | maintenant
+## Texte 3 | À la maison, la famille de Wang Yixue discute du dîner du week-end.
+王一雪: 星期天我们去哪儿吃晚饭？ | Wang Yixue : Dimanche, où allons-nous dîner ?
+刘明: 我还想去西安饭店。 | Liu Ming : J'aimerais retourner au restaurant Xi'an.
+刘小雪: 那边的包子非常好吃，我想吃包子。 | Liu Xiaoxue : Les baozi là-bas sont délicieux, je veux manger des baozi.
+刘小明: 妈妈，我想吃米饭，不想吃包子。 | Liu Xiaoming : Maman, je veux du riz, pas de baozi.
+王一雪: 好的。我们怎么去？ | Wang Yixue : D'accord. Comment on y va ?
+刘明: 坐出租车去。 | Liu Ming : En taxi.
+V 吃 | chī | v. | manger
+V 那边 | nàbiān | pron. | là-bas
+V 包子 | bāozi | n. | baozi (petit pain farci à la vapeur)
+V 非常 | fēicháng | adv. | extrêmement, très
+V 好吃 | hǎochī | adj. | bon (à manger), délicieux
+V 怎么 | zěnme | pron. | comment
+V 坐 | zuò | v. | prendre (un moyen de transport) ; s'asseoir
+V 西安饭店 | Xī'ān Fàndiàn | nom propre | restaurant Xi'an
+V 早饭 | zǎofàn | n. | petit-déjeuner
+V 午饭 | wǔfàn | n. | déjeuner
+G Le verbe modal « 想 » | « 想 » devant un verbe exprime un souhait ou une intention (vouloir, avoir envie de). Négation : 不想.
+EX 我想去超市。 | Je veux aller au supermarché.
+EX 我哥哥不想休息。 | Mon grand frère ne veut pas se reposer.
+G Les phrases à verbes en série (1) | Le prédicat contient deux groupes verbaux (ou plus) à la suite, dans l'ordre logique. Deux sens : (1) le but de l'action : aller quelque part + pour faire quelque chose ; (2) la manière : 坐出租车 (moyen) + 去 (action).
+EX 我想去超市买东西。 | Je veux aller au supermarché (pour) faire des courses. (but)
+EX 我们去西安饭店吃晚饭。 | Nous allons dîner au restaurant Xi'an. (but)
+EX 我们坐出租车去西安饭店。 | Nous allons au restaurant Xi'an en taxi. (manière)
+EX 她坐出租车去超市。 | Elle va au supermarché en taxi. (manière)
+G Le pronom interrogatif « 怎么 » | « 怎么 » se place devant un verbe pour demander la manière ou le moyen (comment ?).
+EX 我们怎么去？ | Comment on y va ?
+EX 她怎么去超市？ | Comment va-t-elle au supermarché ?
+XL 白家月___想去超市。 | 明天 | 现在/今天/明天 | « 明天你去哪儿？— 我想去超市买东西。»
+XL 白家月想买___。 | 牛奶 | 菜/牛奶/面条儿和牛奶 | « 我想买些牛奶。»
+XL 王一雪一家人想去西安饭店___。 | 吃晚饭 | 吃早饭/吃午饭/吃晚饭 | « 星期天我们去哪儿吃晚饭？»
+XL 刘小明不想吃___。 | 包子 | 米饭/包子/面条儿 | « 我想吃米饭，不想吃包子。»
+XQ 西安饭店的包子好吃吗？ | 西安饭店的包子非常好吃。
+XQ 他们怎么去西安饭店？ | 他们坐出租车去西安饭店。
+XB 多少/买/米饭/坐/去
+X 我想___超市买牛奶。 | 去 | Verbes en série : 去超市 + 买牛奶.
+X 我想去超市___牛奶。 | 买 | 买 = acheter.
+X 我们___出租车去西安饭店吃晚饭。 | 坐 | 坐出租车 = prendre le taxi (manière).
+X 妈妈：你想吃什么？ 孩子：我想吃___。 | 米饭 | Un aliment : 米饭 (riz).
+X 老师：你的手机号是___？ 学生：我的手机号是13126975002。 | 多少 | 手机号是多少 ? = quel est le numéro ?
+XP 她的___是多少？ (photo : un portable) | 她的手机号是多少？
+XP 我想___超市___牛奶。 (photo : supermarché) | 我想去超市买牛奶。
+XP 王一雪想___去超市。 (photo : un taxi) | 王一雪想坐出租车去超市。
+XP 这些包子非常___。 (photo : des baozi) | 这些包子非常好吃。
+PP 你的电话号是多少？ | Quel est ton numéro de téléphone ?
+PP 我的电话号是65732780。 | Mon numéro, c'est le 65732780.
+PP 我喜欢我的新手机。 | J'aime mon nouveau portable.
+PP 这是哪儿？ — 这是北京。 | Où est-ce ? — C'est Pékin.
+PP 明天我休息，不工作。 | Demain je suis en repos, je ne travaille pas.
+PP 他去上海。 | Il va à Shanghai.
+PP 妈妈去哪儿？ — 妈妈去超市。 | Où va maman ? — Au supermarché.
+PP 她去超市买牛奶。 | Elle va au supermarché acheter du lait.
+PP 牛奶很好喝。 | Le lait est très bon.
+PP 买一些苹果。 | Acheter quelques pommes.
+PP 你想去哪儿？ | Où veux-tu aller ?
+PP 晚饭你想吃什么？ — 晚饭我想吃饺子。 | Que veux-tu manger au dîner ? — Des jiaozi.
+PP 那边有很多人。 | Il y a beaucoup de monde là-bas.
+PP 法国菜很好吃。 | La cuisine française est délicieuse.
+PP 我们怎么去长城？ — 我们打车去。 | Comment va-t-on à la Grande Muraille ? — En taxi.
+PP 我现在叫出租车。 | J'appelle un taxi maintenant.
+PP 你想吃面条儿吗？ | Tu veux manger des nouilles ?

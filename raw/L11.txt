@@ -1,0 +1,78 @@
+# 11 | 我读大学呢 | Je suis à l'université
+OBJ Exprimer une action en cours avec trois structures.
+OBJ Poser une question affirmative-négative (X不X).
+OBJ Utiliser le verbe modal « 要 » (vouloir, avoir l'intention de).
+## Texte 1 | Sur la route, Li Wen cherche le restaurant ; Wang Yifei l'appelle.
+王一飞: 喂，李文，你什么时候能到饭店？ | Wang Yifei : Allô, Li Wen, quand peux-tu arriver au restaurant ?
+李文: 还不知道，正在找呢。它是不是在超市后边？ | Li Wen : Je ne sais pas encore, je cherche. Il est derrière le supermarché, non ?
+王一飞: 是的。你开车没开车？ | Wang Yifei : Oui. Tu es en voiture ou pas ?
+李文: 我没开车，坐车呢。 | Li Wen : Je ne conduis pas, je suis passager (dans un véhicule).
+V 时候 | shíhou | n. | moment
+V 饭店 | fàndiàn | n. | restaurant
+V 知道 | zhīdào | v. | savoir
+V 正在 | zhèngzài | adv. | être en train de
+V 找 | zhǎo | v. | chercher
+V 开车 | kāichē | v. | conduire
+V 车 | chē | n. | véhicule, voiture
+V 睡觉 | shuìjiào | v. | dormir
+V 问 | wèn | v. | demander
+V 大学生 | dàxuéshēng | n. | étudiant (université)
+## Texte 2 | Au restaurant, Wang Yifei et Li Wen discutent.
+王一飞: 你还在读大学吗？ | Wang Yifei : Tu es toujours à l'université ?
+李文: 对，我读大学呢，还是大学生。 | Li Wen : Oui, je suis à l'université, je suis encore étudiant.
+王一飞: 你们学习忙不忙？ | Wang Yifei : Vos études sont chargées ?
+李文: 非常忙，我学医，我们的课很多。 | Li Wen : Très. J'étudie la médecine, on a beaucoup de cours.
+V 在 | zài | adv. | être en train de (action en cours)
+V 读 | dú | v. | étudier (à l'école), lire
+V 大学 | dàxué | n. | université
+V 学 | xué | v. | étudier, apprendre
+V 医 | yī | n. | médecine
+## Texte 3 | Samedi matin, Liu Ming doit aller travailler à l'hôpital ; avant de partir, il parle avec sa fille.
+刘明: 弟弟起床没起床呢？ | Liu Ming : Ton petit frère est levé ?
+刘小雪: 没起床呢，还在睡觉。 | Liu Xiaoxue : Pas encore, il dort toujours.
+刘明: 还睡呢？他今天去不去那里？ | Liu Ming : Il dort encore ? Il y va aujourd'hui ou pas ?
+刘小雪: 去哪里？ | Liu Xiaoxue : Où ça ?
+刘明: 去超市。 | Liu Ming : Au supermarché.
+刘小雪: 我昨天问他，他对我说，他不去，他今天要和小朋友玩。 | Liu Xiaoxue : Je lui ai demandé hier, il m'a dit qu'il n'y allait pas ; aujourd'hui il veut jouer avec ses copains.
+V 弟弟 | dìdi | n. | petit frère
+V 起床 | qǐchuáng | v. | se lever
+V 睡 | shuì | v. | dormir
+V 那里 | nàli | pron. | là-bas
+V 哪里 | nǎli | pron. | où
+V 昨天 | zuótiān | n. | hier
+V 对 | duì | prép. | à, envers (对我说 = me dire)
+V 说 | shuō | v. | dire, parler
+V 要 | yào | v. modal | vouloir, avoir l'intention de, aller (faire)
+V 小朋友 | xiǎopéngyǒu | n. | enfant, petit copain
+G La question affirmative-négative | Structure : X + 不/没 + X, où X est un verbe ou un adjectif (pas de 吗 !). Pour un verbe : 不 (présent/futur) ou 没 (passé) ; pour un adjectif : 不.
+EX 它是不是在超市后边？ | Il est derrière le supermarché ou pas ?
+EX 你去没去学校？ | Tu es allé à l'école ou pas ?
+EX 这件衣服好看不好看？ | Ce vêtement est joli ou pas ?
+EX A：他去哪儿了？你知道不知道？ B：我不知道。 | – Où est-il allé ? Tu sais ? – Je ne sais pas.
+EX A：这件衣服贵不贵？ B：不贵。 | – Ce vêtement est cher ? – Non.
+G Les adverbes « 在 / 正在 » (action en cours) | « 在 / 正在 » devant un verbe indiquent qu'une action est en cours. Trois formes : (1) 在/正在 + verbe ; (2) 在/正在 + verbe + 呢 ; (3) verbe + 呢. Réponse négative : 没(有).
+EX 你还在读大学吗？ | Tu es toujours à l'université ?
+EX 学生们在/正在上课呢。 | Les élèves sont en cours.
+EX 我们读书呢。 | Nous sommes en train de lire.
+EX A：你在做什么呢？ B：我正在看电视。 | – Que fais-tu ? – Je regarde la télé.
+EX A：你在买菜吗？ B：我没买菜，买水果呢。 | – Tu achètes des légumes ? – Non, j'achète des fruits.
+G Le verbe modal « 要 » | « 要 » devant un verbe exprime la volonté ou l'intention de faire quelque chose (vouloir, aller faire).
+EX 他今天要和小朋友玩。 | Aujourd'hui il veut jouer avec ses copains.
+EX 妈妈要去超市。 | Maman va aller au supermarché.
+EX 白家月要在家里学中文。 | Bai Jiayue veut étudier le chinois à la maison.
+XL 李文___读大学。 | 在 | 不/没/在 | « 你还在读大学吗？— 对，我读大学呢。»
+XL 李文很忙，有很多___。 | 课 | 课/书/椅子 | « 我们的课很多。»
+XL 弟弟正在___。 | 睡觉 | 玩/起床/睡觉 | « 没起床呢，还在睡觉。»
+XL 爸爸问姐姐，弟弟___超市。 | 去不去 | 在/去/去不去 | « 他今天去不去那里？»
+XQ 弟弟起床没起床？ | 他没起床，还在睡觉。
+XQ 弟弟今天要做什么？ | 他今天要和小朋友玩。
+XB 那里/睡觉/去不去/要/正在
+X 你___超市？ | 去不去 | Question affirmative-négative.
+X 她没在看电视，___学习呢。 | 正在 | 正在 + verbe + 呢.
+X 弟弟：姐姐，我们去___玩吧，好不好？ | 那里 | 那里 = là-bas.
+X 姐姐：我不去，我___读书。 | 要 | 要 = vouloir, avoir l'intention.
+X 妈妈：爸爸在做什么？ 孩子：他在___呢。 | 睡觉 | 在 + verbe + 呢.
+XP 我们___。 (photo : une mère et sa fille au supermarché) | 我们在超市买东西呢。
+XP 桌子上___书？ (photo : une table vide) | 桌子上有没有书？
+XP 弟弟___睡觉，在学习呢，他明天___。 (photo : un garçon qui étudie) | 弟弟没睡觉，在学习呢，他明天要上课。
+XP 她___看电视，___。 (photo : une fille qui lit) | 她没在看电视，正在读书呢。

@@ -1,0 +1,74 @@
+# 4 | 我有两个孩子 | J'ai deux enfants
+OBJ Utiliser la phrase en « 有 » pour exprimer la possession (personnes ou objets).
+OBJ Maîtriser la structure « A……，B呢？ ».
+OBJ Maîtriser les nombres et les classificateurs de la leçon.
+OBJ Savoir demander et dire l'âge à la chinoise.
+## Texte 1 | À la maison, Liu Ming et Wang Yixue discutent.
+刘明: 一飞忙吗？ | Liu Ming : Yifei est occupée ?
+王一雪: 她很忙。 | Wang Yixue : Elle est très occupée.
+刘明: 她有多少个学生？ | Liu Ming : Combien d'élèves a-t-elle ?
+王一雪: 她有二十个学生。 | Wang Yixue : Elle a vingt élèves.
+V 有 | yǒu | v. | avoir
+V 多少 | duōshao | pron. | combien
+V 个 | gè | cl. | classificateur général
+## Texte 2 | Au bureau, Wang Yixue et Yang Tongle discutent pendant la pause.
+王一雪: 我有两个哥哥，你呢？ | Wang Yixue : J'ai deux grands frères, et toi ?
+杨同乐: 我没有哥哥。 | Yang Tongle : Je n'ai pas de grand frère.
+王一雪: 你家有几口人？ | Wang Yixue : Combien de personnes y a-t-il dans ta famille ?
+杨同乐: 我家有四口人，爸爸、妈妈、妹妹和我。 | Yang Tongle : Nous sommes quatre : mon père, ma mère, ma petite sœur et moi.
+V 哥哥 | gēge | n. | grand frère
+V 呢 | ne | part. | particule de question (« et… ? »)
+V 没有 | méiyǒu | v. | ne pas avoir
+V 家 | jiā | n. | famille, maison
+V 几 | jǐ | pron. | combien (petit nombre)
+V 口 | kǒu | cl. | classificateur (membres de la famille)
+V 爸爸 | bàba | n. | papa, père
+V 妈妈 | māma | n. | maman, mère
+V 妹妹 | mèimei | n. | petite sœur
+V 和 | hé | conj. | et
+## Texte 3 | Dans la rue, Wang Yixue, avec son fils, croise Yang Tongle.
+杨同乐: 这是您儿子吗？ | Yang Tongle : C'est votre fils ?
+王一雪: 是的。我有两个孩子，一个儿子，一个女儿。 | Wang Yixue : Oui. J'ai deux enfants, un fils et une fille.
+杨同乐: 您儿子几岁？ | Yang Tongle : Quel âge a votre fils ?
+王一雪: 他今年五岁。 | Wang Yixue : Il a cinq ans cette année.
+杨同乐: 您女儿多大？ | Yang Tongle : Et votre fille, quel âge a-t-elle ?
+王一雪: 她今年十二。 | Wang Yixue : Elle a douze ans.
+TIP « 几岁 » sert à demander l'âge d'un enfant de moins de dix ans. Au-delà de dix ans, on demande plutôt « 多大 ».
+V 儿子 | érzi | n. | fils
+V 孩子 | háizi | n. | enfant
+V 女儿 | nǚ'ér | n. | fille (enfant)
+V 岁 | suì | cl. | an (âge)
+V 他 | tā | pron. | il, lui
+V 今年 | jīnnián | n. | cette année
+V 多 | duō | pron. | combien, à quel point
+V 大 | dà | adj. | grand ; âgé
+G La phrase en « 有 » (1) | Dans cette leçon, « 有 » exprime la possession (avoir). Sa forme négative est « 没 » ou « 没有 » (jamais « 不有 » !).
+EX 她有二十个学生。 | Elle a vingt élèves.
+EX 她有一个姐姐。 | Elle a une grande sœur.
+EX 我没有姐姐。 | Je n'ai pas de grande sœur.
+G Les nombres | Les nombres s'écrivent en chiffres arabes (1) ou en caractères (一). 0–10 : 零 一 二 三 四 五 六 七 八 九 十. 11 = 十一, 19 = 十九, 20 = 二十, 22 = 二十二, 99 = 九十九. 100 = 一百, 208 = 二百零八 (le zéro se dit 零), 999 = 九百九十九, 1000 = 一千, 1528 = 一千五百二十八. Le chiffre 2 : on dit « 二 (èr) » pour compter et dans les ordinaux (第二), mais « 两 (liǎng) » devant un classificateur : 两个人, 两口人, 两本书. Dans les nombres, on garde 二 : 十二, 二十二, 一百二十二.
+EX 二十个学生 | vingt élèves
+EX 两个人 | deux personnes
+EX 一千五百二十八 | 1528
+G La particule « 呢 » (1) | Placée en fin de phrase, « 呢 » pose une question sur la situation déjà évoquée (« et toi ? »). Structure : A……，B呢？
+EX 我有两个哥哥，你呢？ | J'ai deux grands frères, et toi ?
+EX 我叫白家月，你呢？ | Je m'appelle Bai Jiayue, et toi ?
+EX 我是中国人，你呢？ | Je suis chinois, et toi ?
+G Les classificateurs : Nombre + Classificateur + (Nom) | En chinois, un nombre est généralement suivi d'un classificateur avant le nom. Ici : « 口 » (membres d'une famille) et « 个 » (général). Structure : Nombre + Cl. + Nom.
+EX 四口人 | quatre personnes (famille)
+EX 两个哥哥 | deux grands frères
+EX 两个学生 | deux élèves
+XL 杨同乐有一个___。 | 妹妹 | 哥哥/姐姐/妹妹 | Il n'a pas de grand frère ; sa famille : papa, maman, petite sœur et lui.
+XL 杨同乐家有___。 | 四口人 | 两口人/四口人/五口人 | 爸爸、妈妈、妹妹和我 = 4 personnes.
+XL 王一雪有___孩子。 | 两个 | 一个/两个/三个 | 一个儿子，一个女儿。
+XL 王一雪女儿今年___岁。 | 十二 | 五/十二/二十 | 她今年十二。
+XQ 王一雪有几个儿子？几个女儿？ | 她有一个儿子，一个女儿。
+XQ 王一雪儿子今年几岁？ | 他今年五岁。
+XB 呢/二十/没/口/大
+X 王一飞老师有___个学生。 | 二十 | 她有二十个学生。
+X 杨同乐家有四___人。 | 口 | 口 = classificateur des membres de la famille.
+X 王一雪：我有两个孩子，你___？ | 呢 | « 你呢 ? » = et toi ?
+X 杨同乐：我___孩子。 | 没 | Négation de 有 = 没(有).
+X 杨同乐：您女儿今年多___？ | 大 | 多大 = quel âge (plus de 10 ans).
+XC A：你家有___？ B：我家有三口人，你家呢？ | 几口人 | Question sur le nombre de personnes dans la famille.
+XC A：你有姐姐吗？ B：我有___姐姐，你呢？ A：我有两个姐姐。 | 一个 | Nombre + 个 + 姐姐.

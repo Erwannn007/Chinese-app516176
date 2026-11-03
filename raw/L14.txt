@@ -1,0 +1,89 @@
+# 14 | 我看了一个电影 | J'ai regardé un film
+OBJ Utiliser la particule aspectuelle « 了 » (2) pour une action réalisée ou terminée.
+OBJ Utiliser l'adverbe « 都 » (tous, tout).
+OBJ Utiliser quelques verbes séparables.
+OBJ Décrire son apprentissage.
+## Texte 1 | En classe, après le cours, Bai Jiayue et Chen Tianzhong parlent de la dernière sortie scolaire.
+白家月: 你们上火车后看见王老师了吗？ | Bai Jiayue : Une fois dans le train, vous avez vu Mme Wang ?
+陈天中: 没看见。中午车开后，有些人在看书，有些人睡觉了。 | Chen Tianzhong : Non. Quand le train est parti à midi, certains lisaient, d'autres se sont endormis.
+白家月: 你呢？ | Bai Jiayue : Et toi ?
+陈天中: 我看了一个电影。 | Chen Tianzhong : J'ai regardé un film.
+TIP Dans cette leçon, « 有些 » peut aussi se dire « 有的 ».
+V 上 | shàng | v. | monter (dans un véhicule)
+V 火车 | huǒchē | n. | train
+V 中午 | zhōngwǔ | n. | midi
+V 开 | kāi | v. | partir (véhicule), démarrer
+V 有些 | yǒuxiē | pron. | certains, quelques-uns
+V 有的 | yǒude | pron. | certains
+V 了 | le | part. | particule d'action accomplie
+V 看见 | kànjiàn | v. | voir
+V 汉字 | Hànzì | nom propre | caractère chinois
+V 听 | tīng | v. | écouter, entendre
+V 小学生 | xiǎoxuéshēng | n. | écolier (primaire)
+V 说话 | shuōhuà | v. | parler
+## Texte 2 | En classe, Wang Yifei demande aux élèves où ils en sont.
+王一飞: 你们会说汉语了，也会写汉字了吗？ | Wang Yifei : Vous savez parler chinois maintenant ; savez-vous aussi écrire les caractères ?
+白家月: 我们都会写了。 | Bai Jiayue : Nous savons tous écrire.
+陈天中: 老师，我听不见。 | Chen Tianzhong : Madame, je n'entends pas.
+王一飞: 请大家不要说话！请听老师的问题：你们都会写哪些汉字了？ | Wang Yifei : Silence, s'il vous plaît ! Écoutez ma question : quels caractères savez-vous tous écrire ?
+陈天中: 我会写这些字了，您看！ | Chen Tianzhong : Je sais écrire ces caractères, regardez !
+V 写 | xiě | v. | écrire
+V 都 | dōu | adv. | tous, tout
+V 听见 | tīngjiàn | v. | entendre
+V 不要 | búyào | adv. | ne… pas (interdiction)
+V 哪些 | nǎxiē | pron. | lesquels
+V 字 | zì | n. | caractère, mot
+V 汉语 | Hànyǔ | nom propre | langue chinoise
+## Texte 3 | À la maison, Liu Ming et Wang Yixue parlent de la scolarité des enfants.
+刘明: 明年女儿上中学。 | Liu Ming : L'année prochaine, notre fille entre au collège.
+王一雪: 对。儿子也上小学了。 | Wang Yixue : Oui. Et notre fils entre à l'école primaire.
+刘明: 我们家有了一个中学生。 | Liu Ming : Nous aurons une collégienne dans la famille.
+王一雪: 还有了一个小学生。 | Wang Yixue : Et un écolier.
+刘明: 上学后，他们都忙了。 | Liu Ming : Une fois à l'école, ils seront tous les deux occupés.
+王一雪: 是的。太晚了，睡觉吧。 | Wang Yixue : Oui. Il est trop tard, allons dormir.
+TIP Deux pronoms proches : « 她们 » (elles, groupe de femmes) et « 它们 » (ils/elles pour des choses ou animaux). Les trois (他们, 她们, 它们) se prononcent tāmen.
+V 明年 | míngnián | n. | l'année prochaine
+V 上 | shàng | v. | commencer (l'école…)
+V 中学 | zhōngxué | n. | collège / lycée
+V 小学 | xiǎoxué | n. | école primaire
+V 中学生 | zhōngxuéshēng | n. | collégien, lycéen
+V 上学 | shàngxué | v. | aller à l'école, entrer à l'école
+V 他们 | tāmen | pron. | ils, eux
+V 她们 | tāmen | pron. | elles
+V 它们 | tāmen | pron. | ils, elles (choses, animaux)
+V 晚 | wǎn | adj. | tard
+G La particule aspectuelle « 了 » (2) | Placée juste après le verbe, « 了 » indique qu'une action a eu lieu ou est terminée. Négation : « 没 » devant le verbe, et on supprime « 了 ».
+EX 我看了一个电影。 | J'ai regardé un film.
+EX 我买了一个新电脑。 | J'ai acheté un nouvel ordinateur.
+EX 我昨天没去商店买东西。 | Hier, je ne suis pas allé faire des courses.
+G Les verbes séparables (1) | Des mots comme 上课, 下课, 上班, 下班, 说话, 读书, 睡觉, 看病, 生病 sont des verbes « séparables » (verbe + objet) : on peut insérer des éléments entre les deux parties (了, un nombre…), mais pas un objet supplémentaire après.
+EX 睡觉 → 睡了觉；睡了一觉 | dormir → a dormi ; a fait un somme
+EX 上课 → 上了课；上中文课 | aller en cours → est allé en cours ; avoir cours de chinois
+EX 生病 → 生了病；生了大病 | tomber malade → est tombé malade ; a eu une grave maladie
+EX 说话 → 说了话；说了很多话 | parler → a parlé ; a beaucoup parlé
+G L'adverbe « 都 » | « 都 » = tous / tout. Les personnes ou choses concernées se placent AVANT « 都 ». À la forme négative, la négation vient APRÈS « 都 » : 都不 / 都没.
+EX 我们都会写了。 | Nous savons tous écrire.
+EX 我和我的朋友们都去。 | Mes amis et moi y allons tous.
+EX 同学们都没听见。 | Aucun élève n'a entendu.
+XC A：你去哪儿___？ B：我今天有课，去学校上了课，还在那儿吃了午饭。 | 了 | 了 = action réalisée.
+XC A：我昨天看了电影，___去超市。你呢？ | 没 | Négation d'une action passée : 没 (sans 了).
+XL 陈天中___王老师。 | 没看见 | 正在看/没看见/看见了 | « 你们看见王老师了吗？— 没看见。»
+XL 陈天中在火车上___。 | 看了一个电影 | 读书/找王老师/看了一个电影 | « 我看了一个电影。»
+XL 同学们___汉语了。 | 都会说 | 想说/不会说/都会说 | « 你们会说汉语了…… — 我们都会写了。»
+XL 陈天中___王老师在说什么。 | 没听见 | 听见了/没听见/不想听 | « 老师，我听不见。»
+XL 明年刘明和王一雪的女儿___。 | 上中学 | 上小学/上中学/上大学 | « 明年女儿上中学。»
+XL ___孩子们都忙了。 | 上学后 | 上学/上学前/上学后 | « 上学后，他们都忙了。»
+XQ 车开后，大家在做什么？ | 有些人在看书，有些人睡觉了。
+XQ 陈天中为什么没看见王老师？ | 因为他在火车上看了一个电影。
+XQ 白家月会写汉字了吗？ | 她会写汉字了。
+XQ 明年女儿和儿子都上小学吗？ | 不，女儿上中学，儿子上小学。
+XB 上学/了/都/听见/有的
+X 我写___很多汉字。 | 了 | Verbe + 了.
+X 他没___老师说什么。 | 听见 | 听见 = entendre.
+X 陈天中：我看了一本书，___人在睡觉。 | 有的 | 有的人 = certains.
+X 刘明：明年___后，他们都忙了。 | 上学 | 上学 = entrer à l'école.
+X 刘明：明年上学后，他们___忙了。 | 都 | 都 = tous les deux.
+XP 姐姐和弟弟___。 (photo : deux enfants vont à l'école) | 姐姐和弟弟都上学了。
+XP 我们昨天___，没去看电影。 (photo : des étudiants en classe) | 我们昨天上了课，没去看电影。
+XP 鸡蛋、面包我___。 (photo : œuf sur du pain) | 鸡蛋、面包我都吃了。
+XP 老师说：“___！” (photo : classe bruyante) | 老师说：“请大家不要说话！”

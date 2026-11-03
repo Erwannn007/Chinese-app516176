@@ -1,0 +1,77 @@
+# 13 | 请给我一杯茶 | Un thé, s'il vous plaît
+OBJ Utiliser les phrases à double objet (1) pour poser une question à quelqu'un ou lui donner quelque chose.
+OBJ Utiliser le verbe modal « 可以 ».
+OBJ Utiliser la structure « verbe + 一下 ».
+OBJ Connaître les expressions courantes pour commander au restaurant.
+## Texte 1 | En classe, après le cours, Bai Jiayue pose une question à Mme Wang.
+白家月: 王老师，我可以再问您一个问题吗？ | Bai Jiayue : Madame Wang, je peux vous poser encore une question ?
+王一飞: 可以。你有什么问题？ | Wang Yifei : Oui. Quelle est ta question ?
+白家月: 那个小店卖不卖手机？ | Bai Jiayue : Est-ce que cette petite boutique vend des portables ?
+王一飞: 我不知道。你可以打电话问一下。 | Wang Yifei : Je ne sais pas. Tu peux appeler pour demander.
+V 可以 | kěyǐ | v. modal | pouvoir (permission, possibilité)
+V 再 | zài | adv. | encore, de nouveau
+V 问题 | wèntí | n. | question, problème
+V 卖 | mài | v. | vendre
+V 打电话 | dǎ diànhuà | | téléphoner, appeler
+V 一下 | yíxià | num.-cl. | un peu, un coup (action brève)
+V 面包 | miànbāo | n. | pain
+V 说 | shuō | v. | parler, dire
+V 给 | gěi | v. | donner
+V 茶 | chá | n. | thé
+V 一半 | yíbàn | num. | moitié
+V 请 | qǐng | v. | s'il vous plaît, inviter
+## Texte 2 | Dans un café, Wang Yixue veut prendre son petit-déjeuner.
+服务员: 女士，请坐！您喝什么？ | Serveuse : Madame, asseyez-vous ! Que voulez-vous boire ?
+王一雪: 我看一下。请给我一杯牛奶。 | Wang Yixue : Je regarde. Un verre de lait, s'il vous plaît.
+服务员: 好的。您还要什么？ | Serveuse : Bien. Vous désirez autre chose ?
+王一雪: 我还没吃早饭，再要这个面包和鸡蛋吧。 | Wang Yixue : Je n'ai pas encore pris mon petit-déjeuner, je prends aussi ce pain avec un œuf.
+V 服务员 | fúwùyuán | n. | serveur, serveuse
+V 女士 | nǚshì | n. | madame
+V 坐 | zuò | v. | s'asseoir
+V 杯 | bēi | n./cl. | tasse, verre (de)
+V 要 | yào | v. | vouloir, demander, commander
+V 早饭 | zǎofàn | n. | petit-déjeuner
+V 这个 | zhège | pron. | ce…-ci, celui-ci
+V 鸡蛋 | jīdàn | n. | œuf
+## Texte 3 | Au restaurant, Liu Ming commande.
+服务员: 先生，请坐！您要什么？ | Serveur : Monsieur, asseyez-vous ! Que désirez-vous ?
+刘明: 我要一斤饺子。 | Liu Ming : Je voudrais une livre de jiaozi.
+服务员: 好的。一斤饺子40个。 | Serveur : D'accord. Une livre, ça fait 40 jiaozi.
+刘明: 40个太多了，我要一半吧。 | Liu Ming : 40, c'est trop, j'en prends la moitié.
+服务员: 半斤20个。您想喝什么？ | Serveur : Une demi-livre, 20 pièces. Que voulez-vous boire ?
+刘明: 请给我一杯茶吧。 | Liu Ming : Un thé, s'il vous plaît.
+V 先生 | xiānsheng | n. | monsieur
+G Le verbe modal « 可以 » | « 可以 » devant un verbe exprime la possibilité, la capacité ou la permission (pouvoir, avoir le droit de).
+EX 我可以再问您一个问题吗？ | Puis-je vous poser encore une question ?
+EX 你们可以看这本书。 | Vous pouvez lire ce livre.
+EX A：我可以坐吗？ B：可以，请坐！ | – Je peux m'asseoir ? – Oui, asseyez-vous !
+G La structure « verbe + 一下 » | « 一下 » après un verbe indique une action brève ou faite pour essayer (rend la phrase plus douce et polie).
+EX 你可以打电话问一下。 | Tu peux appeler pour demander.
+EX 请休息一下。 | Reposez-vous un peu.
+EX 你看一下吧。 | Jette un œil.
+G Les phrases à double objet (1) | Un verbe peut avoir deux objets : Verbe + personne + chose. Dans ce livre : « 给 » (donner) et « 问 » (demander).
+EX 请给我一杯牛奶。 | Donnez-moi un verre de lait, s'il vous plaît.
+EX 白家月给安妮一个苹果。 | Bai Jiayue donne une pomme à Annie.
+EX 我问老师两个问题。 | Je pose deux questions au professeur.
+XL 白家月想再问王老师___。 | 一个问题 | 一个问题/两个问题/这个问题 | « 我可以再问您一个问题吗？»
+XL 王老师___那里卖不卖手机。 | 不知道 | 知道/不知道/也想知道 | « 我不知道。»
+XL 王一雪要喝___。 | 牛奶 | 水/茶/牛奶 | « 请给我一杯牛奶。»
+XL 王一雪还想吃___。 | 面包和鸡蛋 | 包子/面条儿/面包和鸡蛋 | « 再要这个面包和鸡蛋吧。»
+XL 刘明想吃___。 | 饺子 | 米饭/饺子/米饭和饺子 | « 我要一斤饺子。»
+XL 刘明想喝___。 | 茶 | 水/茶/牛奶 | « 请给我一杯茶吧。»
+XQ 白家月还有什么问题？ | 她想知道那个小店卖不卖手机。
+XQ 王老师对白家月说什么了？ | 她说：“我不知道。你可以打电话问一下。”
+XQ 服务员问王一雪什么问题了？ | 服务员问她喝什么，还要什么。
+XQ 王一雪吃早饭了吗？ | 她还没吃早饭。
+XQ 刘明想要多少饺子？ | 他想要半斤饺子，20个。
+XQ 刘明要米饭了吗？ | 他没要米饭。
+XB 一下/可以/给/问题/要
+X 请___我一杯热水。 | 给 | 给 + personne + chose.
+X 我们___一斤饺子。 | 要 | 要 = commander, vouloir.
+X A：我___坐这儿吗？ | 可以 | Demander la permission.
+X A：我可以坐这儿吗？ B：没___，请坐。 | 问题 | 没问题 = pas de problème.
+X A：这个商店卖不卖手机？ B：你可以去问___。 | 一下 | Verbe + 一下.
+XP 我___？ (photo : une femme lève la main) | 我可以问一个问题吗？
+XP 你好！我___坐这儿吗？ (photo : cantine) | 你好！我可以坐这儿吗？
+XP 我___热水，请___我___。 (photo : eau chaude) | 我要喝热水，请给我一杯热水。
+XP 服务员：请问，___？ 刘明：我要___。 (photo : jiaozi) | 服务员：请问，您要什么？ 刘明：我要半斤饺子。

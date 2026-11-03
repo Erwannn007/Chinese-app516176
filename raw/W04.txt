@@ -1,0 +1,33 @@
+@ 4
+PRON Les tons du 3e ton consécutifs | Quand deux syllabes au 3e ton se suivent, la première se prononce au 2e ton : 214 + 214 → 35 + 214. Le ton écrit ne change pas, seule la prononciation change.
+PEX 你好 | nǐ hǎo → ní hǎo
+PEX 哪里 | nǎli → náli
+PEX 可以 | kěyǐ → kéyǐ
+PEX 小语 | Xiǎoyǔ → Xiáoyǔ
+PEX 很好 | hěn hǎo → hén hǎo
+PEX 水果 | shuǐguǒ → shuíguǒ
+PRON Le ton neutre | En plus des quatre tons, certaines syllabes se prononcent légères et brèves, sans ton : c'est le ton neutre (pas de signe). Ex. jiǎozi, bàba. Le ton neutre peut changer le sens d'un mot !
+PEX 东西 | dōngxī (est et ouest) ≠ dōngxi (chose)
+PEX 买卖 | mǎi mài (acheter et vendre) ≠ mǎimai (commerce)
+PEX 妈妈 | māma
+PEX 爸爸 | bàba
+PEX 椅子 | yǐzi
+PEX 饺子 | jiǎozi
+PEX 谢谢 | xièxie
+PEX 衣服 | yīfu
+PEX 漂亮 | piàoliang
+PEX 早上 | zǎoshang
+WB A Une fille qui lit/B Un jeune homme avec des livres/C Deux hommes se saluent/D Une famille dehors
+WQ 老师，您好！ | C | Image C : deux personnes se saluent.
+WQ 我家有四口人。 | D | Image D : une famille.
+WQ 我哥哥今年20岁。 | B | Image B : un jeune homme.
+WB A 好的，谢谢！/B 他今年5岁。/C 我女朋友。/D 是的。
+WQ 你喝水吗？ | A | (exemple) – Tu veux de l'eau ? – Oui, merci !
+WQ 她是谁？ | C | – Qui est-ce ? – Ma copine.
+WQ 你是法国人吗？ | D | – Tu es français ? – Oui.
+WQ 您儿子多大？ | B | – Quel âge a votre fils ? – Il a 5 ans.
+WB A 想/B 忙/C 名字
+WQ 她工作很（ ）。 | B | 工作很忙 = très occupé au travail.
+WQ 男：你们好吗？ 女：很好，我们很（ ）你。 | A | 很想你 = tu nous manques beaucoup.
+WR 我家有三口人，爸爸、妈妈和我。 ★ 说话人家里有： | A 姐姐/B 三口人/C 四口人 | B
+WR 她是法国人，我不是。 ★ “她”是： | A 法国人/B 中国人/C 泰国人 | A

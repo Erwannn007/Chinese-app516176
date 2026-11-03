@@ -1,0 +1,26 @@
+@ 6
+PRON La finale rétroflexe « 儿 » (儿化) | On ajoute « 儿 » à la fin de certains mots pour exprimer la petitesse ou l'affection ; cela peut parfois changer le sens ou la nature du mot. On ajoute alors « r » au pinyin : 这儿 zhèr, 那儿 nàr, 面条儿 miàntiáor. D'autres mots se prononcent avec « 儿 » à l'oral sans qu'on l'écrive : 饭馆 fànguǎnr, 照片 zhàopiānr.
+PEX 这儿 | zhè → zhèr (ici)
+PEX 哪儿 | nǎ → nǎr (où)
+PEX 画儿 | huà (peindre, v.) → huàr (un dessin, n.)
+PEX 一点儿 | yìdiǎnr
+PEX 好玩儿 | hǎowánr
+PEX 那儿 | nàr
+PRON L'apostrophe de séparation | Quand une syllabe commençant par « a, o, e » suit une autre syllabe, on met une apostrophe (') pour bien séparer les syllabes.
+PEX 十二 | shí'èr
+PEX 西安 | Xī'ān
+PEX 天安门 | Tiān'ān Mén
+WB A Une fille qui lit/B Un papier « 星期二 »/C Un ordinateur portable/D Un supermarché
+WQ 我有一个新电脑。 | C | Image C : un ordinateur portable.
+WQ 今天星期二。 | B | Image B : un papier « 星期二 ».
+WQ 我想去超市买东西。 | D | Image D : un supermarché.
+WB A 坐出租车。/B 真好看！/C 包子。/D 好的，谢谢！
+WQ 你喝水吗？ | D | (exemple) – Tu veux de l'eau ? – Oui, merci !
+WQ 你吃什么？ | C | – Que manges-tu ? – Des baozi.
+WQ 我们怎么去？ | A | – Comment on y va ? – En taxi.
+WQ 这是老师的新电脑。 | B | – C'est le nouvel ordi du prof. – Il est vraiment beau !
+WB A 有/B 牛奶/C 名字
+WQ 我想买（ ）。 | B | 买牛奶 = acheter du lait.
+WQ 男：我的手机号是+86 13552721160。 女：我（ ）你的手机号，你的电话号呢？ | A | 我有你的手机号 = j'ai ton numéro de portable.
+WR 我家有三口人：爸爸、妈妈和我。 ★ 说话人家里有几口人？ | A 三口人/B 四口人/C 六口人 | A
+WR 明天星期天，我休息，想去超市买牛奶。 ★ 说话人想买什么？ | A 菜/B 牛奶/C 饺子 | B

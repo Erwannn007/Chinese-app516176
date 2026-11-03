@@ -1,0 +1,89 @@
+# 3 | 我是中国人 | Je suis chinois
+OBJ Utiliser la phrase en « 是 » pour dire ce que quelqu'un ou quelque chose est.
+OBJ Maîtriser la particule de structure « 的 ».
+OBJ Poser une question fermée (oui/non) avec « 吗 ».
+## Texte 1 | Sur le campus, Li Wen et Bai Jiayue continuent de discuter.
+李文: 我是中国人。 | Li Wen : Je suis chinois.
+白家月: 我是法国人。我的中文老师也是中国人。 | Bai Jiayue : Je suis française. Ma professeure de chinois est aussi chinoise.
+V 人 | rén | n. | personne, être humain
+V 的 | de | part. | particule (possession / détermination)
+V 中国 | Zhōngguó | nom propre | Chine
+V 法国 | Fǎguó | nom propre | France
+V 中文 | Zhōngwén | nom propre | langue chinoise
+## Texte 2 | En classe, après le cours, Annie regarde les photos sur le téléphone de Chen Tianzhong.
+安妮: 这是谁？ | Annie : Qui est-ce ?
+陈天中: 这是我女朋友。 | Chen Tianzhong : C'est ma copine.
+安妮: 你女朋友是哪国人？ | Annie : De quel pays est ta copine ?
+陈天中: 她也是泰国人。 | Chen Tianzhong : Elle est thaïlandaise aussi.
+TIP « 谁 » peut aussi se prononcer « shuí ».
+V 这 | zhè | pron. | ceci, ce, cette
+V 谁 | shéi / shuí | pron. | qui
+V 女朋友 | nǚpéngyou | n. | petite amie, copine
+V 哪 | nǎ | pron. | quel, lequel
+V 国 | guó | n. | pays
+V 她 | tā | pron. | elle
+V 泰国 | Tàiguó | nom propre | Thaïlande
+## Texte 3 | À la maison, Wang Yixue passe un appel vidéo à Wang Yifei.
+王一雪: 喂，一飞！ | Wang Yixue : Allô, Yifei !
+王一飞: 姐姐！ | Wang Yifei : Grande sœur !
+王一雪: 你工作还忙吗？ | Wang Yixue : Tu es toujours occupée au travail ?
+王一飞: 对，还很忙。你也很忙吗？ | Wang Yifei : Oui, toujours très occupée. Tu es occupée aussi ?
+王一雪: 我不太忙。我们很想你。 | Wang Yixue : Pas trop. Tu nous manques beaucoup.
+王一飞: 我也想你们。 | Wang Yifei : Vous me manquez aussi.
+V 喂 | wèi | interj. | allô, hé
+V 姐姐 | jiějie | n. | grande sœur
+V 工作 | gōngzuò | n. | travail
+V 还 | hái | adv. | encore, toujours
+V 忙 | máng | adj. | occupé
+V 吗 | ma | part. | particule de question (oui/non)
+V 对 | duì | adj. | juste, correct ; oui
+V 太 | tài | adv. | trop
+V 我们 | wǒmen | pron. | nous
+V 想 | xiǎng | v. | penser à, manquer (quelqu'un)
+G La phrase en « 是 » | « 是 » sert à dire ce qu'est quelqu'un ou quelque chose (égalité ou appartenance à une catégorie). Forme négative : « 不是 ».
+EX 我是法国人。 | Je suis français(e).
+EX 她是中文老师。 | Elle est professeure de chinois.
+EX 我老师不是法国人。 | Mon professeur n'est pas français.
+G La particule de structure « 的 » | « 的 » se place entre le déterminant et le nom pour exprimer la possession (comme « de » en français, mais dans l'ordre inverse : possesseur + 的 + chose). Si « 的 » suit un pronom personnel et précède un terme de parenté ou un nom de personne, on peut l'omettre : 我老师, 我学生, 你同学, 我妈妈.
+EX 白家月的中文老师 | la professeure de chinois de Bai Jiayue
+EX 你的名字 | ton nom
+EX 我妈妈 | ma mère (的 omis)
+G La question oui/non avec « 吗 » | « 吗 » est une particule placée à la fin d'une phrase affirmative pour la transformer en question fermée. Structure : phrase + 吗 ?
+EX 你也很忙吗？ | Tu es aussi très occupé(e) ?
+EX 你是他的中文老师吗？ | Êtes-vous son professeur de chinois ?
+EX 你有姐姐吗？ | As-tu une grande sœur ?
+XB 哪/吗/谁/中国人/想
+X 你工作忙___？ | 吗 | « 吗 » à la fin d'une phrase en fait une question oui/non.
+X 我很___你们。 | 想 | 想 = penser à / manquer : 我很想你们 = vous me manquez beaucoup.
+X 白家月：你是___国人？ | 哪 | 哪国人 = de quel pays.
+X 李文：我是___。 | 中国人 | Réponse à « 你是哪国人 ? ».
+X 白家月：她是___？ 安妮：她是陈天中的女朋友。 | 谁 | 谁 = qui.
+XC 这是我___。 老师，您好！ | 老师 | (Dialogue : on présente son professeur, l'autre répond « Bonjour madame ».)
+TW 四是四，十是十。十四是十四，四十是四十。 | Quatre c'est quatre, dix c'est dix. Quatorze c'est quatorze, quarante c'est quarante.
+PP 我是你们的老师。 | Je suis votre professeur.
+PP 你们是我的学生。 | Vous êtes mes élèves.
+PP 我的老师是中国人。 | Mon professeur est chinois.
+PP 我是法国学生。 | Je suis un étudiant français.
+PP 他也是法国人。 | Il est aussi français.
+PP 他的中文很好。 | Son chinois est très bon.
+PP 你的中文好吗？ | Ton chinois est bon ?
+PP 我的老师不是法国人。 | Mon professeur n'est pas français.
+PP 他是我的同学。 | C'est mon camarade de classe.
+PP 白家月是我的同学，她是法国人。 | Bai Jiayue est ma camarade, elle est française.
+PP 这是我的手机。 | C'est mon portable.
+PP 这是什么？ — 这是我的书。 | Qu'est-ce que c'est ? — C'est mon livre.
+PP 他的女朋友很漂亮。 | Sa copine est très jolie.
+PP 我们是好朋友。 | Nous sommes de bons amis.
+PP 你是哪国人？ | De quel pays es-tu ?
+PP 你的老师是哪国人？ | De quel pays est ton professeur ?
+PP 他的朋友是泰国人。 | Son ami est thaïlandais.
+PP 喂，请问是王老师吗？ | Allô, c'est bien Mme Wang ?
+PP 他的工作很忙。 | Son travail est très prenant.
+PP 你还忙吗？ — 我不忙。 | Tu es encore occupé ? — Je ne suis pas occupé.
+PP 她还在泰国吗？ | Est-elle encore en Thaïlande ?
+PP 你认识中国人吗？ — 我认识。 | Tu connais des Chinois ? — Oui.
+PP 他是中国人吗？ — 对，他是中国人。 | Est-il chinois ? — Oui, il est chinois.
+PP 他太忙了。 | Il est trop occupé.
+PP 太好了！ | Super !
+PP 我想你了。 | Tu me manques.
+PP 他很想她。 | Elle lui manque beaucoup.

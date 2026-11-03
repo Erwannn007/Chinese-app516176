@@ -1,0 +1,40 @@
+# 1 | AI小语，你好！ | Bonjour, AI Xiaoyu !
+OBJ Saluer, remercier et dire au revoir poliment.
+OBJ Connaître l'étiquette chinoise et utiliser le pronom de politesse « 您 ».
+## Texte 1 | Le premier jour de la rentrée, au bureau, Wang Yifei salue Xiaoyu, l'assistante IA.
+王一飞: AI小语，你好！ | Wang Yifei : Bonjour, AI Xiaoyu !
+小语: 王老师，你好！ | Xiaoyu : Bonjour, madame Wang !
+V 你好 | nǐ hǎo | | bonjour, salut
+V 王老师 | Wáng lǎoshī | nom propre | Madame Wang (professeure)
+## Texte 2 | Le premier jour, en classe, les élèves apprennent les formules de salutation.
+王一飞: 大家好！ | Wang Yifei : Bonjour à tous !
+学生们: 老师，您好！ | Les élèves : Bonjour, madame !
+小语: 你们好！ | Xiaoyu : Bonjour à vous !
+学生们: 你好，小语！ | Les élèves : Bonjour, Xiaoyu !
+TIP « 您 » est la forme de politesse de « 你 » : on l'utilise pour les personnes âgées ou celles qu'on respecte (professeur…).
+V 大家 | dàjiā | pron. | tout le monde
+V 好 | hǎo | adj. | bon, bien
+V 学生 | xuésheng | n. | élève, étudiant
+V 们 | men | suff. | marque du pluriel (après un pronom ou un nom de personne)
+V 老师 | lǎoshī | n. | professeur
+V 您 | nín | pron. | vous (politesse)
+V 你们 | nǐmen | pron. | vous (pluriel)
+## Texte 3 | Le premier jour, en classe, les élèves apprennent à remercier et à dire au revoir.
+学生们: 谢谢！ | Les élèves : Merci !
+小语: 不客气！ | Xiaoyu : De rien !
+王一飞: 同学们，再见！ | Wang Yifei : Au revoir, les élèves !
+学生们: 老师，再见！ | Les élèves : Au revoir, madame !
+V 谢谢 | xièxie | v. | merci
+V 不客气 | bú kèqi | | de rien
+V 同学 | tóngxué | n. | camarade de classe
+V 再见 | zàijiàn | v. | au revoir
+TW 妈种麻，我放马。马吃麻，妈骂马。 | Maman plante du chanvre, je garde le cheval. Le cheval mange le chanvre, maman gronde le cheval.
+PP 你好，王老师！ | Bonjour, madame Wang !
+PP 同学，你好！ | Bonjour (camarade) !
+PP 谢谢大家！ | Merci à tous !
+PP 谢谢你！ | Merci à toi !
+PP 我是学生。 | Je suis élève.
+PP 我是老师。 | Je suis professeur.
+PP 老师，您好！ | Bonjour, madame / monsieur !
+PP 同学们好！ | Bonjour les élèves !
+PP 很好。不好。 | Très bien. Pas bien.

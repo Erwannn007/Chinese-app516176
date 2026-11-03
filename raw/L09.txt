@@ -1,0 +1,82 @@
+# 9 | 我明天上午在学校学习 | Demain matin, j'étudie à l'école
+OBJ Utiliser « 有 / 是 » pour exprimer l'existence (il y a…).
+OBJ Ordonner le temps et le lieu quand ils sont utilisés ensemble.
+OBJ Utiliser « 第 » pour les nombres ordinaux.
+OBJ Découvrir les loisirs des Chinois d'aujourd'hui.
+## Texte 1 | Sur le campus, Li Wen et Bai Jiayue discutent.
+李文: 学校前边有一家电影院。 | Li Wen : Il y a un cinéma devant l'école.
+白家月: 对。我们晚上去那个电影院看电影吧。 | Bai Jiayue : Oui. Allons voir un film dans ce cinéma ce soir.
+李文: 好！我们七点在电影院外边见，好吗？ | Li Wen : Super ! On se retrouve à 19 h devant le cinéma, d'accord ?
+白家月: 好的，晚上七点见！ | Bai Jiayue : D'accord, à ce soir 19 h !
+TIP « 前边 » peut se dire « 前边儿 ». Ici « 边 » est un suffixe au ton neutre (bian) ; comme nom, il se prononce « biān ». « 那个 » se dit souvent « nèige » à l'oral.
+V 前边 | qiánbian | n. | devant
+V 边 | bian / biān | suff./n. | côté
+V 家 | jiā | cl. | classificateur (magasins, entreprises)
+V 那个 | nàge | pron. | ce…-là, celui-là
+V 外边 | wàibian | n. | dehors, à l'extérieur
+V 小狗 | xiǎo gǒu | n. | petit chien
+V 电视 | diànshì | n. | télévision
+V 学习 | xuéxí | v. | étudier, apprendre
+V 玩 | wán | v. | jouer, s'amuser
+V 椅子 | yǐzi | n. | chaise
+V 书 | shū | n. | livre
+## Texte 2 | En classe, après le cours, Bai Jiayue et Chen Tianzhong discutent.
+白家月: 椅子上有一本中文书，那是谁的书？ | Bai Jiayue : Il y a un livre de chinois sur la chaise, à qui est-il ?
+陈天中: 是我的书，谢谢。这是我的第二本中文书。 | Chen Tianzhong : C'est mon livre, merci. C'est mon deuxième livre de chinois.
+白家月: 不客气。你明天上午在哪儿？ | Bai Jiayue : De rien. Où seras-tu demain matin ?
+陈天中: 我明天上午在学校学习。 | Chen Tianzhong : Demain matin, j'étudie à l'école.
+TIP « 上 » après un nom (椅子上, 书上) se prononce au ton neutre. Pour indiquer une position haute ou un ordre/temps (上方, 上半年), il se prononce au 4e ton « shàng ».
+V 上 | shang / shàng | n. | sur, dessus
+V 本 | běn | cl. | classificateur des livres
+V 那 | nà | pron. | cela, ce…-là
+V 第 | dì | préf. | préfixe des ordinaux (第二 = deuxième)
+## Texte 3 | Au bureau, pendant la pause, Wang Yixue et Yang Tongle parlent de leur week-end.
+王一雪: 明天星期六，你做什么？ | Wang Yixue : Demain c'est samedi, qu'est-ce que tu fais ?
+杨同乐: 我白天在家里读书，晚上和朋友们去外边唱歌。 | Yang Tongle : La journée je lis à la maison, et le soir je sors chanter avec des amis.
+王一雪: 你唱歌很好听。 | Wang Yixue : Tu chantes très bien.
+杨同乐: 谢谢！您星期六做什么？ | Yang Tongle : Merci ! Et vous, que faites-vous samedi ?
+王一雪: 我在家里做饭、看电视，和孩子们、小狗玩。 | Wang Yixue : Je cuisine, je regarde la télé et je joue avec les enfants et le petit chien.
+杨同乐: 我也有一只小狗。 | Yang Tongle : Moi aussi, j'ai un petit chien.
+TIP À l'oral, on dit souvent « 玩儿 ».
+V 做 | zuò | v. | faire
+V 白天 | báitiān | n. | journée, le jour
+V 读书 | dúshū | v. | lire, étudier
+V 和 | hé | prép. | avec
+V 朋友 | péngyou | n. | ami
+V 唱 | chàng | v. | chanter
+V 歌 | gē | n. | chanson
+V 好听 | hǎotīng | adj. | agréable à entendre, beau (son)
+V 狗 | gǒu | n. | chien
+G Les phrases d'existence (1) | Pour dire qu'il y a quelqu'un ou quelque chose à un endroit : Lieu + 有/是 + chose. Avec « 是 », on identifie ce qui est là. À la forme négative (没有), on ne met pas de nombre + classificateur devant l'objet.
+EX 学校前边有一家电影院。 | Il y a un cinéma devant l'école.
+EX 电影院前边是一家超市。 | Devant le cinéma, c'est un supermarché.
+EX 电影院前边不是超市。 | Devant le cinéma, ce n'est pas un supermarché.
+EX 桌子上没有小猫。 | Il n'y a pas de chat sur la table.
+G Ordre temps + lieu | Quand le temps et le lieu sont tous les deux devant le verbe, le TEMPS vient AVANT le LIEU : Sujet + temps + 在 + lieu + verbe.
+EX 我们七点在电影院外边见。 | On se retrouve à 19 h devant le cinéma.
+EX 安妮下午在家里学中文。 | Annie étudie le chinois à la maison cet après-midi.
+EX 陈天中明天中午在学校吃午饭。 | Demain midi, Chen Tianzhong déjeune à l'école.
+G « 第 » pour les ordinaux | « 第 » devant un nombre donne un ordinal. Structures : (1) 第 + nombre ; (2) 第 + nombre + classificateur + (nom).
+EX 第一，第二，第三 | premier, deuxième, troisième
+EX 第一个，第二个，第一本 | le premier, le deuxième, le premier (livre)
+EX 第一个学生，第一本书 | le premier élève, le premier livre
+XC A：你们今天下午两点___上课？ B：在学校。 | 在哪儿 | Ordre : temps + 在 + lieu + verbe.
+XC A：你们___在超市买什么呢？ B：买菜呢。 | 现在 | Expression de temps avant le lieu.
+XL 椅子上有___。 | 一本书 | 一本书/一只猫/一个手机 | « 椅子上有一本中文书。»
+XL 这是陈天中的___中文书。 | 第二本 | 第一本/第二本/第三本 | « 这是我的第二本中文书。»
+XL 杨同乐唱歌___。 | 很好听 | 不太好/不好听/很好听 | « 你唱歌很好听。»
+XL 王一雪家有一只___。 | 小狗 | 小猫/小狗/大狗 | « 和孩子们、小狗玩。»
+XQ 椅子上的书是谁的？ | 是陈天中的书。
+XQ 陈天中明天上午在哪儿学习？ | 他明天上午在学校学习。
+XQ 杨同乐星期六做什么？ | 他白天在家里读书，晚上和朋友们去外边唱歌。
+XQ 王一雪星期六做什么？ | 她在家里做饭、看电视，和孩子们、小狗玩。
+XB 是/好听/在学校/今天上午/椅子
+X ___上有一只小猫。 | 椅子 | 椅子上 = sur la chaise.
+X 房间外___一只小狗。 | 是 | Phrase d'existence avec 是.
+X 她___在家里学习。 | 今天上午 | Temps avant le lieu.
+X 王一雪：你唱歌很___。 | 好听 | 好听 = beau à entendre.
+X 安妮：我下午还___上课。 | 在学校 | 在 + lieu + verbe.
+XP 桌子上___。 (photo : un livre sur la table) | 桌子上有一本书。
+XP 孩子们___在家里___。 (photo : des enfants devant la télé) | 孩子们晚上在家里看电视。
+XP ___一只小狗是我的，___二只小狗是她的。 (photo : deux chiots) | 第一只小狗是我的，第二只小狗是她的。
+XP 学校外边是一家小店，___。 (photo : un homme dans un magasin) | 学校外边是一家小店，我在那儿买东西。

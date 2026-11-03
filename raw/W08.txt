@@ -1,0 +1,24 @@
+@ 8
+PRON Distinguer les syllabes | Entraîne-toi à distinguer : lián/nián, rěn/shěn, diē/tiē, chǎn/chǎng, liè/lüè, hún/fén, bīn/bīng, gǒng/kǒng. Les mots redoublés (叠音) répètent la même syllabe : 姐姐 jiějie, 哥哥 gēge, 看看 kànkan, 想想 xiǎngxiang, 妹妹 mèimei, 谢谢 xièxie.
+PRON Écriture des caractères (1) : la structure | Un caractère réunit forme, son et sens. Il est composé de traits (笔画) → de composants (部件) → du caractère entier (整字). Les traits courants : horizontal 横, vertical 竖, oblique gauche 撇, oblique droite 捺, point 点, remontant 提, brisé 折, crochet 钩. Un caractère simple (独体字) n'a qu'un composant ; un caractère composé (合体字) en a deux ou plus. L'ordre des traits (笔顺) suit des règles.
+HZ 一 | 横 héng : trait horizontal, de gauche à droite
+HZ 丨 | 竖 shù : trait vertical, de haut en bas
+HR 先横后竖 | L'horizontal avant le vertical | 十
+HC 二 工 十
+WR Lequel n'est PAS un mot redoublé (叠音) ? | A tīngting/B tīnglì/C jiějie | B
+WR Lequel n'est PAS un mot redoublé (叠音) ? | A gēge/B gègè/C gè kè | C
+WR Lequel n'est PAS un mot redoublé (叠音) ? | A kànkan/B kànjiàn/C xiǎngxiang | B
+WR Lequel n'est PAS un mot redoublé (叠音) ? | A méiyǒu/B mèimei/C xièxie | A
+WB A Une fille qui lit/B Un portable posé sur la table/C Des médecins/D Une étudiante qui mange
+WQ 你的手机在桌子上呢。 | B | Image B : un portable sur la table.
+WQ 我在学校吃午饭。 | D | Image D : une étudiante qui mange.
+WQ 这个医院里病人多，医生工作很忙。 | C | Image C : des médecins.
+WB A 医院。/B 我老师。/C 饺子和面条儿。/D 好的，谢谢！
+WQ 桌子上有什么？ | C | – Qu'y a-t-il sur la table ? – Des jiaozi et des nouilles.
+WQ 她是谁？ | B | – Qui est-ce ? – Ma professeure.
+WQ 你爸爸在哪儿工作？ | A | – Où travaille ton père ? – À l'hôpital.
+WB A 能/B 有/C 名字
+WQ 我的房间里（ ）一只小猫。 | B | Lieu + 有 + chose.
+WQ 男：我们下午在书店见吧。 女：好的，我7:00（ ）到。 | A | 能到 = pouvoir arriver.
+WR 昨天爸爸在医院工作，哥哥在家里休息，没去书店。 ★ 说话人的哥哥昨天： | A 在家里/B 在书店/C 在医院工作 | A
+WR 我喜欢吃米饭，我女朋友不喜欢。 ★ 说话人的女朋友不喜欢吃： | A 米饭/B 包子/C 面条儿 | A

@@ -1,0 +1,70 @@
+# 15 | 大兴机场见！ | Rendez-vous à l'aéroport de Daxing !
+OBJ Exprimer ses envies et projets de voyage.
+OBJ Maîtriser la phrase coordonnée « ……，还/也…… ».
+OBJ Découvrir la culture de la table et l'hospitalité chinoises.
+OBJ Découvrir Pékin, la capitale de la Chine.
+## Texte 1 | Chez Li Wen, qui a invité Chen Tianzhong, Bai Jiayue et d'autres amis à goûter la cuisine chinoise.
+李文: 你们爱吃哪个菜？ | Li Wen : Quel plat préférez-vous ?
+白家月: 我喜欢这个，也喜欢那个。 | Bai Jiayue : J'aime celui-ci, et aussi celui-là.
+陈天中: 这些菜都好吃，还很好看。 | Chen Tianzhong : Tous ces plats sont délicieux, et en plus très beaux.
+李文: 我爱吃中国菜，也喜欢做。大家多吃点儿。 | Li Wen : J'adore la cuisine chinoise, et j'aime aussi la préparer. Servez-vous bien, tout le monde.
+TIP Inciter les autres à manger davantage fait partie de la culture chinoise de la table : c'est une marque d'hospitalité.
+V 爱 | ài | v. | aimer, adorer
+V 哪个 | nǎge | pron. | lequel, quel
+V 北京 | Běijīng | nom propre | Pékin
+V 好玩儿 | hǎowánr | adj. | amusant, intéressant
+V 飞机 | fēijī | n. | avion
+V 早饭 | zǎofàn | n. | petit-déjeuner
+V 早 | zǎo | adj. | tôt
+V 男朋友 | nánpéngyou | n. | petit ami, copain
+## Texte 2 | Chez Li Wen, tout le monde parle des projets de vacances en mangeant.
+李文: 你们都想去哪儿？ | Li Wen : Où voulez-vous aller ?
+安妮: 去年我和男朋友去了西安，今年我想去北京。 | Annie : L'an dernier, je suis allée à Xi'an avec mon copain ; cette année, je veux aller à Pékin.
+白家月: 前几年我去了西安，非常好玩儿。今年我也想去北京。 | Bai Jiayue : Je suis allée à Xi'an il y a quelques années, c'était super. Cette année, je veux aussi aller à Pékin.
+李文: 我和王老师都是北京人，北京非常漂亮。 | Li Wen : Mme Wang et moi sommes tous les deux de Pékin ; Pékin est magnifique.
+V 去年 | qùnián | n. | l'année dernière
+V 几 | jǐ | num. | quelques
+V 年 | nián | n. | année
+V 西安 | Xī'ān | nom propre | Xi'an
+## Texte 3 | Devant la salle de classe, Bai Jiayue, Annie et Mme Wang parlent du voyage à Pékin.
+王一飞: 你们的飞机到北京要几个小时？ | Wang Yifei : Combien d'heures dure votre vol jusqu'à Pékin ?
+白家月: 九个小时。 | Bai Jiayue : Neuf heures.
+王一飞: 我家人都在北京，星期天我姐姐也有时间，她可以去机场接你们，你们也可以住我家。 | Wang Yifei : Toute ma famille est à Pékin. Dimanche, ma sœur est libre : elle peut venir vous chercher à l'aéroport, et vous pouvez loger chez moi.
+安妮: 我们星期日早上八点到大兴机场，早不早？ | Annie : Nous arrivons à l'aéroport de Daxing dimanche à 8 h du matin, c'est tôt ?
+王一飞: 不早。 | Wang Yifei : Non, pas tôt.
+白家月: 谢谢老师！那我们和您姐姐在大兴机场见！ | Bai Jiayue : Merci madame ! Alors rendez-vous avec votre sœur à l'aéroport de Daxing !
+V 要 | yào | v. | falloir, prendre (du temps)
+V 小时 | xiǎoshí | n. | heure (durée)
+V 家人 | jiārén | n. | (membre de la) famille
+V 时间 | shíjiān | n. | temps (durée), disponibilité
+V 机场 | jīchǎng | n. | aéroport
+V 接 | jiē | v. | aller chercher, accueillir
+V 住 | zhù | v. | habiter, loger
+V 那 | nà | conj. | alors, dans ce cas
+V 大兴机场 | Dàxīng Jīchǎng | nom propre | aéroport de Daxing (Pékin)
+G La phrase coordonnée « ……，还/也…… » | Deux propositions (ou plus) liées logiquement et de structure parallèle. On ajoute une information avec « 也 » (aussi) ou « 还 » (en plus, de plus).
+EX 我喜欢这个，也喜欢那个。 | J'aime celui-ci, et aussi celui-là.
+EX 王老师是北京人，李文也是北京人。 | Mme Wang est de Pékin, Li Wen aussi.
+EX 我喜欢喝中国茶，还喜欢吃中国菜。 | J'aime le thé chinois, et en plus la cuisine chinoise.
+XL 李文问大家___吃哪个菜。 | 爱 | 好/爱/不爱 | « 你们爱吃哪个菜？»
+XL 李文说：“大家___。” | 多吃点儿 | 吃点儿/少吃点儿/多吃点儿 | « 大家多吃点儿。»
+XL 安妮和她男朋友去年去了___。 | 西安 | 西安/北京/学校 | « 去年我和男朋友去了西安。»
+XL 王老师和李文都是___。 | 北京人 | 西安人/北京人/哪里人 | « 我和王老师都是北京人。»
+XL 白家月和安妮坐___去北京。 | 飞机 | 火车/飞机/出租车 | « 你们的飞机到北京要几个小时？»
+XL 王老师的___都在北京。 | 家人 | 家人/朋友/学生 | « 我家人都在北京。»
+XQ 白家月爱吃哪个菜？ | 她喜欢这个，也喜欢那个。
+XQ 李文做饭好吃不好吃？ | 很好吃，这些菜都好吃，还很好看。
+XQ 安妮今年想去哪儿？ | 她今年想去北京。
+XQ 前几年白家月去了哪儿？ | 她去了西安。
+XQ 大兴机场在哪儿？ | 大兴机场在北京。
+XQ 王老师的姐姐可以去接白家月和安妮吗？ | 可以，星期天她有时间。
+XB 爱/时间/早不早/都/飞机
+X 这本书有15课，我们___学了。 | 都 | 都 = tout.
+X 我的家人都___喝茶。 | 爱 | 爱 = adorer.
+X 陈天中：我们明天晚上六点到，你觉得___？ 李文：不早。 | 早不早 | Question affirmative-négative.
+X 王一飞：她们想坐___去北京，你们呢？ | 飞机 | 坐飞机 = prendre l'avion.
+X 陈天中：我们没有___，不能出去玩。 | 时间 | 没有时间 = ne pas avoir le temps.
+XP 我爱吃面包，___。 (photo : des baozi) | 我爱吃面包，也爱吃包子。
+XP 去年我去___。 (photo : la Grande Muraille) | 去年我去了北京。
+XP 王一飞的姐姐___。 (photo : elle fait signe à l'aéroport) | 王一飞的姐姐在机场接她们。
+XP 王老师是___人，她___。 (photo : Mme Wang) | 王老师是北京人，她很漂亮。

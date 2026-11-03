@@ -1,0 +1,83 @@
+# 12 | 昨天下雪了 | Il a neigé hier
+OBJ Comprendre et décrire la météo.
+OBJ Décrire simplement son état de santé.
+OBJ Utiliser la particule « 了 » (1) (changement, nouvelle situation).
+OBJ Utiliser la structure « 太……了 ».
+OBJ Comprendre pourquoi les Chinois conseillent de « boire de l'eau chaude » quand on est malade.
+## Texte 1 | Wang Yixue appelle Wang Yifei pour prendre des nouvelles.
+王一雪: 今天天气怎么样？ | Wang Yixue : Quel temps fait-il aujourd'hui ?
+王一飞: 这里的天不太好，下雨了。 | Wang Yifei : Il ne fait pas très beau ici, il pleut.
+王一雪: 雨大吗？ | Wang Yixue : Il pleut fort ?
+王一飞: 有点儿大，我觉得很冷。 | Wang Yifei : Un peu, et j'ai très froid.
+V 天气 | tiānqì | n. | temps (météo)
+V 这里 | zhèli | pron. | ici
+V 天 | tiān | n. | temps, ciel
+V 下雨 | xià yǔ | | pleuvoir
+V 了 | le | part. | particule (changement de situation)
+V 雨 | yǔ | n. | pluie
+V 有点儿 | yǒudiǎnr | adv. | un peu (souvent négatif)
+V 觉得 | juéde | v. | trouver, sentir, penser
+V 冷 | lěng | adj. | froid
+## Texte 2 | Dans l'ascenseur du bureau, Wang Yixue et Yang Tongle discutent.
+王一雪: 昨天下雪了。 | Wang Yixue : Il a neigé hier.
+杨同乐: 是的，太冷了。 | Yang Tongle : Oui, il faisait trop froid.
+王一雪: 你昨天没来公司，生病了？ | Wang Yixue : Tu n'es pas venu au bureau hier, tu étais malade ?
+杨同乐: 对，我昨天去医院看病了。 | Yang Tongle : Oui, hier je suis allé voir le médecin à l'hôpital.
+V 下 | xià | v. | tomber (pluie, neige)
+V 雪 | xuě | n. | neige
+V 来 | lái | v. | venir
+V 公司 | gōngsī | n. | entreprise, bureau
+V 生病 | shēngbìng | v. | tomber malade
+V 看病 | kànbìng | v. | consulter un médecin
+## Texte 3 | Hier, à l'hôpital, le médecin examine Yang Tongle.
+杨同乐: 医生，我病了。 | Yang Tongle : Docteur, je suis malade.
+胡医生: 我看看。你觉得怎么样？ | Dr Hu : Je regarde. Comment vous sentez-vous ?
+杨同乐: 我很冷。 | Yang Tongle : J'ai très froid.
+胡医生: 好的，吃一点儿药，今天休息半天吧。 | Dr Hu : Bien, prenez un peu de médicament et reposez-vous une demi-journée aujourd'hui.
+杨同乐: 好的。 | Yang Tongle : D'accord.
+胡医生: 回家后再喝些热水。 | Dr Hu : Et une fois rentré, buvez de l'eau chaude.
+TIP « 看看 » est la forme redoublée de « 看 » : elle indique une action brève (jeter un œil).
+TIP Les Chinois aiment boire de l'eau chaude et pensent que c'est meilleur pour la santé.
+V 病 | bìng | v. | être malade
+V 一点儿 | yìdiǎnr | num.-cl. | un peu
+V 药 | yào | n. | médicament
+V 天 | tiān | cl. | jour
+V 回 | huí | v. | rentrer, retourner
+V 再 | zài | adv. | ensuite, puis
+V 喝 | hē | v. | boire
+V 热 | rè | adj. | chaud
+V 水 | shuǐ | n. | eau
+G Les phrases sans sujet | Ce sont des phrases formées d'un mot ou d'un groupe sans sujet ni prédicat distincts. Très fréquentes à l'oral (météo, exclamations…).
+EX 下雨了。 | Il pleut.
+EX 下雪了。 | Il neige.
+EX 上课了。 | Le cours commence.
+EX 真漂亮！ | Que c'est beau !
+EX 对不起！ / 没关系！ | Pardon ! / Pas grave !
+G La particule « 了 » (1) | En fin de phrase (ou à une pause), « 了 » indique un changement ou une nouvelle situation. À la forme négative, on utilise « 没 » et on SUPPRIME « 了 ».
+EX 下雨了。 | Il s'est mis à pleuvoir.
+EX 十二点了，吃午饭吧。 | Il est midi, allons déjeuner.
+EX A：弟弟起床了吗？ B：没起床呢。 | – Ton frère est levé ? – Pas encore.
+G La structure « 太……了 » | « 太 + adjectif + 了 » exprime une exclamation : un degré très élevé (trop, tellement).
+EX 太冷了！ | Il fait trop froid !
+EX 这个杯子太小了。 | Cette tasse est trop petite.
+EX 我们今天太高兴了！ | On est tellement contents aujourd'hui !
+XL 王一飞那儿的天气___。 | 不太好 | 很好/很不好/不太好 | « 这里的天不太好，下雨了。»
+XL 王一飞觉得___。 | 很冷 | 不冷/很冷/有点儿冷 | « 我觉得很冷。»
+XL 杨同乐昨天___了。 | 生病 | 生病/上班/去公司 | « 你昨天没来公司，生病了？— 对。»
+XL 杨同乐今天___了。 | 来公司 | 在家里/去医院/来公司 | Il parle avec Wang Yixue dans l'ascenseur du bureau.
+XL 杨同乐觉得___。 | 很冷 | 很热/很冷/有点儿冷 | « 我很冷。»
+XL 医生对杨同乐说：“今天___吧。” | 休息半天 | 上班/下班/休息半天 | « 今天休息半天吧。»
+XQ 昨天天气怎么样？ | 昨天下雪了，太冷了。
+XQ 杨同乐昨天做什么了？ | 他昨天去医院看病了。
+XQ 杨同乐生病了吗？ | 他生病了。
+XQ 看病后，杨同乐回家要做什么？ | 他回家后要喝些热水。
+XB 怎么样/雪/了/看/太
+X 外边正在下___，太冷了！ | 雪 | 下雪 = neiger.
+X 外边正在下雪，___冷了！ | 太 | 太……了.
+X 他去公司工作___。 | 了 | 了 = changement / action réalisée.
+X 医生：你觉得___？ 杨同乐：我很冷。 | 怎么样 | Demander comment on se sent.
+X 王一雪：你昨天去医院___病了吗？ | 看 | 看病 = consulter un médecin.
+XP 昨天___。 (photo : il pleut) | 昨天下雨了。
+XP 今天___。 (photo : soleil) | 今天天气很好。
+XP 杨同乐___了，他昨天去___，今天来___。 (photo : malade au lit) | 杨同乐生病了，他昨天去医院看病，今天来公司了。
+XP 医生对杨同乐说：“今天___，回家___。” (photo : chez le médecin) | 医生对杨同乐说：“今天休息半天吧，回家喝些热水。”

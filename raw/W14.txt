@@ -1,0 +1,32 @@
+@ 14
+WR Quel mot correspond à « méi guānxi » ? | A 没关系/B 不客气/C 男朋友 | A
+WR Quel mot correspond à « nánpéngyou » ? | A 女儿/B 男朋友/C 好玩儿 | B
+WR Quel mot correspond à « bú kèqi » ? | A 没关系/B 女儿/C 不客气 | C
+WR Quel mot correspond à « nǚ'ér » ? | A 女儿/B 好玩儿/C 男朋友 | A
+WR Quel mot correspond à « hǎowánr » ? | A 不客气/B 好玩儿/C 没关系 | B
+PRON L'intonation des phrases | Selon leur fonction, les phrases chinoises sont : déclaratives (陈述句, intonation plate ou légèrement descendante), interrogatives (疑问句, intonation montante à la fin, sauf pour les questions avec mot interrogatif), exclamatives (感叹句, fin allongée ou appuyée) et impératives (祈使句, intonation descendante).
+WR Nǐ shì xuésheng ma — déclarative ou question ? | A déclarative/B question | B
+WR Nǐ shì nǎ guó rén — déclarative ou question ? | A déclarative/B question | B
+WR Wǒ jiào Lǐ Wén — déclarative ou question ? | A déclarative/B question | A
+WR Jīntiān wǒ xiūxi — déclarative ou question ? | A déclarative/B question | A
+WR Shéi shì lǎoshī — déclarative ou question ? | A déclarative/B question | B
+WR Wǒ xiǎng qù chāoshì mǎi dōngxi — déclarative ou question ? | A déclarative/B question | A
+PRON Écriture des caractères (7) : structures des caractères composés | Haut-bas 上下结构 (分), haut-milieu-bas 上中下结构 (爱), semi-encadré 半包围结构 (同), entièrement encadré 全包围结构 (国).
+HR 上下结构 | Structure haut-bas | 分
+HR 上中下结构 | Structure haut-milieu-bas | 爱
+HR 半包围结构 | Structure semi-encadrée | 同
+HR 全包围结构 | Structure entièrement encadrée | 国
+HC 苹 爱 病 回
+WB A Une fille qui lit/B Des gens dans un train/C Un homme malade/D Une femme au téléphone
+WQ 王先生今天生病了，没来上班。 | C | Image C : un homme malade.
+WQ 火车上，有的人在读书，有的人在睡觉。 | B | Image B : des gens dans un train.
+WQ 喂，他们都来我家了，你也来吧。 | D | Image D : une femme au téléphone.
+WB A 是的，我睡了一觉。/B 我们都去了。/C 写字、看书、吃饭。/D 好的，谢谢！
+WQ 谁去学校了？ | B | – Qui est allé à l'école ? – Nous y sommes tous allés.
+WQ 你下午没去医院吗？ | A | – Tu n'es pas allé à l'hôpital cet après-midi ? – Non, j'ai fait un somme.
+WQ 你今天上午都忙了些什么？ | C | – Qu'as-tu fait ce matin ? – Écrire, lire, manger.
+WB A 都/B 茶/C 名字
+WQ 我喝了一杯（ ）。 | B | 一杯茶 = une tasse de thé.
+WQ 男：上课了，请大家不要说话。 女：好的，老师，我们（ ）不说话了。 | A | 都 = tous.
+WR 服务员，我想问一下，我们的房间号是多少？ ★ 说话人想知道什么？ | A 时间/B 电话号/C 房间号 | C
+WR 儿子和女儿都上小学了，他们会写很多字了。 ★ 说话人的两个孩子是： | A 小学生/B 中学生/C 大学生 | A

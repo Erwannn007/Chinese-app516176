@@ -1,0 +1,20 @@
+@ 3
+PRON Initiales et finales (3) | Les initiales zh, ch, sh, r, z, c, s se combinent avec a, e, i, u, ai, ao, ou, an, en, ang, eng, ong, ua, uo, uai, ui, uan, un, uang… mais jamais avec i, ü ni les finales en i/ü. Attention : après zh ch sh r z c s, le « i » ne se prononce pas comme le i français (zhi, chi, shi, ri, zi, ci, si).
+PEX 人 | rén
+PEX 坐 | zuò
+PEX 菜 | cài
+PEX 书 | shū
+PEX 手机 | shǒujī
+PEX 医生 | yīshēng
+PEX 桌子 | zhuōzi
+PEX 出租车 | chūzūchē
+PRON Règles d'écriture du pinyin (2) | (1) Seules, les finales qui commencent par u s'écrivent avec w : ua → wa, uo → wo, uai → wai, uei → wei, uan → wan, uen → wen, uang → wang, ueng → weng. (2) Après une initiale, uei et uen s'écrivent ui et un : shuí, chūn, suì, cūn.
+PEX 春 | chūn
+PEX 村 | cūn
+PEX 睡 | shuì
+PEX 嘴 | zuǐ
+WB A 我是法国人。 — 我也是法国人。/B 这是我女朋友。 — 你好，很高兴认识你。/C 王老师是你的中文老师吗？ — 是的。/D 喂，你工作忙吗？ — 我工作不忙。
+WQ Un homme au téléphone. | D | Au téléphone : 喂……
+WQ Un homme présente sa copine à des amis. | B | 这是我女朋友。
+WQ Une professeure devant un tableau. | C | On parle du professeur de chinois.
+WQ Une personne se présente simplement. | A | 我是法国人。

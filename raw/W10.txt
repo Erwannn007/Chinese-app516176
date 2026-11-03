@@ -1,0 +1,31 @@
+@ 10
+WR Quelle est la bonne écriture de « 对 » ? | A duī/B duì/C duǐ | B
+WR Quelle est la bonne écriture de « 超市 » ? | A chāoshì/B cháoshī/C chǎoshì | A
+WR Quelle est la bonne écriture de « 牛奶 » ? | A niūnài/B niúnǎi/C niǔnāi | B
+WR Quelle est la bonne écriture de « 上午 » ? | A shāngwū/B shángwú/C shàngwǔ | C
+WR Quelle est la bonne écriture de « 电影 » ? | A diànyǐng/B diānyíng/C diǎnyìng | A
+WR Quelle syllabe n'a pas le même ton que les autres ? | A zuò/B zì/C zhuō | C
+WR Quelle syllabe n'a pas le même ton que les autres ? | A xiě/B chá/C jiě | B
+WR Quelle syllabe n'a pas le même ton que les autres ? | A chuān/B qù/C fēn | B
+WR Quelle syllabe n'a pas le même ton que les autres ? | A yǒu/B shuí/C rén | A
+PRON Écriture des caractères (3) | Nouveaux traits brisés : 横折 héngzhé (horizontal puis vers le bas), 横撇 héngpiě (horizontal puis oblique gauche), 竖折 shùzhé (vertical puis horizontal), 竖提 shùtí (vertical puis remontant). Nouvelles règles : « de gauche à droite » (的) et « l'extérieur avant l'intérieur » (月).
+HZ ㇕ | 横折 héngzhé : horizontal puis vers le bas
+HZ ㇇ | 横撇 héngpiě : horizontal puis oblique gauche
+HZ ㇗ | 竖折 shùzhé : vertical puis horizontal
+HZ ㇙ | 竖提 shùtí : vertical puis remontant
+HR 从左到右 | De gauche à droite | 的
+HR 先外后里 | L'extérieur avant l'intérieur | 月
+HC 日 友 医 以
+WB A Une fille qui lit/B Des pommes/C Des baozi/D Des vêtements en magasin
+WQ 请问，包子多少钱一个？ | C | Image C : des baozi.
+WQ 这边的苹果真便宜。 | B | Image B : des pommes.
+WQ 这些是男孩子穿的衣服。 | D | Image D : des vêtements.
+WB A 十块钱。/B 对不起，没有。/C 在那边。/D 好的，谢谢！
+WQ 女孩子的衣服在哪儿？ | C | – Où sont les vêtements de fille ? – Là-bas.
+WQ 杯子多少钱一个？ | A | – Combien coûte une tasse ? – 10 yuans.
+WQ 请问这儿有牛奶吗？ | B | – Vous avez du lait ? – Désolé, non.
+WB A 穿/B 块/C 名字
+WQ 那些苹果两（ ）钱一斤，很便宜。 | B | 两块钱一斤 = 2 yuans la livre.
+WQ 男：这件衣服怎么样？ 女：很好看，10岁的男孩子能（ ）。 | A | 能穿 = peut le porter.
+WR 我没有手机，今天想去商店买一个。 ★ 说话人想买什么？ | A 杯子/B 手机/C 水果 | B
+WR 这件衣服很好看，你也能穿，买一件吧。 ★ 那件衣服： | A 好看/B 便宜/C 很贵 | A

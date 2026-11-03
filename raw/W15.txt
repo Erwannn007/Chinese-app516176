@@ -1,0 +1,27 @@
+@ 15
+WR Quel mot correspond à « méi kànjiàn » ? | A 没看见/B 说话/C 哪些人 | A
+WR Quel mot correspond à « nǎxiē rén » ? | A 什么时候/B 哪些人/C 坐飞机 | B
+WR Quel mot correspond à « shénme shíhou » ? | A 说话/B 没看见/C 什么时候 | C
+WR Quel mot correspond à « zuò fēijī » ? | A 坐飞机/B 哪些人/C 说话 | A
+WR Wǒ ài chī shuǐguǒ — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | A
+WR Zhè jiàn yīfu zhēn piàoliang — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | C
+WR Nǐmen qù nǎlǐ — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | B
+WR Qǐng zuò — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | D
+WR Yǔ dà ma — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | B
+PRON Écriture des caractères (8) : les clés (偏旁) | Une clé est un composant qui indique souvent le sens. Clé de la bouche 口字旁 kǒuzìpáng (喝), clé de l'homme 单人旁 dānrénpáng (你), clé de la parole 言字旁 yánzìpáng (认), clé du soleil 日字旁 rìzìpáng (明), clé du bois 木字旁 mùzìpáng (杯), clé de la femme 女字旁 nǚzìpáng (姐).
+HR 口字旁 | Clé de la bouche (manger, boire, parler) | 喝
+HR 单人旁 | Clé de l'homme (personnes) | 你
+HR 言字旁 | Clé de la parole (langage) | 认
+HR 日字旁 | Clé du soleil (temps, lumière) | 明
+HR 木字旁 | Clé du bois (arbres, objets en bois) | 杯
+HR 女字旁 | Clé de la femme | 姐
+HC 喝 你 认 明 杯 姐
+WB A 我女儿。/B 十个。/C 苹果。/D 好的，谢谢！
+WQ 你会写几个汉字？ | B | – Combien de caractères sais-tu écrire ? – Dix.
+WQ 谁上中学了？ | A | – Qui est entré au collège ? – Ma fille.
+WQ 你爱吃什么？ | C | – Qu'aimes-tu manger ? – Des pommes.
+WB A 电视/B 北京/C 名字
+WQ 今年我们都想去（ ）。 | B | 去北京 = aller à Pékin.
+WQ 男：我爱看电影，也爱唱歌。你呢？ 女：我喜欢看（ ）。 | A | 看电视 = regarder la télé.
+WR 明天星期天，儿子想去看一个电影。 ★ 儿子明天想： | A 买电脑/B 打电话/C 看电影 | C
+WR 下小雨了，小狗非常高兴，它喜欢小雨。 ★ 小狗喜欢： | A 下小雨/B 下大雨/C 下小雪 | A

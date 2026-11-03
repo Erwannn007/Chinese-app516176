@@ -1,0 +1,77 @@
+# 10 | 这儿的苹果真便宜！ | Les pommes sont vraiment pas chères ici !
+OBJ Comprendre et discuter simplement du prix des articles.
+OBJ Maîtriser les phrases à prédicat adjectival.
+OBJ Utiliser le pronom interrogatif « 怎么样 ».
+OBJ Connaître le renminbi (RMB).
+## Texte 1 | Dans une petite boutique, Wang Yixue achète une tasse.
+王一雪: 请问，有杯子吗？ | Wang Yixue : Excusez-moi, vous avez des tasses ?
+售货员: 有，杯子在这边。 | Vendeuse : Oui, les tasses sont par ici.
+王一雪: 多少钱一个？ | Wang Yixue : Combien coûte une tasse ?
+售货员: 这些五块钱一个，那些十块钱一个。 | Vendeuse : Celles-ci 5 yuans pièce, celles-là 10 yuans pièce.
+王一雪: 我买这个吧。 | Wang Yixue : Je prends celle-ci.
+V 杯子 | bēizi | n. | tasse, verre
+V 售货员 | shòuhuòyuán | n. | vendeur, vendeuse
+V 这边 | zhèbiān | pron. | ici, de ce côté
+V 钱 | qián | n. | argent
+V 这些 | zhèxiē | pron. | ceux-ci, ces
+V 块 | kuài | cl. | yuan (oral)
+V 那些 | nàxiē | pron. | ceux-là
+V 衣服 | yīfu | n. | vêtement
+V 穿 | chuān | v. | porter (un vêtement), mettre
+V 商店 | shāngdiàn | n. | magasin
+## Texte 2 | Au marché, Wang Yixue achète des fruits.
+王一雪: 这儿的水果真不少！ | Wang Yixue : Il y a vraiment beaucoup de fruits ici !
+售货员: 您想买什么？ | Vendeur : Que voulez-vous acheter ?
+王一雪: 我想买两斤苹果。 | Wang Yixue : Je voudrais deux livres de pommes.
+售货员: 苹果三块五一斤。这些七块二，七块钱吧。 | Vendeur : Les pommes sont à 3,5 yuans la livre. Ça fait 7,2 yuans, disons 7 yuans.
+王一雪: 好的，这儿的苹果真便宜！ | Wang Yixue : Super, les pommes sont vraiment pas chères ici !
+V 这儿 | zhèr | pron. | ici
+V 水果 | shuǐguǒ | n. | fruit
+V 少 | shǎo | adj. | peu nombreux, peu
+V 斤 | jīn | cl. | livre (500 g)
+V 苹果 | píngguǒ | n. | pomme
+V 便宜 | piányi | adj. | bon marché, pas cher
+## Texte 3 | Au centre commercial, Liu Ming et Wang Yixue achètent des vêtements pour les enfants.
+王一雪: 这家商店衣服真多！这件一百元，怎么样？ | Wang Yixue : Il y a vraiment beaucoup de vêtements dans ce magasin ! Celui-ci est à 100 yuans, qu'en penses-tu ?
+刘明: 好看，也不贵。 | Liu Ming : Il est joli, et pas cher.
+王一雪: 小雪能穿，买一件吧。 | Wang Yixue : Xiaoxue peut le porter, prenons-en un.
+刘明: 好的。小明能穿吗？ | Liu Ming : D'accord. Xiaoming peut le porter aussi ?
+王一雪: 不能。这些是女孩子穿的衣服，男孩子的衣服在那儿。 | Wang Yixue : Non. Ce sont des vêtements de fille ; ceux des garçons sont là-bas.
+刘明: 好的。 | Liu Ming : D'accord.
+V 件 | jiàn | cl. | classificateur (vêtements, affaires)
+V 元 | yuán | cl. | yuan (écrit)
+V 怎么样 | zěnmeyàng | pron. | comment (est-ce) ? qu'en penses-tu ?
+V 贵 | guì | adj. | cher
+V 女 | nǚ | adj. | féminin, femme
+V 男 | nán | adj. | masculin, homme
+V 那儿 | nàr | pron. | là-bas
+G Exprimer une somme d'argent | La monnaie chinoise est le renminbi (RMB). Unités, de la plus grande à la plus petite : 元 / 角 / 分 à l'écrit, 块 / 毛 / 分 à l'oral (1 元 = 10 角 = 100 分). Ordre : 元/块 → 角/毛 → 分. Le dernier niveau peut s'omettre : 三块二 = 3,20.
+EX 0.02元 = 两分 | 2 centimes (liǎng fēn)
+EX 0.2元 = 两毛 | 20 centimes (liǎng máo)
+EX 3.2元 = 三块二 | 3,20 yuans
+EX 6.02元 = 六块零两分 | 6,02 yuans
+EX 202.2元 = 二百零二块两毛 | 202,20 yuans
+G Les phrases à prédicat adjectival | Un adjectif peut être directement le prédicat (sans « 是 » !). On met souvent devant un adverbe de degré (很, 真, 非常, 太) ou une négation (不).
+EX 这儿的水果真不少！ | Il y a vraiment beaucoup de fruits ici !
+EX 我的房间不大。 | Ma chambre n'est pas grande.
+EX 那个苹果好吃。 | Cette pomme est bonne.
+G Le pronom interrogatif « 怎么样 » | « 怎么样 » sert à demander un avis ou des nouvelles d'une situation. Structure : ……怎么样？ (Comment est… ? Qu'en penses-tu ?)
+EX A：这个杯子怎么样？ B：我很喜欢，也不贵。 | – Comment trouves-tu cette tasse ? – Je l'aime beaucoup, et elle n'est pas chère.
+EX A：这本书怎么样？ B：很好看。 | – Comment est ce livre ? – Très bien.
+EX A：这个菜怎么样？ B：这个菜不太好吃，我不喜欢。 | – Comment est ce plat ? – Pas très bon, je ne l'aime pas.
+XL 这儿的水果___。 | 真不少 | 很少/真不少/真不多 | « 这儿的水果真不少！»
+XL 苹果___一斤。 | 三块五 | 三块/三块五/七块二 | « 苹果三块五一斤。»
+XL 这件衣服___。 | 一百元 | 二十元/一百元/一百一十元 | « 这件一百元。»
+XL 这件衣服___。 | 不贵 | 太贵/很贵/不贵 | « 好看，也不贵。»
+XQ 那件衣服王一雪想买几件？ | 她想买一件。
+XQ 男孩子的衣服在哪儿？ | 男孩子的衣服在那儿。
+XB 杯子/怎么样/多少/这些/块
+X 请问，这本书___钱？ | 多少 | 多少钱 = combien ça coûte.
+X 这个___不便宜，六十五块钱一个。 | 杯子 | 一个杯子 = une tasse.
+X 这个杯子不便宜，六十五___钱一个。 | 块 | 块 = yuan (oral).
+X 售货员：___苹果很好吃，你买一些吧。 | 这些 | 这些 = ces…-ci.
+X 安妮：这件衣服___？ 白家月：很好看。 | 怎么样 | Demander un avis.
+XP 这儿的苹果___。 (photo : des pommes) | 这儿的苹果真便宜。
+XP 这个电影___？ (photo : un film) | 这个电影怎么样？
+XP 那些杯子___，非常___。 (photo : des tasses) | 那些杯子很好看，非常便宜。
+XP 这件衣服___，一件___块。 (photo : une chemise) | 这件衣服不贵，一件五十块。

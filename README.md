@@ -1,1 +1,26 @@
-# Chinese-app516176
+# 学中文 · Mon Chinois HSK 1
+
+Application web (PWA) personnelle pour réviser le chinois avec le **New HSK Course 1** (manuel + cahier d'exercices) et les PPT du cours.
+
+## Fonctions
+- **Choix des chapitres** (ex. 1 à 7 pour l'examen) : utilisé partout (cartes, quiz, exercices, examens).
+- **Cours** : textes avec pinyin et traduction, vocabulaire, grammaire expliquée, astuces, prononciation, caractères, phrases de la prof, virelangues, avec la voix chinoise.
+- **Cartes mémoire** avec répétition espacée.
+- **Quiz de vocabulaire** : 汉字 ↔ français ↔ pinyin, et à l'écoute.
+- **Exercices des livres** (manuel + cahier) avec correction et explications.
+- **Phrases en ordre**, **écoute**, **écriture des caractères** (ordre des traits).
+- **Examen blanc** noté sur 20, avec l'**HSK 1 blanc** du cahier (partie lecture).
+- **Mes erreurs** : les questions ratées reviennent jusqu'à ce qu'elles soient réussies.
+- Fonctionne **hors ligne** une fois installée ; la progression reste sur le téléphone.
+
+## Installer sur iPhone
+Ouvrir le site dans Safari → bouton **Partager** → **Sur l'écran d'accueil**.
+
+## Mettre à jour le contenu
+Les cours sont transcrits dans `raw/*.txt` (L = manuel, W = cahier). Après modification :
+
+```
+python3 tools/build_data.py
+```
+
+Cette commande régénère `data.js`. Bibliothèques incluses : [pinyin-pro](https://github.com/zh-lx/pinyin-pro) (MIT), [Hanzi Writer](https://hanziwriter.org) (MIT) et ses données de traits (Arphic Public License, voir `hanzi/`).

@@ -1,0 +1,35 @@
+@ 5
+PRON Le changement de ton de « 不 » | « 不 » (bù) garde son 4e ton seul ou devant un 1er, 2e ou 3e ton. Devant un 4e ton, il se prononce au 2e ton : bù + 4e ton → bú + 4e ton.
+PEX 不是 | bù + shì → bú shì
+PEX 不会 | bù + huì → bú huì
+PEX 不大 | bù + dà → bú dà
+PEX 不对 | bù + duì → bú duì
+PEX 不要 | búyào
+PEX 不客气 | bú kèqi
+PEX 不喝 | bù hē (pas de changement)
+PEX 不来 | bù lái (pas de changement)
+PEX 不冷 | bù lěng (pas de changement)
+PRON Le changement de ton de « 一 » | « 一 » (yī) garde son 1er ton seul ou comme nombre ordinal (第一). (1) Devant un 1er, 2e ou 3e ton → 4e ton (yì). (2) Devant un 4e ton → 2e ton (yí).
+PEX 一些 | yī + xiē → yì xiē
+PEX 一年 | yī + nián → yì nián
+PEX 一口 | yī + kǒu → yì kǒu
+PEX 一个 | yī + gè → yí gè
+PEX 一日 | yī + rì → yí rì
+PEX 一岁 | yī + suì → yí suì
+PEX 一半 | yíbàn
+PEX 一下 | yíxià
+PEX 一点儿 | yìdiǎnr
+PEX 一天 | yì tiān
+WB A Une fille qui lit/B Un garçon qui écrit/C Quelqu'un allongé qui se repose/D Deux personnes se font signe
+WQ 王老师，再见。 | D | Image D : deux personnes se font signe (au revoir).
+WQ 今天我休息。 | C | Image C : quelqu'un se repose.
+WQ 我有一个儿子，他今年7岁。 | B | Image B : un petit garçon.
+WB A 好的，谢谢！/B 我不会。/C 面条儿。/D 5月6号。
+WQ 你去超市买什么？ | C | – Que vas-tu acheter ? – Des nouilles.
+WQ 你会做饭吗？ | B | – Tu sais cuisiner ? – Non.
+WQ 今天几号？ | D | – On est le combien ? – Le 6 mai.
+WB A 几/B 好看/C 名字
+WQ 今天（ ）号？ | A | 几号 = quel jour du mois.
+WQ 男：你的新电脑真（ ）！ 女：谢谢，我也很喜欢。 | B | 真好看 = vraiment beau.
+WR 我非常喜欢我的中文名字。 ★ 说话人喜欢什么？ | A 新电脑/B 中国菜/C 中文名字 | C
+WR 今天8号，你几号休息？ ★ 说话人想知道什么？ | A 今天几号/B 哪天休息/C 星期几上班 | B

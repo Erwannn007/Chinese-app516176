@@ -1,0 +1,96 @@
+# 5 | 今天我休息 | Aujourd'hui, je suis en repos
+OBJ Comprendre, lire et dire une date selon l'usage chinois.
+OBJ Utiliser le verbe modal « 会 » (savoir faire, après apprentissage).
+OBJ Maîtriser les phrases à prédicat nominal.
+## Texte 1 | À la maison, Liu Ming et Wang Yixue discutent.
+王一雪: 今天几号？ | Wang Yixue : On est le combien aujourd'hui ?
+刘明: 今天9月8号。 | Liu Ming : Aujourd'hui, c'est le 8 septembre.
+王一雪: 星期几？ | Wang Yixue : Quel jour de la semaine ?
+刘明: 星期日。今天我休息。 | Liu Ming : Dimanche. Aujourd'hui, je suis en repos.
+TIP On peut aussi écrire « 9月8日 ». Et « 星期日 » se dit aussi « 星期天 ».
+V 今天 | jīntiān | n. | aujourd'hui
+V 号 | hào | cl. | date, jour du mois (oral)
+V 月 | yuè | n. | mois
+V 日 | rì | cl. | jour du mois (écrit)
+V 星期 | xīngqī | n. | semaine
+V 星期日 | Xīngqīrì | n. | dimanche
+V 星期天 | Xīngqītiān | n. | dimanche
+V 休息 | xiūxi | v. | se reposer, être en repos
+V 年 | nián | n. | année
+V 星期一 | Xīngqīyī | n. | lundi
+V 电脑 | diànnǎo | n. | ordinateur
+V 做饭 | zuò fàn | | faire la cuisine
+V 饺子 | jiǎozi | n. | raviolis chinois (jiaozi)
+## Texte 2 | Au bureau, Wang Yixue et Yang Tongle discutent pendant la pause.
+王一雪: 你会做饭吗？ | Wang Yixue : Tu sais cuisiner ?
+杨同乐: 我会做。 | Yang Tongle : Oui, je sais.
+王一雪: 你会做什么？ | Wang Yixue : Qu'est-ce que tu sais faire ?
+杨同乐: 我会做面条儿、饺子，也会做一些菜。星期天我也做饭。 | Yang Tongle : Je sais faire des nouilles, des jiaozi et aussi quelques plats. Le dimanche, je cuisine aussi.
+V 会 | huì | v. modal | savoir (faire), être capable de
+V 做 | zuò | v. | faire, préparer
+V 面条儿 | miàntiáor | n. | nouilles
+V 一些 | yìxiē | num.-cl. | quelques, un peu de
+V 菜 | cài | n. | plat (cuisiné)
+## Texte 3 | Au bureau, Wang Yixue et Yang Tongle discutent à la fin de la journée.
+王一雪: 同乐，下班吗？ | Wang Yixue : Tongle, tu as fini ta journée ?
+杨同乐: 下班。 | Yang Tongle : Oui, j'ai fini.
+王一雪: 这是你的新电脑吗？ | Wang Yixue : C'est ton nouvel ordinateur ?
+杨同乐: 是的，是我的新电脑。 | Yang Tongle : Oui, c'est mon nouvel ordinateur.
+王一雪: 真好看！ | Wang Yixue : Il est vraiment beau !
+杨同乐: 我也很喜欢它。 | Yang Tongle : Je l'aime beaucoup aussi.
+V 下班 | xiàbān | v. | finir le travail
+V 上班 | shàngbān | v. | aller au travail
+V 新 | xīn | adj. | nouveau, neuf
+V 真 | zhēn | adv. | vraiment
+V 好看 | hǎokàn | adj. | beau, joli
+V 喜欢 | xǐhuan | v. | aimer
+V 它 | tā | pron. | il, elle (objet, animal)
+G L'expression du temps (1) : la date | Ordre en chinois : du plus grand au plus petit → 年 (année) → 月 (mois) → 日/号 (jour) → 星期 (jour de la semaine). Les années se lisent chiffre par chiffre : 2025 = 二零二五年. Mois : 一月 … 十二月. Jours de la semaine : 星期一 (lundi), 星期二, 星期三, 星期四, 星期五, 星期六 (samedi), 星期日/星期天 (dimanche).
+EX 1992年5月16日/号，星期六 | samedi 16 mai 1992
+EX 2024年10月22日/号，星期二 | mardi 22 octobre 2024
+EX 明天是2024年8月18号，星期天。 | Demain, c'est dimanche 18 août 2024.
+G La phrase à prédicat nominal | Le prédicat est seulement un nom ou un groupe nominal (sans verbe « 是 »). On l'utilise surtout pour l'heure, la date, l'âge, etc.
+EX 今天9月8号。 | Aujourd'hui, c'est le 8 septembre.
+EX A：今天几号？ B：今天5月1号。 | – On est le combien ? – Le 1er mai.
+EX 我妹妹12岁。 | Ma petite sœur a 12 ans.
+G Le verbe modal « 会 » | « 会 » se place devant un verbe : savoir faire quelque chose grâce à un apprentissage. Négation : 不会.
+EX 你会做饭吗？ | Tu sais cuisiner ?
+EX 我会做面条儿。 | Je sais faire des nouilles.
+EX 我不会做菜。 | Je ne sais pas cuisiner.
+XL 杨同乐___做饭。 | 会 | 会/不/不会 | « 我会做。»
+XL 杨同乐___也做饭。 | 星期日 | 星期三/星期六/星期日 | « 星期天我也做饭。» (星期天 = 星期日)
+XL 杨同乐也___。 | 下班 | 上班/下班/休息 | « 同乐，下班吗？ — 下班。»
+XL 杨同乐有一个新___。 | 电脑 | 名字/工作/电脑 | « 是我的新电脑。»
+XQ 杨同乐的新电脑怎么样？ | 他的新电脑真好看。
+XQ 杨同乐喜欢他的新电脑吗？ | 他很喜欢他的新电脑。
+XB 菜/喜欢/6月22号/新/真
+X 今天___。 | 6月22号 | Phrase à prédicat nominal : 今天 + date.
+X 杨同乐有一个___电脑。 | 新 | 新电脑 = nouvel ordinateur.
+X 王一雪：你会做这两个___吗？ 杨同乐：我会做。 | 菜 | 两个菜 = deux plats.
+X 王一雪：你的电脑___好看！ | 真 | 真好看 = vraiment beau.
+X 杨同乐：我也很___。 | 喜欢 | 很喜欢 = aimer beaucoup.
+XP 今天___。 (calendrier : 7 septembre 2025, dimanche) | 今天9月7号，星期日。
+XP 杨同乐会___。 (photo : il cuisine) | 杨同乐会做饭。
+XP 我___两个菜。 (photo : deux plats) | 我会做两个菜。
+XP 今天是___年___月1号，___。 (calendrier : 1er mai 2025, jeudi) | 今天是2025年5月1号，星期四。
+PP 今天几月几号？ — 今天10月16日。 | Quelle date sommes-nous ? — Le 16 octobre.
+PP 今天星期几？ — 今天星期五。 | Quel jour sommes-nous ? — Vendredi.
+PP 星期天我们没有课。 | Le dimanche, nous n'avons pas cours.
+PP 星期日我休息。 | Le dimanche, je me repose.
+PP 你休息吗？ — 不休息。 | Tu es en repos ? — Non.
+PP 今天10月18号，星期天，我休息。 | Aujourd'hui, dimanche 18 octobre, je suis en repos.
+PP 你会游泳吗？ — 我不会游泳。 | Sais-tu nager ? — Je ne sais pas nager.
+PP 他会踢足球吗？ | Sait-il jouer au foot ?
+PP 他会说中文。 | Il sait parler chinois.
+PP 他不会做饭。 | Il ne sait pas cuisiner.
+PP 你会做什么菜？ | Quels plats sais-tu préparer ?
+PP 这是什么菜？ — 这是中国菜。 | Quel est ce plat ? — C'est un plat chinois.
+PP 妈妈今天做什么饭？ — 妈妈今天做面条儿。 | Qu'est-ce que maman cuisine aujourd'hui ? — Des nouilles.
+PP 这是谁的电脑？ — 这是老师的电脑。 | À qui est cet ordinateur ? — C'est celui du professeur.
+PP 我没有电脑。 | Je n'ai pas d'ordinateur.
+PP 这本书很好看。 | Ce livre est très bien.
+PP 这个菜真好吃！ | Ce plat est vraiment délicieux !
+PP 你喜欢中国菜吗？ | Tu aimes la cuisine chinoise ?
+PP 你喜欢做什么？ | Qu'est-ce que tu aimes faire ?
+PP 他不喜欢面条儿。 | Il n'aime pas les nouilles.
+PP 我喜欢饺子，也喜欢面条儿。 | J'aime les jiaozi, et aussi les nouilles.

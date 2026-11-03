@@ -1,0 +1,27 @@
+@ 13
+WR Quel mot n'a pas les mêmes tons que les autres ? | A jiǎozi/B shuǐguǒ/C zǎoshang | B
+WR Quel mot n'a pas les mêmes tons que les autres ? | A xuéxí/B fángjiān/C míngtiān | A
+WR Quel mot n'a pas les mêmes tons que les autres ? | A mǎi bāozi/B xiě Hànzì/C yǒu bēizi | B
+WR Quel mot n'a pas les mêmes tons que les autres ? | A máng gōngzuò/B lái shūdiàn/C zhǎo tóngxué | C
+WR Quel mot correspond à « gōngsī » ? | A 公司/B 工作/C 先生 | A
+WR Quel mot correspond à « xiānsheng » ? | A 朋友/B 先生/C 饺子 | B
+WR Quel mot correspond à « gōngzuò » ? | A 公司/B 饺子/C 工作 | C
+WR Quel mot correspond à « jiǎozi » ? | A 饺子/B 朋友/C 先生 | A
+WR Quel mot correspond à « péngyou » ? | A 工作/B 朋友/C 公司 | B
+PRON Écriture des caractères (6) : caractères simples et composés | Un caractère simple (独体字) ne se décompose pas (ex. 人 = 撇 + 捺 ; 口, 上, 下). Un caractère composé (合体字) réunit deux composants ou plus (ex. 认 = 讠 + 人 ; 和, 什). Les idéo-phonogrammes (形声字) combinent une clé de sens et une partie phonétique : dans 奶, 姥, 妈, 姐, 妹, la clé 女 (à gauche) indique un lien avec les femmes, et 乃, 老, 马, 且, 未 (à droite) donnent la prononciation.
+HR 左右结构 | Structure gauche-droite | 和
+HR 左中右结构 | Structure gauche-milieu-droite | 做
+HC 儿 弟 汉 谢
+WB A Une fille qui lit/B Une pomme coupée en deux/C Un téléphone/D Un verre de lait
+WQ 她太小了，这个苹果给她一半吧。 | B | Image B : une pomme coupée en deux.
+WQ 请给我一杯牛奶，谢谢。 | D | Image D : un verre de lait.
+WQ 我打电话问一下吧。 | C | Image C : un téléphone.
+WB A 不客气。/B 一个面包。/C 不知道。/D 好的，谢谢！
+WQ 那里卖不卖手机？ | C | – Ils vendent des portables là-bas ? – Je ne sais pas.
+WQ 我会写了，谢谢老师。 | A | – Je sais écrire, merci madame. – De rien.
+WQ 你要什么？ | B | – Que veux-tu ? – Un pain.
+WB A 给/B 一下/C 名字
+WQ 你看（ ），你要什么？ | B | 看一下 = jeter un œil.
+WQ 男：请坐，您要什么？ 女：请（ ）我一杯茶。 | A | 请给我 = donnez-moi s'il vous plaît.
+WR 明天星期天，我们可以去饭店吃饺子吗？ ★ 明天是： | A 星期五/B 星期六/C 星期日 | C
+WR 爸爸今天在家里工作，我们不要去他的房间。 ★ 爸爸今天： | A 在家里工作/B 做了面条儿/C 不能去公司 | A

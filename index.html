@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Mon Chinois HSK 1</title>
+<meta name="description" content="Révisions de chinois — New HSK Course 1 (manuel, cahier et cours).">
+<meta name="theme-color" content="#c8102e">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Chinois">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" href="icons/icon-192.png">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="topbar">
+  <button class="iconbtn" id="backBtn" aria-label="Retour" hidden>‹</button>
+  <h1 id="title">学中文</h1>
+  <button class="chapbtn" id="chapBtn" aria-label="Choisir les chapitres">Ch. <span id="chapLabel">…</span></button>
+</header>
+<main id="app" tabindex="-1"></main>
+<nav class="tabbar">
+  <a href="#/" data-tab="home"><span>🏠</span>Accueil</a>
+  <a href="#/cours" data-tab="cours"><span>📖</span>Cours</a>
+  <a href="#/cartes" data-tab="cartes"><span>🃏</span>Cartes</a>
+  <a href="#/exos" data-tab="exos"><span>✏️</span>Exercices</a>
+  <a href="#/plus" data-tab="plus"><span>☰</span>Plus</a>
+</nav>
+<div class="sheet" id="sheet" hidden>
+  <div class="sheet-card" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
+    <h2 id="sheetTitle">Chapitres à réviser</h2>
+    <p class="muted">Seuls ces chapitres seront utilisés dans les cartes, quiz, exercices et examens.</p>
+    <div class="presets" id="presets"></div>
+    <div class="chapgrid" id="chapGrid"></div>
+    <button class="btn primary block" id="sheetOk">Valider</button>
+  </div>
+</div>
+<div class="toast" id="toast" hidden></div>
+<script src="vendor/pinyin-pro.js"></script>
+<script src="vendor/hanzi-writer.min.js"></script>
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
