@@ -1,5 +1,5 @@
 /* Service worker : met l'app en cache pour qu'elle marche sans internet. */
-const VERSION = "v2";
+const VERSION = "v3";
 const CORE = ["./", "index.html", "style.css", "app.js", "data.js", "manifest.webmanifest",
   "vendor/pinyin-pro.js", "vendor/hanzi-writer.min.js",
   "icons/apple-touch-icon.png", "icons/icon-192.png", "icons/icon-512.png"];

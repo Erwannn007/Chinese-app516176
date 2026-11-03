@@ -166,6 +166,8 @@
         <a class="tile" href="#/revoir">${ico("target")}<b>Mes erreurs</b><small>${Object.keys(S.mistakes).length} à retravailler</small></a>
       </div>
       <a class="tile wide mt" href="#/cours">${ico("book")}<span><b>Relire les leçons</b><br><small>Textes, vocabulaire, grammaire et explications de chaque chapitre</small></span></a>`;
+    const ss = Object.entries(sessions()).sort((a, b) => b[1].at - a[1].at).slice(0, 3);
+    if (ss.length) app.querySelector(".hero").insertAdjacentHTML("afterend", ss.map(([k, v]) => `<a class="tile wide" href="${esc(k)}" style="margin-bottom:12px">${ico("flag")}<span style="flex:1"><b>Reprendre : ${esc(v.title)}</b><br><small>Question ${v.i + 1} sur ${v.qs.length} · ${v.score} bonne(s) réponse(s)</small></span><span class="chev">${icon("chev")}</span></a>`).join(""));
     $("#chg").onclick = (e) => { e.preventDefault(); openSheet(); };
   }
 
@@ -267,20 +269,38 @@
   }
 
   /* ---------- moteur de questions générique ---------- */
-  function runSession(qs, opts) {
-    opts = opts || {}; let i = 0, score = 0; const wrong = []; const t0 = Date.now();
+  /* sessions en cours, sauvegardées après chaque réponse (reprise possible) */
+  const SESS_TITLES = { quiz: "Quiz", exos: "Exercices", phrases: "Phrases", ecoute: "Écoute", examen: "Examen blanc", revoir: "Mes erreurs" };
+  function sessions() { return store.get("sess", {}); }
+  function saveSess(key, v) { const all = sessions(); if (v) all[key] = v; else delete all[key]; store.set("sess", all); }
+  function runSession(qs, opts, fresh) {
+    opts = opts || {}; const key = location.hash || "#/";
+    const saved = sessions()[key];
+    if (!fresh && saved && saved.i < saved.qs.length) {
+      app.innerHTML = `<div class="card center"><div class="emptyico">${icon("flag")}</div><h2 style="justify-content:center">Série en cours</h2>
+        <p class="muted">Tu t'es arrêté(e) à la question ${saved.i + 1} sur ${saved.qs.length} (${saved.score} bonne${saved.score > 1 ? "s" : ""} réponse${saved.score > 1 ? "s" : ""}).</p>
+        <button class="btn primary block" id="resume">Reprendre où j'en étais</button><button class="btn block mt" id="restart">Nouvelle série</button></div>`;
+      $("#resume").onclick = () => play(saved.qs, saved.i, saved.score, saved.wrong, saved.t0);
+      $("#restart").onclick = () => { saveSess(key, null); runSession(qs, opts, true); };
+      return;
+    }
     if (!qs.length) { app.innerHTML = `<div class="card center"><h2>Rien à faire ici</h2><p class="muted">Aucune question pour les chapitres choisis.</p><button class="btn primary" id="cc">Changer de chapitres</button></div>`; $("#cc").onclick = openSheet; return; }
+    play(qs, 0, 0, [], Date.now());
+    function play(qs, i, score, wrong, t0) {
+    const persist = () => saveSess(key, i < qs.length ? { qs, i, score, wrong, t0, title: opts.title || $("#title").textContent, at: Date.now() } : null);
+    persist();
     next();
     function next() {
-      if (i >= qs.length) return finish();
+      if (i >= qs.length) { saveSess(key, null); return finish(); }
       const q = qs[i]; const host = document.createElement("div");
       app.innerHTML = `<div class="progress"><span>${i + 1}/${qs.length}</span><span class="bar"><i style="width:${(i / qs.length) * 100}%"></i></span><span class="pill">${score} ✓</span></div>`;
       app.appendChild(host); renderQ(q, host, (ok, info) => {
         if (ok) score++; else wrong.push({ q, info });
         logAnswer(ok); if (q.key) markMistake(q.key, ok); if (q.exId) { S.exo[q.exId] = { ok, t: Date.now() }; save("exo"); }
         if (q.wordId) srsGrade(q.wordId, ok ? 2 : 0);
-        const nb = document.createElement("button"); nb.className = "btn primary block mt"; nb.textContent = i + 1 < qs.length ? "Suivant →" : "Voir le résultat";
-        nb.onclick = () => { i++; next(); }; host.appendChild(nb); nb.focus();
+        i++; persist();
+        const nb = document.createElement("button"); nb.className = "btn primary block mt"; nb.textContent = i < qs.length ? "Suivant →" : "Voir le résultat";
+        nb.onclick = () => next(); host.appendChild(nb); nb.focus({ preventScroll: true });
       });
     }
     function finish() {
@@ -290,7 +310,8 @@
         <p>${pct >= 90 ? "Excellent ! 太好了！" : pct >= 70 ? "Très bien, continue ! 很好！" : pct >= 50 ? "Pas mal, encore un effort !" : "Courage, revois la leçon puis recommence."}</p>
         <button class="btn primary block" id="again">Recommencer</button><a class="btn block mt" href="#/">Accueil</a></div>
         ${wrong.length ? `<div class="card"><h2>À retenir</h2><ul class="list">${wrong.map((w) => `<li><span style="flex:1"><span class="${/[一-鿿]/.test(w.q.prompt) ? "zh" : ""}">${esc(w.q.prompt)}</span><br><span class="small">Réponse : <b class="zh">${esc(w.q.answer)}</b>${gloss(w.q.answer)}${w.q.explain ? " — " + esc(w.q.explain) : ""}</span></span></li>`).join("")}</ul></div>` : ""}`;
-      $("#again").onclick = () => (opts.again ? opts.again() : route());
+      $("#again").onclick = () => { saveSess(key, null); opts.fresh = true; opts.again ? opts.again() : route(); };
+    }
     }
   }
 
@@ -602,11 +623,42 @@
     if ("speechSynthesis" in window) speechSynthesis.cancel();
     const { parts, q } = parse(); const p = parts[0] || "home";
     document.querySelectorAll(".tabbar a").forEach((a) => a.classList.toggle("on", a.dataset.tab === (["quiz", "phrases", "ecriture", "ecoute", "examen", "revoir", "lexique"].includes(p) ? "plus" : p)));
-    refreshChap(); window.scrollTo(0, 0);
+    refreshChap(); window.scrollTo(0, 0); requestAnimationFrame(placeOnActive);
     try {
       ({ home, cours: () => (parts[1] ? lesson(+parts[1], parts[2]) : coursList()), cartes, quiz, exos, phrases, ecoute, ecriture, examen, revoir, plus, lexique }[p] || home)(q);
     } catch (err) { console.error(err); app.innerHTML = '<div class="card">Oups, une erreur est survenue. <a href="#/">Retour à l\'accueil</a></div>'; }
   }
+  /* ---------- barre d'onglets : appui long + glisser, avec une loupe en verre ---------- */
+  const TB = $("#tabbar"), IND = $("#tabInd");
+  const tabs = () => [...TB.querySelectorAll("a")];
+  function placeInd(x, scale) {
+    const r = TB.getBoundingClientRect(), a = tabs()[0].getBoundingClientRect(); const w = a.width;
+    let left = x - r.left - w / 2; left = Math.max(6, Math.min(r.width - w - 6, left));
+    IND.style.width = w + "px"; IND.style.transform = `translateX(${left}px) scale(${scale || 1})`;
+  }
+  function placeOnActive() { const on = TB.querySelector("a.on") || tabs()[0]; const b = on.getBoundingClientRect(); placeInd(b.left + b.width / 2); }
+  function tabAt(x) { return tabs().find((a) => { const b = a.getBoundingClientRect(); return x >= b.left && x <= b.right; }) || null; }
+  let dragging = false, lastHover = null;
+  TB.addEventListener("pointerdown", (e) => {
+    dragging = true; TB.setPointerCapture(e.pointerId); TB.classList.add("drag"); placeInd(e.clientX, 1.12); hover(e.clientX); e.preventDefault();
+  });
+  TB.addEventListener("pointermove", (e) => { if (!dragging) return; placeInd(e.clientX, 1.12); hover(e.clientX); });
+  function hover(x) { const t = tabAt(x); if (t !== lastHover) { tabs().forEach((a) => a.classList.toggle("hover", a === t)); if (t && lastHover && navigator.vibrate) navigator.vibrate(5); lastHover = t; } }
+  function endDrag(e, go) {
+    if (!dragging) return; dragging = false; TB.classList.remove("drag"); tabs().forEach((a) => a.classList.remove("hover"));
+    const t = go ? tabAt(e.clientX) : null; lastHover = null;
+    if (t) { const h = t.getAttribute("href"); if (location.hash === h || (h === "#/" && !location.hash)) route(); else location.hash = h; }
+    requestAnimationFrame(placeOnActive);
+  }
+  TB.addEventListener("pointerup", (e) => endDrag(e, true));
+  TB.addEventListener("pointercancel", (e) => endDrag(e, false));
+  TB.addEventListener("click", (e) => { if (e.detail) e.preventDefault(); }); // les appuis passent par pointerup
+  window.addEventListener("resize", placeOnActive);
+
+  /* ---------- pas de zoom (pincer / double-tap) ---------- */
+  ["gesturestart", "gesturechange", "gestureend"].forEach((ev) => document.addEventListener(ev, (e) => e.preventDefault(), { passive: false }));
+  document.addEventListener("touchmove", (e) => { if (e.scale && e.scale !== 1) e.preventDefault(); }, { passive: false });
+
   window.addEventListener("hashchange", route);
   route();
   if (!store.get("welcomed", false)) { store.set("welcomed", true); setTimeout(openSheet, 400); }
