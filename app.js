@@ -8,6 +8,28 @@
   const shuffle = (a) => { a = a.slice(); for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; };
   const pick = (a, n) => shuffle(a).slice(0, n);
   const DAY = 86400000;
+  const IC = {
+    cards: '<rect x="3" y="6" width="14" height="15" rx="2"/><path d="M7 3h12a2 2 0 012 2v13"/>',
+    bolt: '<path d="M13 2L4 14h7l-1 8 9-12h-7z"/>',
+    pencil: '<path d="M14 4l6 6L9 21H3v-6z"/><path d="M12 6l6 6"/>',
+    puzzle: '<path d="M4 7h4a2 2 0 114 0h4v4a2 2 0 110 4v4h-4a2 2 0 10-4 0H4v-4a2 2 0 100-4z"/>',
+    brush: '<path d="M18 3l3 3-9 9-3-3z"/><path d="M9 12c-3 0-5 2-5 5 0 1-1 2-2 2 2 2 7 2 8-1 1-2 0-4-1-6"/>',
+    ear: '<path d="M3 14v-2a9 9 0 0118 0v2"/><rect x="2" y="14" width="5" height="7" rx="2"/><rect x="17" y="14" width="5" height="7" rx="2"/>',
+    exam: '<rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 8h6M9 12h6M9 16h3"/>',
+    target: '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="5"/><circle cx="12" cy="12" r="1"/>',
+    book: '<path d="M4 5a2 2 0 012-2h13v16H6a2 2 0 00-2 2z"/><path d="M4 19V5M8 7h7"/>',
+    search: '<circle cx="11" cy="11" r="7"/><path d="M21 21l-5-5"/>',
+    layers: '<path d="M12 3l9 5-9 5-9-5z"/><path d="M3 13l9 5 9-5"/>',
+    sound: '<path d="M4 9v6h4l5 4V5L8 9z"/><path d="M16 9a4 4 0 010 6M19 6a8 8 0 010 12"/>',
+    pin: '<path d="M12 21s7-6 7-12a7 7 0 10-14 0c0 6 7 12 7 12z"/><circle cx="12" cy="9" r="2.5"/>',
+    check: '<path d="M5 12l5 5 9-10"/>', x: '<path d="M6 6l12 12M18 6L6 18"/>',
+    chev: '<path d="M9 6l6 6-6 6"/>', bulb: '<path d="M9 18h6M10 21h4M12 3a6 6 0 00-4 10c1 1 1 2 1 3h6c0-1 0-2 1-3a6 6 0 00-4-10z"/>',
+    play: '<path d="M7 4l13 8-13 8z"/>', undo: '<path d="M4 9h11a5 5 0 010 10H9"/><path d="M8 5L4 9l4 4"/>',
+    flag: '<path d="M5 21V4M5 4h12l-2 4 2 4H5"/>', star: '<path d="M12 3l2.7 5.6 6.3.9-4.5 4.4 1 6.1L12 17l-5.5 3 1-6.1L3 9.5l6.3-.9z"/>',
+    tongue: '<path d="M4 10a8 8 0 0016 0"/><path d="M9 14v2a3 3 0 006 0v-2"/>',
+  };
+  const icon = (n) => '<svg class="i" viewBox="0 0 24 24" aria-hidden="true">' + IC[n] + "</svg>";
+  const ico = (n) => '<span class="ico">' + icon(n) + "</span>";
 
   /* ---------- stockage ---------- */
   const store = {
@@ -67,7 +89,7 @@
     speechSynthesis.speak(u);
   }
   document.addEventListener("click", (e) => { const b = e.target.closest("[data-say]"); if (b) { e.preventDefault(); e.stopPropagation(); speak(b.dataset.say); } });
-  const sayBtn = (t) => '<button class="say" data-say="' + esc(t) + '" aria-label="Écouter">🔊</button>';
+  const sayBtn = (t) => '<button class="say" data-say="' + esc(t) + '" aria-label="Écouter">' + icon("sound") + "</button>";
 
   /* ---------- UI commune ---------- */
   let toastT;
@@ -124,26 +146,26 @@
     const t = S.log[today()] || { n: 0, ok: 0 };
     app.innerHTML = `
       <section class="card hero">
-        <h2>你好 ! 👋</h2>
-        <div class="muted small">Chapitres actifs : <b>${esc(chapLabel())}</b> · <a href="#" id="chg" style="color:#fff">changer</a></div>
+        <h2 class="zh">你好！</h2>
+        <div class="muted small">Chapitres actifs : <b>${esc(chapLabel())}</b> · <a href="#" id="chg" class="link">changer</a></div>
         <div class="stats">
           <div class="stat"><b>${k}/${words.length}</b><span class="small">mots maîtrisés</span></div>
           <div class="stat"><b>${exDone}/${exs.length}</b><span class="small">exercices réussis</span></div>
-          <div class="stat"><b>${streak()}🔥</b><span class="small">jours de suite</span></div>
+          <div class="stat"><b>${streak()}</b><span class="small">jours de suite</span></div>
         </div>
         <div class="small mt">Aujourd'hui : ${t.n} réponses, ${t.n ? Math.round((t.ok / t.n) * 100) : 0} % de bonnes.</div>
       </section>
       <div class="grid2">
-        <a class="tile" href="#/cartes"><span class="ico">🃏</span><b>Cartes mémoire</b><small>${due} à revoir · ${newW} nouvelles</small></a>
-        <a class="tile" href="#/quiz"><span class="ico">⚡</span><b>Quiz vocabulaire</b><small>汉字 ↔ français ↔ pinyin</small></a>
-        <a class="tile" href="#/exos"><span class="ico">✏️</span><b>Exercices des livres</b><small>Manuel + cahier, corrigés</small></a>
-        <a class="tile" href="#/phrases"><span class="ico">🧩</span><b>Phrases en ordre</b><small>Reconstruire les phrases</small></a>
-        <a class="tile" href="#/ecriture"><span class="ico">🖌️</span><b>Écriture</b><small>Tracer les caractères</small></a>
-        <a class="tile" href="#/ecoute"><span class="ico">🎧</span><b>Écoute</b><small>Entendre et reconnaître</small></a>
-        <a class="tile" href="#/examen"><span class="ico">📝</span><b>Examen blanc</b><small>Test noté + HSK 1 du cahier</small></a>
-        <a class="tile" href="#/revoir"><span class="ico">🎯</span><b>Mes erreurs</b><small>${Object.keys(S.mistakes).length} à retravailler</small></a>
+        <a class="tile" href="#/cartes">${ico("cards")}<b>Cartes mémoire</b><small>${due} à revoir · ${newW} nouvelles</small></a>
+        <a class="tile" href="#/quiz">${ico("bolt")}<b>Quiz vocabulaire</b><small>汉字 ↔ français ↔ pinyin</small></a>
+        <a class="tile" href="#/exos">${ico("pencil")}<b>Exercices des livres</b><small>Manuel + cahier, corrigés</small></a>
+        <a class="tile" href="#/phrases">${ico("puzzle")}<b>Phrases en ordre</b><small>Reconstruire les phrases</small></a>
+        <a class="tile" href="#/ecriture">${ico("brush")}<b>Écriture</b><small>Tracer les caractères</small></a>
+        <a class="tile" href="#/ecoute">${ico("ear")}<b>Écoute</b><small>Entendre et reconnaître</small></a>
+        <a class="tile" href="#/examen">${ico("exam")}<b>Examen blanc</b><small>Test noté + HSK 1 du cahier</small></a>
+        <a class="tile" href="#/revoir">${ico("target")}<b>Mes erreurs</b><small>${Object.keys(S.mistakes).length} à retravailler</small></a>
       </div>
-      <a class="card tile mt" href="#/cours"><b>📖 Relire les leçons</b><small>Textes, vocabulaire, grammaire et explications de chaque chapitre</small></a>`;
+      <a class="tile wide mt" href="#/cours">${ico("book")}<span><b>Relire les leçons</b><br><small>Textes, vocabulaire, grammaire et explications de chaque chapitre</small></span></a>`;
     $("#chg").onclick = (e) => { e.preventDefault(); openSheet(); };
   }
 
@@ -154,7 +176,7 @@
       const n = l.vocab.length; const k = l.vocab.filter((v) => known(wordById[l.n + ":" + v.zh] || {})).length;
       return `<li><a class="lessonlink" href="#/cours/${l.n}"><span class="num ${s.has(l.n) ? "on" : ""}">${l.n}</span>
         <span style="flex:1"><span class="zh" style="font-size:1.15rem">${esc(l.title)}</span><br><span class="muted small">${esc(l.fr)}</span>
-        <span class="bar"><i style="width:${n ? (k / n) * 100 : 0}%"></i></span></span><span class="muted">›</span></a></li>`;
+        <span class="bar"><i style="width:${n ? (k / n) * 100 : 0}%"></i></span></span><span class="chev">${icon("chev")}</span></a></li>`;
     }).join("") + "</ul></div><p class=\"muted small center\">Les chapitres en rouge sont ceux que tu révises en ce moment.</p>";
   }
 
@@ -168,10 +190,10 @@
     let body = "";
     if (tab === "textes") {
       body = `<div class="card"><h2 class="zh">${esc(l.title)}</h2><div class="muted">${esc(l.fr)}</div>
-        <h3>🎯 Objectifs</h3><ul>${l.obj.map((o) => "<li>" + esc(o) + "</li>").join("")}</ul></div>` +
-        l.texts.map((t, i) => `<div class="card"><h2>Texte ${i + 1} ${sayBtn(t.lines.map((x) => x.zh).join(""))}</h2><div class="scene">📍 ${esc(t.scene)}</div>
+        <h3>Objectifs</h3><ul>${l.obj.map((o) => "<li>" + esc(o) + "</li>").join("")}</ul></div>` +
+        l.texts.map((t, i) => `<div class="card"><h2>Texte ${i + 1} <span class="spacer"></span>${sayBtn(t.lines.map((x) => x.zh).join(""))}</h2><div class="scene">${icon("pin")}<span>${esc(t.scene)}</span></div>
           ${t.lines.map((x) => `<div class="dl"><div class="who zh">${esc(x.who)}</div><div class="bubble"><div class="zhline">${ruby(x.zh)}</div><div class="fr">${esc(x.fr.replace(/^[^:：]+[:：]\s*/, ""))}</div></div>${sayBtn(x.zh)}</div>`).join("")}</div>`).join("") +
-        (l.tw ? `<div class="card"><h2>👅 Virelangue ${sayBtn(l.tw.zh)}</h2><div class="zhline">${ruby(l.tw.zh)}</div><div class="fr muted small">${esc(l.tw.fr)}</div></div>` : "");
+        (l.tw ? `<div class="card"><h2>Virelangue <span class="spacer"></span>${sayBtn(l.tw.zh)}</h2><div class="zhline">${ruby(l.tw.zh)}</div><div class="fr muted small">${esc(l.tw.fr)}</div></div>` : "");
     } else if (tab === "mots") {
       body = l.texts.map((t, i) => `<div class="card"><h2>Mots du texte ${i + 1}</h2><div class="vocab">${t.vocab.map((v) =>
         `<span class="w">${esc(v.zh)}</span><span><span class="p">${esc(v.py)}</span> <span class="pill">${esc(v.pos || "—")}</span><br><span class="m">${esc(v.fr)}</span></span>${sayBtn(v.zh)}`).join("")}</div></div>`).join("") +
@@ -179,7 +201,7 @@
     } else if (tab === "gram") {
       body = `<div class="card">${l.grammar.map((g) => `<div class="gram"><h3>${esc(g.t)}</h3><p>${esc(g.d)}</p>${g.ex.map((x) =>
         `<div class="row"><div class="ex zhline" style="flex:1">${ruby(x.zh)}</div>${sayBtn(x.zh)}</div><div class="exfr">${esc(x.fr)}</div>`).join("")}</div>`).join("")}
-        ${l.tips.length ? "<h3>💡 Astuces du livre</h3>" + l.tips.map((t) => '<div class="tip">' + esc(t) + "</div>").join("") : ""}</div>`;
+        ${l.tips.length ? "<h3>Astuces du livre</h3>" + l.tips.map((t) => '<div class="tip">' + esc(t) + "</div>").join("") : ""}</div>`;
     } else if (tab === "prof") {
       body = `<div class="card"><h2>Phrases d'exemple du cours</h2><p class="muted small">Exemples tirés des PPT de ta prof.</p>${l.pp.map((x) =>
         `<div class="dl"><div class="bubble"><div class="zhline">${ruby(x.zh)}</div><div class="fr">${esc(x.fr)}</div></div>${sayBtn(x.zh)}</div>`).join("")}</div>`;
@@ -193,9 +215,9 @@
         ${h.chars.length ? `<h2 class="mt">Caractères à recopier</h2><div class="chips">${h.chars.map((c) => `<a class="chip zh" style="font-size:1.4rem" href="#/ecriture?c=${encodeURIComponent(c)}">${esc(c)}</a>`).join("")}</div><p class="muted small">Touche un caractère pour t'entraîner à l'écrire.</p>` : ""}</div>`;
     }
     app.innerHTML = `<div class="tabs" role="tablist">${tabs.map(([k, t]) => `<button data-t="${k}" class="${k === tab ? "on" : ""}" role="tab" aria-selected="${k === tab}">${t}</button>`).join("")}</div>
-      <div class="row" style="margin-bottom:8px"><label class="chip"><input type="checkbox" id="tpy" ${S.settings.pinyin ? "checked" : ""}> pinyin</label>
-      <label class="chip"><input type="checkbox" id="tfr" ${S.settings.french ? "checked" : ""}> français</label><span class="spacer"></span>
-      <a class="chip" href="#/exos?les=${n}">✏️ Exercices</a></div><div class="${cls}" id="lbody">${body}</div>`;
+      <div class="row" style="margin-bottom:8px"><label class="toggle"><input type="checkbox" id="tpy" ${S.settings.pinyin ? "checked" : ""}> Pinyin</label>
+      <label class="toggle"><input type="checkbox" id="tfr" ${S.settings.french ? "checked" : ""}> Français</label><span class="spacer"></span>
+      <a class="chip" href="#/exos?les=${n}">${icon("pencil")} Exercices</a></div><div class="${cls}" id="lbody">${body}</div>`;
     app.querySelector(".tabs").onclick = (e) => { const b = e.target.closest("[data-t]"); if (b) location.replace("#/cours/" + n + "/" + b.dataset.t); };
     $("#tpy").onchange = (e) => { S.settings.pinyin = e.target.checked; save("settings"); $("#lbody").classList.toggle("nopy", !e.target.checked); };
     $("#tfr").onchange = (e) => { S.settings.french = e.target.checked; save("settings"); $("#lbody").classList.toggle("nofr", !e.target.checked); };
@@ -210,7 +232,7 @@
     const fresh = pool.filter((w) => !S.srs[w.id]).slice(0, S.settings.newPerDay);
     let queue = due.concat(fresh);
     if (!queue.length) {
-      app.innerHTML = `<div class="card center"><div class="big">🎉</div><h2>Tout est révisé !</h2><p class="muted">Aucune carte à revoir pour les chapitres ${esc(chapLabel())}. Reviens plus tard, ou entraîne-toi quand même :</p>
+      app.innerHTML = `<div class="card center"><div class="emptyico">${icon("star")}</div><h2>Tout est révisé !</h2><p class="muted">Aucune carte à revoir pour les chapitres ${esc(chapLabel())}. Reviens plus tard, ou entraîne-toi quand même :</p>
         <button class="btn primary block" id="all">Réviser toutes les cartes quand même</button><a class="btn block mt" href="#/quiz">Faire un quiz</a></div>`;
       $("#all").onclick = () => { queue = shuffle(pool); start(); };
       return;
@@ -220,7 +242,7 @@
       let i = 0, flipped = false; const total = queue.length; let dir = S.settings.dir;
       draw();
       function draw() {
-        if (!queue.length) { app.innerHTML = `<div class="card center"><div class="big">✅</div><h2>Session terminée</h2><p>${total} cartes revues.</p><a class="btn primary block" href="#/">Accueil</a></div>`; return; }
+        if (!queue.length) { app.innerHTML = `<div class="card center"><div class="emptyico">${icon("check")}</div><h2>Session terminée</h2><p>${total} cartes revues.</p><a class="btn primary block" href="#/">Accueil</a></div>`; return; }
         const w = queue[0]; const ctx = contextFor(w); flipped = false;
         const front = dir === "zh" ? `<div class="big">${esc(w.zh)}</div><div class="muted small">Que veut dire ce mot ?</div>`
           : dir === "fr" ? `<div class="m" style="font-size:1.4rem">${esc(w.fr)}</div><div class="muted small mt">Comment dit-on en chinois ?</div>`
@@ -230,7 +252,7 @@
           <div class="card flash" id="fc">${front}<div id="back" hidden>${dir === "zh" ? "" : `<div class="big" style="font-size:2.6rem">${esc(w.zh)}</div>`}<div class="p">${esc(w.py)}</div><div class="m">${esc(w.fr)}</div>
           ${w.pos ? `<span class="pill mt">${esc(w.pos)}</span>` : ""}${ctx ? `<div class="ctx">« ${esc(ctx.zh)} »<br><span class="small">${esc(ctx.fr.replace(/^[^:：]+[:：]\s*/, ""))}</span></div>` : ""}</div>
           <div class="muted small mt" id="hint">Touche la carte pour voir la réponse</div></div>
-          <div class="row"><button class="btn ghost" data-say="${esc(w.zh)}">🔊 Écouter</button><span class="spacer"></span></div>
+          <div class="row"><button class="btn ghost" data-say="${esc(w.zh)}">${icon("sound")} Écouter</button><span class="spacer"></span></div>
           <div class="srsbtns" id="grade" hidden><button class="btn k-again" data-g="0">Raté<small>revoir</small></button><button class="btn k-hard" data-g="1">Difficile<small>bientôt</small></button><button class="btn k-good" data-g="2">Je savais<small>plus tard</small></button></div>`;
         if (dir === "zh") speak(w.zh);
         $("#fc").onclick = () => { if (flipped) return; flipped = true; $("#back").hidden = false; $("#hint").hidden = true; $("#grade").hidden = false; if (dir !== "zh") speak(w.zh); };
@@ -252,7 +274,7 @@
     function next() {
       if (i >= qs.length) return finish();
       const q = qs[i]; const host = document.createElement("div");
-      app.innerHTML = `<div class="progress"><span>${i + 1}/${qs.length}</span><span class="bar"><i style="width:${(i / qs.length) * 100}%"></i></span><span>✅ ${score}</span></div>`;
+      app.innerHTML = `<div class="progress"><span>${i + 1}/${qs.length}</span><span class="bar"><i style="width:${(i / qs.length) * 100}%"></i></span><span class="pill">${score} ✓</span></div>`;
       app.appendChild(host); renderQ(q, host, (ok, info) => {
         if (ok) score++; else wrong.push({ q, info });
         logAnswer(ok); if (q.key) markMistake(q.key, ok); if (q.exId) { S.exo[q.exId] = { ok, t: Date.now() }; save("exo"); }
@@ -265,11 +287,38 @@
       const pct = Math.round((score / qs.length) * 100); const min = Math.round((Date.now() - t0) / 60000);
       const note = (score / qs.length * 20).toFixed(1).replace(".0", "");
       app.innerHTML = `<div class="card center"><div class="score">${opts.exam ? note + "/20" : pct + " %"}</div><p>${score} bonnes réponses sur ${qs.length}${opts.exam ? " · " + min + " min" : ""}</p>
-        <p>${pct >= 90 ? "Excellent ! 太好了！🎉" : pct >= 70 ? "Très bien, continue ! 很好！" : pct >= 50 ? "Pas mal, encore un effort 💪" : "Courage, revois la leçon puis recommence 📖"}</p>
+        <p>${pct >= 90 ? "Excellent ! 太好了！" : pct >= 70 ? "Très bien, continue ! 很好！" : pct >= 50 ? "Pas mal, encore un effort !" : "Courage, revois la leçon puis recommence."}</p>
         <button class="btn primary block" id="again">Recommencer</button><a class="btn block mt" href="#/">Accueil</a></div>
-        ${wrong.length ? `<div class="card"><h2>À retenir</h2><ul class="list">${wrong.map((w) => `<li><span style="flex:1"><span class="${/[一-鿿]/.test(w.q.prompt) ? "zh" : ""}">${esc(w.q.prompt)}</span><br><span class="small">✅ <b class="zh">${esc(w.q.answer)}</b>${w.q.explain ? " — " + esc(w.q.explain) : ""}</span></span></li>`).join("")}</ul></div>` : ""}`;
+        ${wrong.length ? `<div class="card"><h2>À retenir</h2><ul class="list">${wrong.map((w) => `<li><span style="flex:1"><span class="${/[一-鿿]/.test(w.q.prompt) ? "zh" : ""}">${esc(w.q.prompt)}</span><br><span class="small">Réponse : <b class="zh">${esc(w.q.answer)}</b>${gloss(w.q.answer)}${w.q.explain ? " — " + esc(w.q.explain) : ""}</span></span></li>`).join("")}</ul></div>` : ""}`;
       $("#again").onclick = () => (opts.again ? opts.again() : route());
     }
+  }
+
+  /* ---------- traductions : pinyin + français ---------- */
+  const DMAP = {}; UNIQUE.forEach((w) => (DMAP[w.zh] = w));
+  const SENT = {}; LES.forEach((l) => sentencesFor(l.n).forEach((x) => { const k = norm(x.zh); if (!SENT[k]) SENT[k] = x.fr; }));
+  function info(text) {
+    if (!text || !/[\u4e00-\u9fff]/.test(text)) return null;
+    const t = String(text).trim(); const w = DMAP[t] || DMAP[t.replace(/[。！？，]$/, "")];
+    if (w) return { zh: t, py: w.py, fr: w.fr, word: true };
+    const fr = SENT[norm(t)] || "";
+    const parts = segment(t).map((x) => x.replace(/[，。？！、]/g, "")).filter((x) => DMAP[x]);
+    return { zh: t, py: pyOf(t), fr, parts: [...new Set(parts)] };
+  }
+  function gloss(text) { const g = info(text); return g ? ` <span class="muted">(${esc(g.py)}${g.fr ? " · " + esc(g.fr) : ""})</span>` : ""; }
+  function wordsHtml(parts) {
+    if (!parts || !parts.length) return "";
+    return '<div class="small mt">' + parts.slice(0, 8).map((x) => `<span class="zh"><b>${esc(x)}</b></span> <span style="color:var(--green)">${esc(DMAP[x].py)}</span> = ${esc(DMAP[x].fr)}`).join("<br>") + "</div>";
+  }
+  function answerBox(q) {
+    const out = [];
+    const a = info(q.answer);
+    if (a) out.push(`<div class="ans"><span class="w">${esc(a.zh)}</span><span class="p">${esc(a.py)}</span>${a.fr ? `<span class="m">${esc(a.fr)}</span>` : ""}${a.word ? "" : wordsHtml(a.parts)}</div>`);
+    else out.push(`<div class="ans"><span class="m" style="color:var(--ink)">Réponse : <b>${esc(q.answer)}</b></span></div>`);
+    const full = q.speakFull && q.speakFull !== q.answer ? info(q.speakFull) : null;
+    if (full) out.push(`<div class="ans"><span class="m">Phrase complète :</span><div class="zhline">${ruby(full.zh)}</div>${full.fr ? `<span class="m">${esc(full.fr)}</span>` : ""}</div>`);
+    else if (!a || q.kind === "mcq") { const pr = info(q.audio || q.prompt); if (pr && pr.zh !== (a && a.zh) && pr.zh.length < 40) out.push(`<div class="ans"><span class="w">${esc(pr.zh)}</span><span class="p">${esc(pr.py)}</span>${pr.fr ? `<span class="m">${esc(pr.fr)}</span>` : ""}${pr.word ? "" : wordsHtml(pr.parts)}</div>`); }
+    return out.join("");
   }
 
   function norm(s) { return String(s).replace(/[\s，。？！、,.?!：:；;“”"'（）()_—…]/g, "").toLowerCase(); }
@@ -277,12 +326,13 @@
   function renderQ(q, host, done) {
     const src = q.src ? `<div class="qsrc">${esc(q.src)}${q.les ? " · L" + q.les : ""}</div>` : "";
     const isZh = /[一-鿿]/.test(q.prompt);
-    const promptHtml = q.audio ? `<div class="center"><button class="btn gold" data-say="${esc(q.audio)}" style="font-size:1.4rem">🔊 Écouter</button></div>`
+    const promptHtml = q.audio ? `<div class="center"><button class="btn gold" data-say="${esc(q.audio)}" style="font-size:1.2rem">${icon("sound")} Écouter</button></div>`
       : q.big ? `<div class="big">${esc(q.prompt)}</div>` : `<div class="qtext ${isZh ? "zhq" : ""}">${q.ruby && S.settings.pinyin ? ruby(q.prompt) : esc(q.prompt)}</div>`;
     const help = q.help ? `<div class="muted small" style="margin:${q.audio || q.big ? "10px" : "-6px"} 0 10px;text-align:${q.audio ? "center" : "left"}">${esc(q.help)}</div>` : "";
     const fb = (ok, extra) => {
       const d = document.createElement("div"); d.className = "feedback " + (ok ? "ok" : "ko");
-      d.innerHTML = (ok ? "✅ Bravo !" : "❌ La bonne réponse : <b class=\"zh\">" + esc(q.answer) + "</b>") + (q.explain ? "<br><span class=\"small\">" + esc(q.explain) + "</span>" : "") + (extra || "");
+      d.innerHTML = `<div class="head">${icon(ok ? "check" : "x")}${ok ? "Bravo !" : "Pas tout à fait"}</div>` +
+        answerBox(q) + (q.explain ? `<div class="expl">${esc(q.explain)}</div>` : "") + (extra || "");
       host.appendChild(d);
     };
     if (q.audio) setTimeout(() => speak(q.audio), 250);
@@ -292,6 +342,7 @@
         const b = e.target.closest(".opt"); if (!b) return; const o = q.options[+b.dataset.k]; const ok = o === q.answer;
         host.querySelectorAll(".opt").forEach((x) => { x.disabled = true; if (q.options[+x.dataset.k] === q.answer) x.classList.add("ok"); });
         if (!ok) b.classList.add("ko");
+        host.querySelectorAll(".opt.zh").forEach((x) => { const g = info(q.options[+x.dataset.k]); if (g && (g.py || g.fr)) x.insertAdjacentHTML("beforeend", `<span class="gl"><b>${esc(g.py)}</b>${g.fr ? " · " + esc(g.fr) : ""}</span>`); });
         if (/[一-鿿]/.test(q.answer) && !q.noSpeak) speak(q.speakFull || q.answer);
         fb(ok); done(ok, o);
       };
@@ -309,14 +360,15 @@
       $("#rev", host).onclick = () => {
         $("#rev", host).remove();
         const d = document.createElement("div"); d.className = "feedback ok";
-        d.innerHTML = `Réponse modèle : <div class="zhline">${ruby(q.answer)}</div>${sayBtn(q.answer)}<div class="row mt"><button class="btn k-again" data-s="0">Je me suis trompé(e)</button><button class="btn k-good" data-s="1">J'avais juste</button></div>`;
+        const ai = info(q.answer);
+        d.innerHTML = `<div class="head">${icon("bulb")} Réponse modèle</div><div class="ans"><div class="row"><div class="zhline" style="flex:1">${ruby(q.answer)}</div>${sayBtn(q.answer)}</div>${ai && ai.fr ? `<span class="m">${esc(ai.fr)}</span>` : ""}${ai ? wordsHtml(ai.parts) : ""}</div><div class="row mt"><button class="btn k-again" data-s="0">Je me suis trompé(e)</button><button class="btn k-good" data-s="1">J'avais juste</button></div>`;
         host.firstElementChild.appendChild(d); speak(q.answer);
         d.querySelector(".row").onclick = (e) => { const b = e.target.closest("[data-s]"); if (!b) return; d.querySelector(".row").remove(); done(b.dataset.s === "1"); };
       };
     } else if (q.kind === "order") {
       const toks = shuffle(q.tokens.map((t, k) => ({ t, k })));
       host.innerHTML = `<div class="card">${src}<div class="qtext">${esc(q.prompt)}</div><div class="built" id="built"></div><div class="tray" id="tray">${toks.map((o, k) => `<button class="tok" data-k="${k}">${esc(o.t)}</button>`).join("")}</div>
-        <div class="row mt"><button class="btn ghost" id="undo">↺ Effacer</button><span class="spacer"></span><button class="btn primary" id="ok" disabled>Valider</button></div></div>`;
+        <div class="row mt"><button class="btn ghost" id="undo">${icon("undo")} Effacer</button><span class="spacer"></span><button class="btn primary" id="ok" disabled>Valider</button></div></div>`;
       const built = []; const B = $("#built", host);
       const draw = () => { B.innerHTML = built.map((k, j) => `<button class="tok" data-j="${j}">${esc(toks[k].t)}</button>`).join(""); host.querySelectorAll("#tray .tok").forEach((x) => x.classList.toggle("used", built.includes(+x.dataset.k))); $("#ok", host).disabled = built.length !== toks.length; };
       $("#tray", host).onclick = (e) => { const b = e.target.closest(".tok"); if (!b || b.classList.contains("used")) return; built.push(+b.dataset.k); draw(); };
@@ -334,7 +386,7 @@
     const base = { exId: e.id, key: "e:" + e.id, src: e.src, les: e.les || "", explain: e.e || "" };
     let prompt = e.q;
     if (e.type === "mcq" || e.type === "fill") {
-      return Object.assign(base, { kind: "mcq", prompt, options: e.opts.slice(), answer: e.a, ruby: true, noSpeak: !/[一-鿿]/.test(e.a), speakFull: e.q.includes("___") ? e.q.replace("___", e.a).replace(/（ ）/, e.a) : null,
+      return Object.assign(base, { kind: "mcq", prompt, options: e.opts.slice(), answer: e.a, ruby: true, noSpeak: !/[一-鿿]/.test(e.a), speakFull: /___|（ ）/.test(e.q) && /[\u4e00-\u9fff]/.test(e.a) ? e.q.replace(/___|（ ）/, e.a).replace(/^.*?★.*$/, "") || null : null,
         help: e.type === "fill" ? "Choisis le mot qui convient." : "" });
     }
     if (e.type === "write") return Object.assign(base, { kind: "write", prompt, answer: e.a, ruby: true, help: "Complète le trou ___ (en caractères chinois)." });
@@ -346,17 +398,17 @@
     const others = pool.filter((x) => x.zh !== w.zh && x.fr !== w.fr);
     const d3 = pick(others, 3);
     const base = { wordId: w.id, key: "w:" + w.id, les: w.les, src: "Vocabulaire" };
-    if (kind === "zh2fr") return Object.assign(base, { kind: "mcq", prompt: w.zh, big: true, options: shuffle([w.fr, ...d3.map((x) => x.fr)]), answer: w.fr, explain: w.zh + " = " + w.py, noSpeak: true });
-    if (kind === "fr2zh") return Object.assign(base, { kind: "mcq", prompt: w.fr, options: shuffle([w.zh, ...d3.map((x) => x.zh)]), answer: w.zh, explain: w.py, help: "Quel mot chinois ?" });
-    if (kind === "zh2py") { const ds = pick(others.filter((x) => x.py !== w.py), 3).map((x) => x.py); return Object.assign(base, { kind: "mcq", prompt: w.zh, big: true, options: shuffle([w.py, ...ds]), answer: w.py, explain: w.fr, help: "Quelle est la bonne prononciation ?" }); }
-    if (kind === "audio") return Object.assign(base, { kind: "mcq", prompt: "🔊 " + w.zh, audio: w.zh, options: shuffle([w.zh, ...d3.map((x) => x.zh)]), answer: w.zh, explain: w.py + " — " + w.fr, help: "Quel mot entends-tu ?", noSpeak: true });
-    if (kind === "py2zh") return Object.assign(base, { kind: "mcq", prompt: w.py, options: shuffle([w.zh, ...d3.map((x) => x.zh)]), answer: w.zh, explain: w.fr, help: "Quel mot correspond à ce pinyin ?" });
+    if (kind === "zh2fr") return Object.assign(base, { kind: "mcq", prompt: w.zh, big: true, options: shuffle([w.fr, ...d3.map((x) => x.fr)]), answer: w.fr, explain: "", noSpeak: true });
+    if (kind === "fr2zh") return Object.assign(base, { kind: "mcq", prompt: w.fr, options: shuffle([w.zh, ...d3.map((x) => x.zh)]), answer: w.zh, explain: "", help: "Quel mot chinois ?" });
+    if (kind === "zh2py") { const ds = pick(others.filter((x) => x.py !== w.py), 3).map((x) => x.py); return Object.assign(base, { kind: "mcq", prompt: w.zh, big: true, options: shuffle([w.py, ...ds]), answer: w.py, explain: "", help: "Quelle est la bonne prononciation ?" }); }
+    if (kind === "audio") return Object.assign(base, { kind: "mcq", prompt: w.zh, audio: w.zh, options: shuffle([w.zh, ...d3.map((x) => x.zh)]), answer: w.zh, explain: "", help: "Quel mot entends-tu ?", noSpeak: true });
+    if (kind === "py2zh") return Object.assign(base, { kind: "mcq", prompt: w.py, options: shuffle([w.zh, ...d3.map((x) => x.zh)]), answer: w.zh, explain: "", help: "Quel mot correspond à ce pinyin ?" });
   }
   function quiz(q) {
     setTitle("Quiz vocabulaire", false);
-    const kinds = { zh2fr: "汉字 → français", fr2zh: "français → 汉字", zh2py: "汉字 → pinyin", py2zh: "pinyin → 汉字", audio: "🔊 écoute → 汉字", mix: "Mélange" };
+    const kinds = { zh2fr: "汉字 → français", fr2zh: "français → 汉字", zh2py: "汉字 → pinyin", py2zh: "pinyin → 汉字", audio: "Écoute → 汉字", mix: "Mélange" };
     if (!q.k) {
-      app.innerHTML = `<div class="card"><h2>Quel type de quiz ?</h2><p class="muted small">Mots des chapitres ${esc(chapLabel())} (${selWords().length} mots).</p><div class="opts">${Object.entries(kinds).map(([k, t]) => `<a class="opt" href="#/quiz?k=${k}">${t}</a>`).join("")}</div>
+      app.innerHTML = `<div class="card"><h2>Quel type de quiz ?</h2><p class="muted small">Mots des chapitres ${esc(chapLabel())} (${selWords().length} mots).</p><div class="opts">${Object.entries(kinds).map(([k, t]) => `<a class="opt opt-link" href="#/quiz?k=${k}">${t}<span class="chev">${icon("chev")}</span></a>`).join("")}</div>
         <h3>Nombre de questions</h3><div class="chips" id="nq">${[10, 20, 30].map((n) => `<button class="chip ${(store.get("nq", 10) === n) ? "on" : ""}" data-n="${n}">${n}</button>`).join("")}</div></div>`;
       $("#nq").onclick = (e) => { const b = e.target.closest("[data-n]"); if (!b) return; store.set("nq", +b.dataset.n); quiz(q); };
       return;
@@ -377,9 +429,9 @@
     if (!q.go) {
       const done = (arr) => arr.filter((e) => S.exo[e.id] && S.exo[e.id].ok).length;
       app.innerHTML = `<div class="card"><h2>${q.les ? "Leçon " + q.les : "Chapitres " + esc(chapLabel())}</h2><p class="muted small">${list.length} exercices tirés du manuel et du cahier, avec correction.</p>
-        <a class="btn primary block" href="#/exos?${q.les ? "les=" + q.les + "&" : ""}go=all">▶ Tout mélanger (20 au hasard)</a>
+        <a class="btn primary block" href="#/exos?${q.les ? "les=" + q.les + "&" : ""}go=all">${icon("play")} Tout mélanger (20 au hasard)</a>
         <a class="btn block mt" href="#/exos?${q.les ? "les=" + q.les + "&" : ""}go=todo">Seulement ceux pas encore réussis</a></div>
-        <div class="card"><h2>Par type d'exercice</h2><ul class="list">${Object.entries(groups).map(([k, a]) => `<li><a class="lessonlink" href="#/exos?${q.les ? "les=" + q.les + "&" : ""}go=${encodeURIComponent(k)}"><span style="flex:1">${esc(k)}<br><span class="muted small">${done(a)}/${a.length} réussis</span></span><span class="muted">›</span></a></li>`).join("")}</ul></div>
+        <div class="card"><h2>Par type d'exercice</h2><ul class="list">${Object.entries(groups).map(([k, a]) => `<li><a class="lessonlink" href="#/exos?${q.les ? "les=" + q.les + "&" : ""}go=${encodeURIComponent(k)}"><span style="flex:1">${esc(k)}<br><span class="muted small">${done(a)}/${a.length} réussis</span></span><span class="chev">${icon("chev")}</span></a></li>`).join("")}</ul></div>
         ${q.les ? "" : `<div class="card"><h2>Par leçon</h2><div class="chips">${S.settings.chapters.map((n) => `<a class="chip" href="#/exos?les=${n}">Leçon ${n}</a>`).join("")}</div></div>`}`;
       return;
     }
@@ -417,7 +469,7 @@
     const sents = []; LES.filter((l) => s.has(l.n)).forEach((l) => sentencesFor(l.n).forEach((x) => sents.push(Object.assign({ les: l.n }, x))));
     const qs = [];
     pick(pool, 6).forEach((w) => qs.push(vocabQ(w, all, "audio")));
-    pick(sents, 4).forEach((x) => { const others = pick(sents.filter((y) => y.fr !== x.fr), 2).map((y) => y.fr); qs.push({ kind: "mcq", audio: x.zh, prompt: x.zh, options: shuffle([x.fr, ...others]), answer: x.fr, explain: x.zh, les: x.les, src: "Écoute une phrase", help: "Que veut dire la phrase ? (touche 🔊 pour réécouter)", key: "a:" + x.zh, noSpeak: true }); });
+    pick(sents, 4).forEach((x) => { const others = pick(sents.filter((y) => y.fr !== x.fr), 2).map((y) => y.fr); qs.push({ kind: "mcq", audio: x.zh, prompt: x.zh, options: shuffle([x.fr, ...others]), answer: x.fr, explain: x.zh, les: x.les, src: "Écoute une phrase", help: "Que veut dire la phrase ? (touche Écouter pour réécouter)", key: "a:" + x.zh, noSpeak: true }); });
     if (!("speechSynthesis" in window)) toast("Ton navigateur ne propose pas de voix chinoise.");
     runSession(shuffle(qs), { again: ecoute });
   }
@@ -435,23 +487,23 @@
     drawWord();
     function drawWord() {
       const w = items[wi % items.length]; const chars = [...w.zh]; let ci = 0; let mistakesTotal = 0;
-      app.innerHTML = `<div class="card center"><div class="muted small">Écris le mot :</div><div class="m" style="font-size:1.2rem">${esc(w.fr)}</div><div class="p" style="color:var(--red);font-size:1.2rem">${esc(w.py)} ${sayBtn(w.zh)}</div>
+      app.innerHTML = `<div class="card center"><div class="muted small">Écris le mot :</div><div class="m" style="font-size:1.2rem">${esc(w.fr)}</div><div class="row" style="justify-content:center;color:var(--green);font-size:1.2rem;font-weight:600">${esc(w.py)} ${sayBtn(w.zh)}</div>
         <div class="charrow" id="cr">${chars.map((c, k) => `<span data-k="${k}">${k === 0 ? "?" : "?"}</span>`).join("")}</div>
         <div class="writer" id="wr"></div><div class="muted small" id="msg">Trace les traits dans l'ordre.</div>
-        <div class="row mt" style="justify-content:center"><button class="btn" id="hint">💡 Indice</button><button class="btn" id="anim">▶ Voir l'animation</button><button class="btn" id="skip">Passer →</button></div></div>`;
+        <div class="row mt" style="justify-content:center"><button class="btn" id="hint">${icon("bulb")} Indice</button><button class="btn" id="anim">${icon("play")} Animation</button><button class="btn" id="skip">Passer →</button></div></div>`;
       const size = Math.min(300, window.innerWidth - 80);
       let writer;
       const markCur = () => app.querySelectorAll("#cr span").forEach((s, k) => { s.classList.toggle("cur", k === ci); s.classList.toggle("done", k < ci); if (k < ci) s.textContent = chars[k]; });
       function startChar() {
         markCur(); $("#wr").innerHTML = "";
-        writer = HanziWriter.create("wr", chars[ci], { width: size, height: size, padding: 10, showOutline: !!q.c, showCharacter: false, strokeColor: "#c8102e", radicalColor: "#9e0c24", highlightColor: "#f2b705", outlineColor: "#ddd", drawingWidth: 18, charDataLoader: loader });
+        writer = HanziWriter.create("wr", chars[ci], { width: size, height: size, padding: 10, showOutline: !!q.c, showCharacter: false, strokeColor: "#1f2a24", radicalColor: "#2f6b4f", highlightColor: "#3f8a66", outlineColor: "#e2d8c6", drawingWidth: 18, charDataLoader: loader });
         writer.quiz({
           showHintAfterMisses: 3, highlightOnComplete: true,
           onMistake: () => { mistakesTotal++; },
           onComplete: (s) => {
             ci++; if (ci < chars.length) { setTimeout(startChar, 600); return; }
             markCur(); const ok = mistakesTotal <= chars.length * 2; logAnswer(ok);
-            $("#msg").innerHTML = ok ? "✅ Bravo ! " + (mistakesTotal ? mistakesTotal + " erreur(s) de trait." : "Parfait !") : "👍 Fini, mais avec " + mistakesTotal + " erreurs : réessaie plus tard.";
+            $("#msg").innerHTML = ok ? "Bravo ! " + (mistakesTotal ? mistakesTotal + " erreur(s) de trait." : "Parfait !") : "Fini, mais avec " + mistakesTotal + " erreurs : réessaie plus tard.";
             speak(w.zh); $("#skip").textContent = "Mot suivant →";
           },
         });
@@ -467,7 +519,7 @@
   function examen(q) {
     setTitle("Examen blanc", !!q.t);
     if (!q.t) {
-      app.innerHTML = `<div class="card"><h2>📝 Examen blanc</h2><p class="muted small">Chapitres ${esc(chapLabel())}. Note sur 20 à la fin et liste des erreurs à revoir.</p>
+      app.innerHTML = `<div class="card"><h2>Examen blanc</h2><p class="muted small">Chapitres ${esc(chapLabel())}. Note sur 20 à la fin et liste des erreurs à revoir.</p>
         <a class="btn primary block" href="#/examen?t=mix">Examen des chapitres choisis (25 questions)</a>
         <a class="btn block mt" href="#/examen?t=hsk">HSK 1 blanc du cahier (partie lecture, 20 questions)</a></div>
         <div class="card"><h3>Contenu de l'examen des chapitres</h3><ul class="small"><li>8 questions de vocabulaire (sens, pinyin, écoute)</li><li>12 exercices des livres (manuel + cahier)</li><li>5 phrases à remettre dans l'ordre</li></ul></div>`;
@@ -495,7 +547,7 @@
       if (k.startsWith("a:")) { const zh = k.slice(2); const all2 = LES.flatMap((l) => sentencesFor(l.n)); const x = all2.find((y) => y.zh === zh); if (!x) return null; const others = pick(all2.filter((y) => y.fr !== x.fr), 2).map((y) => y.fr); return { kind: "mcq", audio: x.zh, prompt: x.zh, options: shuffle([x.fr, ...others]), answer: x.fr, explain: x.zh, src: "Écoute une phrase", key: k, noSpeak: true }; }
       return null;
     }).filter(Boolean);
-    if (!qs.length) { app.innerHTML = `<div class="card center"><div class="big">🌟</div><h2>Aucune erreur en attente</h2><p class="muted">Les questions ratées apparaîtront ici pour que tu les retravailles.</p><a class="btn primary" href="#/quiz">Faire un quiz</a></div>`; return; }
+    if (!qs.length) { app.innerHTML = `<div class="card center"><div class="emptyico">${icon("target")}</div><h2>Aucune erreur en attente</h2><p class="muted">Les questions ratées apparaîtront ici pour que tu les retravailles.</p><a class="btn primary" href="#/quiz">Faire un quiz</a></div>`; return; }
     app.innerHTML = `<div class="card"><h2>${qs.length} question(s) à retravailler</h2><p class="muted small">Une question réussie ici disparaît de la liste.</p><button class="btn primary block" id="go">Commencer</button></div>`;
     $("#go").onclick = () => runSession(shuffle(qs).slice(0, 25), { again: revoir });
   }
@@ -505,10 +557,10 @@
     setTitle("Plus", false);
     const voices = "speechSynthesis" in window ? speechSynthesis.getVoices().filter((v) => /^zh/i.test(v.lang)) : [];
     app.innerHTML = `<div class="grid2">
-        <a class="tile" href="#/quiz"><span class="ico">⚡</span><b>Quiz</b></a><a class="tile" href="#/phrases"><span class="ico">🧩</span><b>Phrases</b></a>
-        <a class="tile" href="#/ecriture"><span class="ico">🖌️</span><b>Écriture</b></a><a class="tile" href="#/ecoute"><span class="ico">🎧</span><b>Écoute</b></a>
-        <a class="tile" href="#/examen"><span class="ico">📝</span><b>Examen</b></a><a class="tile" href="#/revoir"><span class="ico">🎯</span><b>Erreurs</b></a>
-        <a class="tile" href="#/lexique"><span class="ico">🔎</span><b>Lexique</b></a><button class="tile" id="chap2"><span class="ico">📚</span><b>Chapitres</b></button></div>
+        <a class="tile" href="#/quiz">${ico("bolt")}<b>Quiz</b></a><a class="tile" href="#/phrases">${ico("puzzle")}<b>Phrases</b></a>
+        <a class="tile" href="#/ecriture">${ico("brush")}<b>Écriture</b></a><a class="tile" href="#/ecoute">${ico("ear")}<b>Écoute</b></a>
+        <a class="tile" href="#/examen">${ico("exam")}<b>Examen</b></a><a class="tile" href="#/revoir">${ico("target")}<b>Erreurs</b></a>
+        <a class="tile" href="#/lexique">${ico("search")}<b>Lexique</b></a><button class="tile" id="chap2">${ico("layers")}<b>Chapitres</b></button></div>
       <div class="card mt"><h2>Réglages</h2>
         <div class="setting"><span>Afficher le pinyin sur les textes</span><input type="checkbox" id="spy" ${S.settings.pinyin ? "checked" : ""}></div>
         <div class="setting"><span>Afficher la traduction</span><input type="checkbox" id="sfr" ${S.settings.french ? "checked" : ""}></div>

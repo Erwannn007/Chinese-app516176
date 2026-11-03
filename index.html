@@ -5,10 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Mon Chinois HSK 1</title>
 <meta name="description" content="Révisions de chinois — New HSK Course 1 (manuel, cahier et cours).">
-<meta name="theme-color" content="#c8102e">
+<meta name="theme-color" content="#f3ece0">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="Chinois">
 <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
 <link rel="icon" type="image/png" href="icons/icon-192.png">
@@ -17,17 +17,17 @@
 </head>
 <body>
 <header class="topbar">
-  <button class="iconbtn" id="backBtn" aria-label="Retour" hidden>‹</button>
+  <button class="iconbtn" id="backBtn" aria-label="Retour" hidden><svg class="i" viewBox="0 0 24 24"><path d="M15 18l-6-6 6-6"/></svg></button>
   <h1 id="title">学中文</h1>
-  <button class="chapbtn" id="chapBtn" aria-label="Choisir les chapitres">Ch. <span id="chapLabel">…</span></button>
+  <button class="chapbtn" id="chapBtn" aria-label="Choisir les chapitres"><svg class="i" viewBox="0 0 24 24"><path d="M4 6h16M7 12h10M10 18h4"/></svg>Ch. <span id="chapLabel">…</span></button>
 </header>
 <main id="app" tabindex="-1"></main>
 <nav class="tabbar">
-  <a href="#/" data-tab="home"><span>🏠</span>Accueil</a>
-  <a href="#/cours" data-tab="cours"><span>📖</span>Cours</a>
-  <a href="#/cartes" data-tab="cartes"><span>🃏</span>Cartes</a>
-  <a href="#/exos" data-tab="exos"><span>✏️</span>Exercices</a>
-  <a href="#/plus" data-tab="plus"><span>☰</span>Plus</a>
+  <a href="#/" data-tab="home"><svg class="i" viewBox="0 0 24 24"><path d="M3 11l9-7 9 7"/><path d="M5 10v10h5v-6h4v6h5V10"/></svg>Accueil</a>
+  <a href="#/cours" data-tab="cours"><svg class="i" viewBox="0 0 24 24"><path d="M4 5a2 2 0 012-2h13v16H6a2 2 0 00-2 2z"/><path d="M4 19V5M8 7h7"/></svg>Cours</a>
+  <a href="#/cartes" data-tab="cartes"><svg class="i" viewBox="0 0 24 24"><rect x="3" y="6" width="14" height="15" rx="2"/><path d="M7 3h12a2 2 0 012 2v13"/></svg>Cartes</a>
+  <a href="#/exos" data-tab="exos"><svg class="i" viewBox="0 0 24 24"><path d="M14 4l6 6L9 21H3v-6z"/><path d="M12 6l6 6"/></svg>Exercices</a>
+  <a href="#/plus" data-tab="plus"><svg class="i" viewBox="0 0 24 24"><circle cx="5" cy="12" r="1.5"/><circle cx="12" cy="12" r="1.5"/><circle cx="19" cy="12" r="1.5"/></svg>Plus</a>
 </nav>
 <div class="sheet" id="sheet" hidden>
   <div class="sheet-card" role="dialog" aria-modal="true" aria-labelledby="sheetTitle">
