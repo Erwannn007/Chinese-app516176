@@ -263,3 +263,90 @@ input[type=range]{accent-color:var(--green)}
 .setting input[type=checkbox]:checked::after{transform:translateX(18px)}
 .emptyico{display:grid;place-items:center;width:64px;height:64px;margin:4px auto 8px;border-radius:22px;color:var(--green);background:rgba(255,255,255,.7);border:1px solid var(--line);box-shadow:var(--inner)}
 .emptyico svg{width:32px;height:32px}
+
+/* ===== Motivation & clarté des exercices ===== */
+.herotop{display:flex;align-items:center;gap:14px}
+.ring{--p:0;flex:none;width:78px;height:78px;border-radius:50%;display:grid;place-items:center;position:relative;
+  background:conic-gradient(#f2d48f calc(var(--p)*1%),rgba(255,255,255,.18) 0)}
+.ring::before{content:"";position:absolute;inset:7px;border-radius:50%;background:rgba(29,70,52,.92)}
+.ring span{position:relative;text-align:center;line-height:1.05}
+.ring b{display:block;font-size:1.25rem}
+.ring small{font-size:.62rem;opacity:.8}
+.goalmsg{margin-top:10px;opacity:.92}
+.cta{justify-content:flex-start;gap:14px;padding:14px 18px;margin-bottom:14px;text-align:left}
+.cta span{display:flex;flex-direction:column;line-height:1.25}
+.cta small{font-weight:500;opacity:.85;font-size:.8rem}
+.cta svg{width:26px;height:26px;flex:none}
+
+.qcard{animation:qin .28s ease-out}
+@keyframes qin{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.consigne{font-weight:700;font-size:1.02rem;color:var(--green-d);margin:-2px 0 12px;line-height:1.35}
+.scenebox{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;margin-bottom:12px;border-radius:14px;background:rgba(214,190,140,.22);border:1px solid rgba(255,255,255,.7)}
+.scenebox svg{color:var(--gold);margin-top:2px}
+.passage{padding:8px 12px;margin-bottom:10px;border-radius:14px;background:rgba(255,255,255,.6);border-left:3px solid var(--green-2)}
+.qtools{margin:-4px 0 14px}
+.trbtn{padding:6px 12px;font-size:.8rem}
+.trbtn svg{width:16px;height:16px}
+.trbox{margin-top:10px;padding:10px 12px;border-radius:14px;background:rgba(255,255,255,.6);font-size:.9rem}
+.trbox .m{font-weight:600}
+.glosses{display:flex;flex-direction:column;gap:2px}
+.reread{margin-top:10px;border-radius:14px;background:rgba(255,255,255,.45);border:1px solid var(--line)}
+.reread summary{cursor:pointer;padding:9px 12px;font-size:.85rem;font-weight:600;color:var(--green-d);display:flex;align-items:center;gap:6px;list-style:none}
+.reread summary::-webkit-details-marker{display:none}
+.reread summary svg{width:16px;height:16px}
+.reread .rr{padding:4px 12px 10px}
+.rrline{display:flex;gap:8px;margin:4px 0}
+.rrline .who2{flex:none;min-width:44px;font-size:.72rem;color:var(--green);font-weight:700;padding-top:10px}
+.reread .zhline{font-size:1.05rem;line-height:1.9}
+
+.opt{display:flex;align-items:center;gap:12px}
+.optk{flex:none;display:grid;place-items:center;width:28px;height:28px;border-radius:9px;font:700 .78rem var(--sans);color:var(--green-d);background:rgba(255,255,255,.8);border:1px solid var(--line)}
+.optt{flex:1;min-width:0}
+.opt.ok .optk{background:var(--ok);color:#fff}
+.opt.ko .optk{background:var(--ko);color:#fff}
+.opt.ko{animation:shake .35s}
+.opt.ok{animation:pop .3s}
+.opt.dim{opacity:.55}
+@keyframes shake{20%,60%{transform:translateX(-5px)}40%,80%{transform:translateX(5px)}}
+@keyframes pop{50%{transform:scale(1.03)}}
+
+.feedback{animation:qin .25s ease-out}
+.feedback.neutral{background:rgba(214,190,140,.2)}
+.feedback .head{flex-wrap:wrap}
+.xpgain{margin-left:auto;font-size:.8rem;padding:2px 10px;border-radius:999px;color:#7a5a1c;background:rgba(242,212,143,.6);animation:pop .4s}
+.expl{display:flex;gap:8px;align-items:flex-start;padding:9px 11px;border-radius:12px;background:rgba(255,255,255,.45)}
+.expl svg{width:18px;height:18px;color:var(--gold);flex:none;margin-top:1px}
+.note{display:flex;gap:6px;align-items:center;margin-top:8px;font-size:.8rem;color:var(--muted)}
+.note svg{width:16px;height:16px}
+.yours{margin-top:6px}
+.steps{display:flex;flex-direction:column;gap:6px;font-size:.9rem;margin-bottom:14px;padding:10px 12px;border-radius:14px;background:rgba(255,255,255,.5)}
+.selfgrade .btn{flex:1}
+.nextbtn{scroll-margin-bottom:110px}
+.built .ph{color:var(--muted);font-size:.85rem;align-self:center;padding:0 4px}
+.built.good{border-color:rgba(47,125,85,.6);background:var(--ok-bg)}
+.built.bad{border-color:rgba(180,81,63,.5);background:var(--ko-bg)}
+.tok{transition:transform .1s}
+.tok:active{transform:scale(.94)}
+.retrybanner{display:flex;gap:8px;align-items:center;margin:-4px 0 10px;padding:8px 12px;border-radius:14px;font-size:.84rem;color:#7a5a1c;background:rgba(242,212,143,.4)}
+.retrybanner svg{width:18px;height:18px}
+.pill.fire{background:rgba(242,170,90,.25);color:#9a4f12}
+
+.endcard{position:relative;overflow:hidden}
+.stars{display:flex;justify-content:center;gap:8px;margin:6px 0 2px}
+.stars span{color:rgba(47,107,79,.18)}
+.stars svg{width:44px;height:44px;fill:currentColor;stroke-width:1.2}
+.stars span.on{color:#e0b04f;animation:starin .5s both}
+@keyframes starin{0%{transform:scale(0) rotate(-40deg)}70%{transform:scale(1.25)}100%{transform:scale(1)}}
+.endstats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:14px 0 8px}
+.endstats div{padding:10px 4px;border-radius:14px;background:rgba(255,255,255,.6);border:1px solid var(--line)}
+.endstats b{display:block;font-size:1.1rem;color:var(--green-d)}
+.endstats span{font-size:.7rem;color:var(--muted)}
+.goalbar i{background:linear-gradient(90deg,#e0b04f,#c8a76c)}
+.confetti{position:absolute;inset:0;pointer-events:none}
+.confetti i{position:absolute;top:-12px;width:8px;height:12px;border-radius:2px;opacity:0;animation:fall linear forwards}
+@keyframes fall{0%{opacity:1;transform:translateY(0) rotate(0)}100%{opacity:0;transform:translateY(420px) rotate(540deg)}}
+.ministars{display:inline-flex;gap:1px;vertical-align:middle}
+.ministars span{color:rgba(47,107,79,.2)}
+.ministars span.on{color:#e0b04f}
+.ministars svg{width:14px;height:14px;fill:currentColor;stroke-width:1}
+@media (prefers-reduced-motion:reduce){.qcard,.feedback,.opt.ko,.opt.ok,.stars span.on,.xpgain{animation:none}.confetti{display:none}}
