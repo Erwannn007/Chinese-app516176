@@ -13,8 +13,9 @@ PEX 春 | chūn
 PEX 村 | cūn
 PEX 睡 | shuì
 PEX 嘴 | zuǐ
-WB A 我是法国人。 — 我也是法国人。/B 这是我女朋友。 — 你好，很高兴认识你。/C 王老师是你的中文老师吗？ — 是的。/D 喂，你工作忙吗？ — 我工作不忙。
-WQ Un homme au téléphone. | D | Au téléphone : 喂……
-WQ Un homme présente sa copine à des amis. | B | 这是我女朋友。
-WQ Une professeure devant un tableau. | C | On parle du professeur de chinois.
-WQ Une personne se présente simplement. | A | 我是法国人。
+IMG wb 12 14 22 92 59 | Regarde les images et choisis le bon dialogue (① à ④) pour chaque image.
+WB ① 我是法国人。 — 我也是法国人。/② 这是我女朋友。 — 你好，很高兴认识你。/③ 王老师是你的中文老师吗？ — 是的。/④ 喂，你工作忙吗？ — 我工作不忙。
+WQ [Image 1] Une professeure devant un tableau. | ③ | On parle du professeur de chinois : 王老师是你的中文老师吗？
+WQ [Image 2] Un homme au téléphone. | ④ | Au téléphone : 喂……
+WQ [Image 3] Deux personnes voyagent ensemble. | ① | 我是法国人。— 我也是法国人。
+WQ [Image 4] Un homme présente sa copine. | ② | 这是我女朋友。

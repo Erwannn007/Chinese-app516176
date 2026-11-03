@@ -21,7 +21,8 @@ PEX 房间 | fángjiān
 PEX 白天 | báitiān
 PEX 饭店 | fàndiàn
 PEX 电脑 | diànnǎo
-WB A 你好！ — 你好！/B 你好！ — 你们好！/C 谢谢！ — 不客气！
-WQ Un homme salue une femme au comptoir. | A | Entre deux personnes : 你好 ! — 你好 !
-WQ Quelqu'un aide une personne tombée sur la glace, elle remercie. | C | 谢谢 ! — 不客气 ! (merci / de rien)
-WQ Un professeur salue un groupe d'élèves. | B | Pour un groupe on dit 你们好.
+IMG wb 4 14 72 92 97 | Regarde les images et choisis le bon dialogue (①, ② ou ③) pour chaque image.
+WB ① 你好！ — 你好！/② 你好！ — 你们好！/③ 谢谢！ — 不客气！
+WQ [Image 1 (à gauche)] Un homme salue une femme au comptoir. | ① | Entre deux personnes : 你好 ! — 你好 !
+WQ [Image 2 (au milieu)] Quelqu'un aide une personne tombée sur la glace, elle remercie. | ③ | 谢谢 ! — 不客气 ! (merci / de rien)
+WQ [Image 3 (à droite)] Une personne salue un groupe. | ② | Pour un groupe on dit 你们好.

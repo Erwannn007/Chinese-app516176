@@ -58,17 +58,36 @@ G Les classificateurs : Nombre + Classificateur + (Nom) | En chinois, un nombre 
 EX 四口人 | quatre personnes (famille)
 EX 两个哥哥 | deux grands frères
 EX 两个学生 | deux élèves
-XL 杨同乐有一个___。 | 妹妹 | 哥哥/姐姐/妹妹 | Il n'a pas de grand frère ; sa famille : papa, maman, petite sœur et lui.
-XL 杨同乐家有___。 | 四口人 | 两口人/四口人/五口人 | 爸爸、妈妈、妹妹和我 = 4 personnes.
-XL 王一雪有___孩子。 | 两个 | 一个/两个/三个 | 一个儿子，一个女儿。
-XL 王一雪女儿今年___岁。 | 十二 | 五/十二/二十 | 她今年十二。
-XQ 王一雪有几个儿子？几个女儿？ | 她有一个儿子，一个女儿。
-XQ 王一雪儿子今年几岁？ | 他今年五岁。
-XB 呢/二十/没/口/大
-X 王一飞老师有___个学生。 | 二十 | 她有二十个学生。
-X 杨同乐家有四___人。 | 口 | 口 = classificateur des membres de la famille.
-X 王一雪：我有两个孩子，你___？ | 呢 | « 你呢 ? » = et toi ?
-X 杨同乐：我___孩子。 | 没 | Négation de 有 = 没(有).
-X 杨同乐：您女儿今年多___？ | 大 | 多大 = quel âge (plus de 10 ans).
-XC A：你家有___？ B：我家有三口人，你家呢？ | 几口人 | Question sur le nombre de personnes dans la famille.
-XC A：你有姐姐吗？ B：我有___姐姐，你呢？ A：我有两个姐姐。 | 一个 | Nombre + 个 + 姐姐.
+IMG tb 18 9 55 87 89 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 五/B 哥哥/C 学生/D 六十岁/E 妈妈/F 老师
+XM [Image 1 (en haut à gauche)] Un vieil homme souriant. | 六十岁 | 六十岁 liùshí suì = 60 ans.
+XM [Image 2 (en haut au milieu)] Le chiffre 5. | 五 | 五 wǔ = cinq.
+XM [Image 3 (en haut à droite)] Des enfants en classe lèvent la main. | 学生 | 学生 xuésheng = élève.
+XM [Image 4 (en bas à gauche)] Une femme devant un tableau. | 老师 | 老师 lǎoshī = professeur.
+XM [Image 5 (en bas au milieu)] Une maman avec son bébé. | 妈妈 | 妈妈 māma = maman.
+XM [Image 6 (en bas à droite)] Un garçon porte sa petite sœur sur le dos. | 哥哥 | 哥哥 gēge = grand frère.
+IMG tb 21 12 73 92 93 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 杨同乐有一个___。 | 妹妹 | A 妹妹/B 姐姐/C 哥哥 | Sa famille : papa, maman, petite sœur et lui.
+XL [2] 杨同乐家有___。 | 四口人 | A 两口人/B 四口人/C 五口人 | 爸爸、妈妈、妹妹和我 = 4 personnes.
+IMG tb 23 14 70 70 91 | Complète les dialogues : écris ce qui manque dans les parenthèses.
+XC [1] A：你家有___？ B：我家有三口人，你家呢？ | 几口人 | Question sur le nombre de personnes dans la famille : 几口人.
+XC [1 · 2e trou] B：我家有三口人，你家呢？ A：我家有___。 | 四口人 // 三口人 // 两口人 // 五口人 | Réponds avec un nombre + 口人 (ta vraie famille).
+XC [2] A：你有姐姐吗？ B：我有___姐姐，你呢？ A：我有两个姐姐。 | 一个 // 两个 // 三个 | Nombre + 个 + 姐姐.
+IMG tb 24 12 19 92 39 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 王一雪有___孩子。 | 两个 | A 一个/B 两个/C 三个 | 一个儿子，一个女儿 = deux enfants.
+XL [2] 王一雪女儿今年___岁。 | 十二 | A 五/B 十二/C 二十 | 她今年十二。
+IMG tb 25 14 10 56 29 | Réponds aux questions d'après le texte 3.
+XQ [1] 王一雪有几个儿子？几个女儿？ | 她有一个儿子，一个女儿。 // 王一雪有一个儿子，一个女儿。
+XQ [2] 王一雪儿子今年几岁？ | 她儿子今年五岁。 // 他今年五岁。 // 王一雪儿子今年五岁。
+IMG tb 25 13 44 92 70 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 呢/B 二十/C 没/D 口/E 大
+X [1] 王一飞老师有___个学生。 | 二十 | 她有二十个学生。
+X [2] 杨同乐家有四___人。 | 口 | 口 = classificateur des membres de la famille.
+X [3] 王一雪：我有两个孩子，你___？ | 呢 | « 你呢 ? » = et toi ?
+X [3 · 2e trou] 杨同乐：我___孩子。 | 没 | Négation de 有 = 没(有).
+X [4] 杨同乐：您女儿今年多___？ | 大 | 多大 = quel âge (plus de 10 ans).
+IMG tb 25 13 70 92 94 + tb 26 13 6 92 26 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 他家有___。 | 他家有六口人。 | Compte les personnes sur la photo : 6 → 六口人 (口 = classificateur pour la famille).
+XP [Image 2] 这是李文的___和___。 | 这是李文的爸爸和妈妈。
+XP [Image 3] 我儿子今年___岁。 | 我儿子今年五岁。 // 我儿子今年六岁。 // 我儿子今年七岁。
+XP [Image 4] 我有一个___。 | 我有一个哥哥。 // 我有一个弟弟。

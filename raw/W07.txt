@@ -14,17 +14,20 @@ PEX 饭 / 放 | fàn / fàng
 PEX 林 / 零 | lín / líng
 PEX 亲 / 青 | qīn / qīng
 PRON Introduction aux caractères chinois | Les caractères (汉字) sont nés dans la Chine ancienne : c'est l'une des plus anciennes écritures du monde, la seule utilisée sans interruption jusqu'à aujourd'hui. Styles historiques : écriture ossécaille (甲骨文), bronzes (金文), sigillaire (篆书), des scribes (隶书), régulière (楷书, la norme actuelle), cursive (草书), semi-cursive (行书). Environ 90 % des caractères modernes sont des idéo-phonogrammes (形声字) : une partie donne le sens, une autre le son. Ex. 材 : 才 donne le son, la clé 木 (bois) donne le sens ; 花 : 化 donne le son, la clé 艹 (herbe) indique une plante.
+IMG wb 45 10 15 92 72 | Lecture, 1re partie : choisis l'image (A à D) qui correspond à chaque phrase.
 WB A Une fille qui lit/B Une femme fait ses courses/C Un réveil qui indique 7 h/D Une salle de classe
-WQ 我在上课呢。 | D | Image D : une salle de classe.
-WQ 我下午有事，晚上7:00见吧。 | C | Image C : un réveil à 7 h.
-WQ 今天不上班，我去超市买东西。 | B | Image B : une femme fait ses courses.
+WQ [11] 我在上课呢。 | D | Image D : une salle de classe.
+WQ [12] 我下午有事，晚上7:00见吧。 | C | Image C : un réveil à 7 h.
+WQ [13] 今天不上班，我去超市买东西。 | B | Image B : une femme fait ses courses.
+IMG wb 46 12 7 92 55 | Lecture, 2e partie : choisis la réponse (A à D) qui va avec chaque phrase.
 WB A 早上七点半。/B 对不起，我有课。/C 电影院。/D 好的，谢谢！
-WQ 你喝水吗？ | D | (exemple)
-WQ 我们在哪儿见？ | C | – Où se retrouve-t-on ? – Au cinéma.
-WQ 现在几点？ | A | – Quelle heure est-il ? – 7 h 30 du matin.
-WQ 我们下午去超市吧。 | B | – Allons au supermarché cet après-midi. – Désolé(e), j'ai cours.
+WQ [14] 我们在哪儿见？ | C | – Où se retrouve-t-on ? – Au cinéma.
+WQ [15] 现在几点？ | A | – Quelle heure est-il ? – 7 h 30 du matin.
+WQ [16] 我们下午去超市吧。 | B | – Allons au supermarché cet après-midi. – Désolé(e), j'ai cours.
+IMG wb 46 12 61 92 88 + wb 47 10 6 92 17 | Lecture, 3e partie : choisis le mot (A, B ou C) qui va dans les parenthèses.
 WB A 医院/B 中午/C 名字
-WQ 我们（ ）12:00下课。 | B | 中午12:00 = midi.
-WQ 男：你现在在哪儿？ 女：我在（ ）呢。 | A | 在医院 = à l'hôpital.
-WR 我今天早上八点半上课，十点十分下课。 ★ 说话人今天几点下课？ | A 8:30/B 10:10/C 10:20 | B
-WR 妈妈今天休息，下午想去菜店买些菜。 ★ 妈妈下午想去菜店买： | A 菜/B 饺子/C 牛奶 | A
+WQ [17] 我们（ ）12:00下课。 | B | 中午12:00 = midi.
+WQ [18] 男：你现在在哪儿？ 女：我在（ ）呢。 | A | 在医院 = à l'hôpital.
+IMG wb 47 10 23 92 81 | Lecture, 4e partie : lis la phrase, puis choisis la bonne réponse (A, B ou C).
+WR [19] 我今天早上八点半上课，十点十分下课。 ★ 说话人今天几点下课？ | A 8:30/B 10:10/C 10:20 | B | 十点十分下课.
+WR [20] 妈妈今天休息，下午想去菜店买些菜。 ★ 妈妈下午想去菜店买： | A 菜/B 饺子/C 牛奶 | A | 买些菜.

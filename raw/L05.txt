@@ -57,22 +57,35 @@ G Le verbe modal « 会 » | « 会 » se place devant un verbe : savoir faire q
 EX 你会做饭吗？ | Tu sais cuisiner ?
 EX 我会做面条儿。 | Je sais faire des nouilles.
 EX 我不会做菜。 | Je ne sais pas cuisiner.
-XL 杨同乐___做饭。 | 会 | 会/不/不会 | « 我会做。»
-XL 杨同乐___也做饭。 | 星期日 | 星期三/星期六/星期日 | « 星期天我也做饭。» (星期天 = 星期日)
-XL 杨同乐也___。 | 下班 | 上班/下班/休息 | « 同乐，下班吗？ — 下班。»
-XL 杨同乐有一个新___。 | 电脑 | 名字/工作/电脑 | « 是我的新电脑。»
-XQ 杨同乐的新电脑怎么样？ | 他的新电脑真好看。
-XQ 杨同乐喜欢他的新电脑吗？ | 他很喜欢他的新电脑。
-XB 菜/喜欢/6月22号/新/真
-X 今天___。 | 6月22号 | Phrase à prédicat nominal : 今天 + date.
-X 杨同乐有一个___电脑。 | 新 | 新电脑 = nouvel ordinateur.
-X 王一雪：你会做这两个___吗？ 杨同乐：我会做。 | 菜 | 两个菜 = deux plats.
-X 王一雪：你的电脑___好看！ | 真 | 真好看 = vraiment beau.
-X 杨同乐：我也很___。 | 喜欢 | 很喜欢 = aimer beaucoup.
-XP 今天___。 (calendrier : 7 septembre 2025, dimanche) | 今天9月7号，星期日。
-XP 杨同乐会___。 (photo : il cuisine) | 杨同乐会做饭。
-XP 我___两个菜。 (photo : deux plats) | 我会做两个菜。
-XP 今天是___年___月1号，___。 (calendrier : 1er mai 2025, jeudi) | 今天是2025年5月1号，星期四。
+IMG tb 27 13 49 92 83 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 2025年5月/B 星期一/C 电脑/D 做饭/E 休息/F 饺子
+XM [Image 1 (en haut à gauche)] Un calendrier de mai 2025. | 2025年5月 | 二〇二五年五月 = mai 2025.
+XM [Image 2 (en haut au milieu)] Une femme se détend, les bras derrière la tête. | 休息 | 休息 xiūxi = se reposer.
+XM [Image 3 (en haut à droite)] Une assiette de raviolis. | 饺子 | 饺子 jiǎozi = raviolis chinois.
+XM [Image 4 (en bas à gauche)] Un ordinateur. | 电脑 | 电脑 diànnǎo = ordinateur.
+XM [Image 5 (en bas au milieu)] Des personnes cuisinent. | 做饭 | 做饭 zuò fàn = faire à manger.
+XM [Image 6 (en bas à droite)] Des cubes « 星期一 ». | 星期一 | 星期一 xīngqīyī = lundi.
+IMG tb 30 12 31 92 50 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 杨同乐___做饭。 | 会 | A 会/B 不/C 不会 | « 我会做。»
+XL [2] 杨同乐___也做饭。 | 星期日 | A 星期三/B 星期六/C 星期日 | « 星期天我也做饭。» (星期天 = 星期日)
+IMG tb 31 13 75 92 94 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 杨同乐也___。 | 下班 | A 上班/B 下班/C 休息 | « 同乐，下班吗？ — 下班。»
+XL [2] 杨同乐有一个新___。 | 电脑 | A 名字/B 工作/C 电脑 | « 是我的新电脑。»
+IMG tb 32 12 84 92 96 | Réponds aux questions d'après le texte 3.
+XQ [1] 杨同乐的新电脑怎么样？ | 杨同乐的新电脑真好看。 // 他的新电脑真好看。 // 很好看。
+XQ [2] 杨同乐喜欢他的新电脑吗？ | 他很喜欢他的新电脑。 // 杨同乐很喜欢他的新电脑。 // 他很喜欢。
+IMG tb 33 13 14 92 41 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 菜/B 喜欢/C 6月22号/D 新/E 真
+X [1] 今天___。 | 6月22号 | Phrase à prédicat nominal : 今天 + date.
+X [2] 杨同乐有一个___电脑。 | 新 | 新电脑 = nouvel ordinateur.
+X [3] 王一雪：你会做这两个___吗？ 杨同乐：我会做。 | 菜 | 两个菜 = deux plats.
+X [4] 王一雪：你的电脑___好看！ | 真 | 真好看 = vraiment beau.
+X [4 · 2e trou] 杨同乐：我也很___。 | 喜欢 | 很喜欢 = aimer beaucoup.
+IMG tb 33 13 40 92 91 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 今天___。 | 今天9月7号，星期日。 // 今天9月7号。 // 今天2025年9月7号，星期日。 | Sur le calendrier : dimanche 7 septembre 2025.
+XP [Image 2] 杨同乐会___。 | 杨同乐会做饭。
+XP [Image 3] 我___两个菜。 | 我会做两个菜。
+XP [Image 4] 今天是___年___月1号，___。 | 今天是2025年5月1号，星期四。 | Sur le calendrier : jeudi 1er mai 2025.
 PP 今天几月几号？ — 今天10月16日。 | Quelle date sommes-nous ? — Le 16 octobre.
 PP 今天星期几？ — 今天星期五。 | Quel jour sommes-nous ? — Vendredi.
 PP 星期天我们没有课。 | Le dimanche, nous n'avons pas cours.

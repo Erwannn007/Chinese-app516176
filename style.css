@@ -350,3 +350,24 @@ input[type=range]{accent-color:var(--green)}
 .ministars span.on{color:#e0b04f}
 .ministars svg{width:14px;height:14px;fill:currentColor;stroke-width:1}
 @media (prefers-reduced-motion:reduce){.qcard,.feedback,.opt.ko,.opt.ok,.stars span.on,.xpgain{animation:none}.confetti{display:none}}
+
+/* ---------- exercices présentés comme dans le livre ---------- */
+.bookimg{margin:0 0 12px;border-radius:14px;overflow:hidden;background:#fff;border:1px solid var(--line);box-shadow:var(--inner);cursor:zoom-in}
+.bookimg img{display:block;width:100%;height:auto}
+.bookimg figcaption{display:flex;align-items:center;justify-content:center;gap:6px;font-size:.72rem;color:var(--muted);padding:5px 8px;background:rgba(255,255,255,.7)}
+.bookimg figcaption svg{width:14px;height:14px}
+.qnum{display:inline-block;font-weight:800;font-size:.9rem;color:#fff;background:var(--green);border-radius:999px;padding:4px 12px;margin:2px 0 8px}
+.qtext.small-q{font-size:1rem;margin:2px 0 12px}
+.qtext.small-q.zhq{font-size:1.2rem}
+.mb{margin-bottom:12px}
+.opts.letters{display:grid;grid-template-columns:repeat(auto-fit,minmax(64px,1fr));gap:10px}
+.opts.letters .opt{text-align:center;padding:12px 6px}
+.opts.letters .optk{margin:0 auto}
+.answerbox{min-height:64px;resize:vertical;font-family:var(--zh);font-size:1.15rem;line-height:1.5}
+.zoomview{position:fixed;inset:0;z-index:100;background:rgba(20,20,20,.92);display:flex;flex-direction:column}
+.zoomview .zscroll{flex:1;overflow:auto;-webkit-overflow-scrolling:touch;display:flex;align-items:center;justify-content:center}
+.zoomview img{max-width:100%;max-height:100%;cursor:zoom-in;background:#fff}
+.zoomview.big .zscroll{display:block}
+.zoomview.big img{max-width:none;max-height:none;width:240%;cursor:zoom-out}
+.zoomview .zclose{position:absolute;top:calc(env(safe-area-inset-top) + 10px);right:12px;z-index:2;background:rgba(255,255,255,.9);border-radius:999px;width:44px;height:44px}
+.zoomview .zhint{color:#ddd;text-align:center;font-size:.8rem;padding:8px 8px calc(env(safe-area-inset-bottom) + 10px)}

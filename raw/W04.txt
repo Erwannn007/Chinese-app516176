@@ -17,17 +17,20 @@ PEX 谢谢 | xièxie
 PEX 衣服 | yīfu
 PEX 漂亮 | piàoliang
 PEX 早上 | zǎoshang
+IMG wb 19 10 15 92 72 | Lecture, 1re partie : choisis l'image (A à D) qui correspond à chaque phrase.
 WB A Une fille qui lit/B Un jeune homme avec des livres/C Deux hommes se saluent/D Une famille dehors
-WQ 老师，您好！ | C | Image C : deux personnes se saluent.
-WQ 我家有四口人。 | D | Image D : une famille.
-WQ 我哥哥今年20岁。 | B | Image B : un jeune homme.
+WQ [11] 老师，您好！ | C | Image C : deux personnes se saluent.
+WQ [12] 我家有四口人。 | D | Image D : une famille de quatre personnes.
+WQ [13] 我哥哥今年20岁。 | B | Image B : un jeune homme (20 ans).
+IMG wb 20 12 12 92 54 | Lecture, 2e partie : choisis la réponse (A à D) qui va avec chaque phrase.
 WB A 好的，谢谢！/B 他今年5岁。/C 我女朋友。/D 是的。
-WQ 你喝水吗？ | A | (exemple) – Tu veux de l'eau ? – Oui, merci !
-WQ 她是谁？ | C | – Qui est-ce ? – Ma copine.
-WQ 你是法国人吗？ | D | – Tu es français ? – Oui.
-WQ 您儿子多大？ | B | – Quel âge a votre fils ? – Il a 5 ans.
+WQ [14] 她是谁？ | C | – Qui est-ce ? – Ma copine.
+WQ [15] 你是法国人吗？ | D | – Tu es français ? – Oui.
+WQ [16] 您儿子多大？ | B | – Quel âge a votre fils ? – Il a 5 ans.
+IMG wb 20 12 61 92 88 + wb 21 10 6 92 17 | Lecture, 3e partie : choisis le mot (A, B ou C) qui va dans les parenthèses.
 WB A 想/B 忙/C 名字
-WQ 她工作很（ ）。 | B | 工作很忙 = très occupé au travail.
-WQ 男：你们好吗？ 女：很好，我们很（ ）你。 | A | 很想你 = tu nous manques beaucoup.
-WR 我家有三口人，爸爸、妈妈和我。 ★ 说话人家里有： | A 姐姐/B 三口人/C 四口人 | B
-WR 她是法国人，我不是。 ★ “她”是： | A 法国人/B 中国人/C 泰国人 | A
+WQ [17] 她工作很（ ）。 | B | 工作很忙 = très occupé au travail.
+WQ [18] 男：你们好吗？ 女：很好，我们很（ ）你。 | A | 很想你 = tu nous manques beaucoup.
+IMG wb 21 10 23 92 81 | Lecture, 4e partie : lis la phrase, puis choisis la bonne réponse (A, B ou C).
+WR [19] 我家有三口人，爸爸、妈妈和我。 ★ 说话人家里有： | A 姐姐/B 三口人/C 四口人 | B | 爸爸、妈妈和我 = 3 personnes.
+WR [20] 她是法国人，我不是。 ★ “她”是： | A 法国人/B 中国人/C 泰国人 | A | 她是法国人 = elle est française.

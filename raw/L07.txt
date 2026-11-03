@@ -66,24 +66,41 @@ G La particule « 呢 » (2) | Ici, « 呢 » à la fin d'une phrase affirmative
 EX 我明天下午两点还上课呢。 | Demain à 14 h, j'ai encore cours (tu vois).
 EX 妹妹会做两个菜呢。 | Ma petite sœur sait faire deux plats, quand même !
 EX 李文晚上还有事呢。 | Li Wen a encore quelque chose à faire ce soir.
-XL 李文下午想去___。 | 看电影 | 超市/看电影/西安饭店 | « 下午我想去电影院看电影。»
-XL 白家月明天下午还___。 | 上课 | 上课/有事/去超市 | « 我明天下午两点还上课呢。»
-XL 刘明___呢。 | 在家里 | 上班/买菜/在家里 | « 我在家里呢。»
-XL 王一雪___下班。 | 六点半 | 五点/六点/六点半 | « 我晚上六点半下班。»
-XQ 刘明晚上还去做什么？ | 他晚上八点去医院上班。
-XQ 刘明十分钟后去做什么？ | 他十分钟后去店里买菜。
-XC A：我们___点见？ B：我们下午两点见吧。 | 几 | 几点 = à quelle heure.
-XC A：你上午去上课，是吗？ B：对，我___有课。 | 上午 | Le temps se place avant le verbe.
-XC A：我们现在去超市吧。 B：对不起，我___有课。 | 现在 | 现在 = maintenant (avant le verbe).
-XB 医院/十二点半/课/现在/见
-X 她星期天没有___。 | 课 | 没有课 = ne pas avoir cours.
-X 我们中午___下课。 | 十二点半 | 中午十二点半 = 12 h 30.
-X 我们下课，下午两点___吧。 | 见 | 两点见吧 = on se voit à 14 h.
-X 白家月：对不起，我___有事呢，你去吧。 | 现在 | Adverbe de temps avant le verbe.
-X 王一雪：你今天晚上几点去___上班？ 刘明：晚上八点。 | 医院 | 刘明 travaille à l'hôpital.
-XP 我们上午___吧。 (horloge : 10 h 10) | 我们上午十点十分见吧。
-XP 我今天晚上___还___呢。 (horloge : 9 h) | 我今天晚上九点还有课呢。
-XP 妹妹___有课。 (horloge : 12 h 10) | 妹妹中午十二点十分有课。
+IMG tb 45 13 54 92 94 | Échauffement : quelle heure (A à F) va avec chaque horloge ?
+XB A 8:15/B 15:20/C 10:10/D 13:45/E 12:30/F 18:00
+XM [Horloge 1 (en haut à gauche)] Petite aiguille sur 10, grande aiguille sur 2. | 10:10 | 十点十分.
+XM [Horloge 2 (en haut au milieu)] Petite aiguille entre 12 et 1, grande aiguille sur 6. | 12:30 | 十二点半.
+XM [Horloge 3 (en haut à droite)] Petite aiguille près de 2, grande aiguille sur 9. | 13:45 | 一点四十五分 (13 h 45).
+XM [Horloge 4 (en bas à gauche)] Petite aiguille entre 3 et 4, grande aiguille sur 4. | 15:20 | 三点二十分 (15 h 20).
+XM [Horloge 5 (en bas au milieu)] Petite aiguille sur 6, grande aiguille sur 12. | 18:00 | 六点 (18 h).
+XM [Horloge 6 (en bas à droite)] Petite aiguille sur 8, grande aiguille sur 3. | 8:15 | 八点十五分 (八点一刻).
+IMG tb 48 12 42 92 59 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 李文下午想去___。 | 看电影 | A 超市/B 看电影/C 西安饭店 | « 下午我想去电影院看电影。»
+XL [2] 白家月明天下午还___。 | 上课 | A 上课/B 有事/C 去超市 | « 我明天下午两点还上课呢。»
+IMG tb 50 13 23 92 34 | Complète les dialogues : écris ce qui manque dans les parenthèses.
+XC [1] A：我们___点见？ B：我们下午两点见吧。 | 几 | 几点 = à quelle heure.
+XC [1 · 2e trou] A：我们几点见？ B：我们下午___见吧。 | 两点 // 三点 // 四点 // 一点 // 五点 | Une heure : 两点 (14 h)…
+XC [2] A：你上午去上课，是吗？ B：对，我___有课。 | 上午 | Le temps se place avant le verbe : 我上午有课.
+XC [3] A：我们___去超市吧。 B：对不起，我现在有课。 | 现在 | 现在 = maintenant (avant le verbe).
+XC [3 · 2e trou] A：我们现在去超市吧。 B：对不起，我___有课。 | 现在 | 我现在有课 = j'ai cours maintenant.
+IMG tb 50 12 70 92 89 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 刘明___呢。 | 在家里 | A 上班/B 买菜/C 在家里 | « 我在家里呢。»
+XL [2] 王一雪___下班。 | 六点半 | A 五点/B 六点/C 六点半 | « 我晚上六点半下班。»
+IMG tb 51 13 82 92 94 | Réponds aux questions d'après le texte 3.
+XQ [1] 刘明晚上还去做什么？ | 他晚上八点去医院上班。 // 刘明晚上八点去医院上班。 // 他去医院上班。
+XQ [2] 刘明十分钟后去做什么？ | 他十分钟后去店里买菜。 // 刘明十分钟后去店里买菜。 // 他去店里买菜。
+IMG tb 52 9 13 92 39.5 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 医院/B 十二点半/C 课/D 现在/E 见
+X [1] 她星期天没有___。 | 课 | 没有课 = ne pas avoir cours.
+X [2] 我们中午___下课。 | 十二点半 | 中午十二点半 = 12 h 30.
+X [2 · 2e trou] 我们中午十二点半下课，下午两点___吧。 | 见 | 两点见吧 = on se voit à 14 h.
+X [3] 白家月：对不起，我___有事呢，你去吧。 | 现在 | Adverbe de temps avant le verbe.
+X [4] 王一雪：你今天晚上几点去___上班？ 刘明：晚上八点。 | 医院 | 刘明 travaille à l'hôpital.
+IMG tb 52 9 40 92 84 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 现在是___点___分。 | 现在是七点十分。 | Le réveil indique 7 h 10.
+XP [Image 2] 我们上午___吧。 | 我们上午十点十分见吧。 | L'horloge indique 10 h 10.
+XP [Image 3] 我今天晚上___还___呢。 | 我今天晚上九点还有课呢。 // 我今天晚上九点还上课呢。 | Le réveil indique 9 h.
+XP [Image 4] 妹妹___有课。 | 妹妹下午两点有课。 // 妹妹两点有课。 | L'horloge indique 2 h.
 PP 现在12点。 | Il est midi.
 PP 早上好！ | Bonjour (le matin) !
 PP 晚上好！ | Bonsoir !

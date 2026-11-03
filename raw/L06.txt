@@ -59,22 +59,35 @@ EX 她坐出租车去超市。 | Elle va au supermarché en taxi. (manière)
 G Le pronom interrogatif « 怎么 » | « 怎么 » se place devant un verbe pour demander la manière ou le moyen (comment ?).
 EX 我们怎么去？ | Comment on y va ?
 EX 她怎么去超市？ | Comment va-t-elle au supermarché ?
-XL 白家月___想去超市。 | 明天 | 现在/今天/明天 | « 明天你去哪儿？— 我想去超市买东西。»
-XL 白家月想买___。 | 牛奶 | 菜/牛奶/面条儿和牛奶 | « 我想买些牛奶。»
-XL 王一雪一家人想去西安饭店___。 | 吃晚饭 | 吃早饭/吃午饭/吃晚饭 | « 星期天我们去哪儿吃晚饭？»
-XL 刘小明不想吃___。 | 包子 | 米饭/包子/面条儿 | « 我想吃米饭，不想吃包子。»
-XQ 西安饭店的包子好吃吗？ | 西安饭店的包子非常好吃。
-XQ 他们怎么去西安饭店？ | 他们坐出租车去西安饭店。
-XB 多少/买/米饭/坐/去
-X 我想___超市买牛奶。 | 去 | Verbes en série : 去超市 + 买牛奶.
-X 我想去超市___牛奶。 | 买 | 买 = acheter.
-X 我们___出租车去西安饭店吃晚饭。 | 坐 | 坐出租车 = prendre le taxi (manière).
-X 妈妈：你想吃什么？ 孩子：我想吃___。 | 米饭 | Un aliment : 米饭 (riz).
-X 老师：你的手机号是___？ 学生：我的手机号是13126975002。 | 多少 | 手机号是多少 ? = quel est le numéro ?
-XP 她的___是多少？ (photo : un portable) | 她的手机号是多少？
-XP 我想___超市___牛奶。 (photo : supermarché) | 我想去超市买牛奶。
-XP 王一雪想___去超市。 (photo : un taxi) | 王一雪想坐出租车去超市。
-XP 这些包子非常___。 (photo : des baozi) | 这些包子非常好吃。
+IMG tb 35 13 54 92 88 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 手机/B 晚饭/C 超市/D 牛奶/E 出租车/F 米饭
+XM [Image 1 (en haut à gauche)] Les rayons d'un magasin. | 超市 | 超市 chāoshì = supermarché.
+XM [Image 2 (en haut au milieu)] Une main tient un téléphone. | 手机 | 手机 shǒujī = téléphone portable.
+XM [Image 3 (en haut à droite)] Du lait versé dans un verre. | 牛奶 | 牛奶 niúnǎi = lait.
+XM [Image 4 (en bas à gauche)] Un bol de riz. | 米饭 | 米饭 mǐfàn = riz cuit.
+XM [Image 5 (en bas au milieu)] Une voiture orange dans la ville. | 出租车 | 出租车 chūzūchē = taxi.
+XM [Image 6 (en bas à droite)] Une famille à table le soir. | 晚饭 | 晚饭 wǎnfàn = dîner.
+IMG tb 37 13 20 92 38 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 白家月___想去超市。 | 明天 | A 现在/B 今天/C 明天 | « 明天你去哪儿？— 我想去超市买东西。»
+XL [2] 白家月想买___。 | 牛奶 | A 菜/B 牛奶/C 面条儿和牛奶 | « 我想买些牛奶。»
+IMG tb 38 12 74 92 95 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 王一雪一家人想去西安饭店___。 | 吃晚饭 | A 吃早饭/B 吃午饭/C 吃晚饭 | « 星期天我们去哪儿吃晚饭？»
+XL [2] 刘小明不想吃___。 | 包子 | A 米饭/B 包子/C 面条儿 | « 我想吃米饭，不想吃包子。»
+IMG tb 39 13 79 92 93 | Réponds aux questions d'après le texte 3.
+XQ [1] 西安饭店的包子好吃吗？ | 西安饭店的包子非常好吃。 // 非常好吃。 // 很好吃。
+XQ [2] 他们怎么去西安饭店？ | 他们坐出租车去西安饭店。 // 他们坐出租车去。 // 坐出租车去。
+IMG tb 41 13 33 92 58 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 多少/B 买/C 米饭/D 坐/E 去
+X [1] 我想___超市买牛奶。 | 去 | Verbes en série : 去超市 + 买牛奶.
+X [1 · 2e trou] 我想去超市___牛奶。 | 买 | 买 = acheter.
+X [2] 我们___出租车去西安饭店吃晚饭。 | 坐 | 坐出租车 = prendre le taxi (manière).
+X [3] 妈妈：你想吃什么？ 孩子：我想吃___。 | 米饭 | Un aliment : 米饭 (riz).
+X [4] 老师：你的手机号是___？ 学生：我的手机号是13126975002。 | 多少 | 手机号是多少 ? = quel est le numéro ?
+IMG tb 41 13 57 92 84 + tb 42 13 6 92 30 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 她的___是多少？ | 她的手机号是多少？
+XP [Image 2] 我想___超市___牛奶。 | 我想去超市买牛奶。
+XP [Image 3] 王一雪想___去超市。 | 王一雪想坐出租车去超市。
+XP [Image 4] 这些包子非常___。 | 这些包子非常好吃。
 PP 你的电话号是多少？ | Quel est ton numéro de téléphone ?
 PP 我的电话号是65732780。 | Mon numéro, c'est le 65732780.
 PP 我喜欢我的新手机。 | J'aime mon nouveau portable.

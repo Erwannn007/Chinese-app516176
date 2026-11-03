@@ -85,7 +85,7 @@
   const ALLWORDS = [];
   LES.forEach((l) => l.vocab.forEach((v, i) => ALLWORDS.push(Object.assign({ id: l.n + ":" + v.zh, les: l.n, idx: i }, v))));
   const seenZh = new Set(); const UNIQUE = ALLWORDS.filter((w) => (seenZh.has(w.zh) ? false : (seenZh.add(w.zh), true)));
-  const ALLEX = []; LES.forEach((l) => l.ex.forEach((e, i) => ALLEX.push(Object.assign({ id: "L" + l.n + "-" + i, les: l.n }, e))));
+  const ALLEX = []; LES.forEach((l) => l.ex.forEach((e, i) => ALLEX.push(Object.assign({ id: e.img ? "L" + l.n + ":" + e.img + ":" + (e.num || i) : "L" + l.n + "-" + i, les: l.n }, e))));
   C.mock.forEach((e, i) => ALLEX.push(Object.assign({ id: "M-" + i, les: 0, mock: true }, e)));
   const exById = {}; ALLEX.forEach((e) => (exById[e.id] = e));
   const wordById = {}; ALLWORDS.forEach((w) => (wordById[w.id] = w));
@@ -350,7 +350,7 @@
           if (ok) { st.combo++; st.best = Math.max(st.best, st.combo); gain = (q.retry ? 5 : 10) + Math.min(st.combo - 1, 5) * 2; st.xp += gain; addXp(gain); }
           else st.combo = 0;
           const willRetry = !ok && !opts.exam && !q.retry;
-          if (willRetry) st.qs.push(Object.assign({}, q, { retry: true, options: q.options ? shuffle(q.options) : q.options }));
+          if (willRetry) st.qs.push(Object.assign({}, q, { retry: true, options: q.options && !q.keep ? shuffle(q.options) : q.options }));
           st.i++; persist();
           const fbh = host.querySelector(".feedback .head");
           if (fbh && gain) fbh.insertAdjacentHTML("beforeend", `<span class="xpgain">+${gain} XP${st.combo >= 3 ? " 🔥" : ""}</span>`);
@@ -439,7 +439,13 @@
     const cons = q.help ? `<div class="consigne">${esc(q.help)}</div>` : "";
     const isZh = /[一-鿿]/.test(q.prompt);
     let body = "";
-    if (q.audio) body = `<div class="center"><button class="btn gold" data-say="${esc(q.audio)}" style="font-size:1.2rem">${icon("sound")} Écouter</button></div>`;
+    if (q.img) {
+      body += `<figure class="bookimg"><img src="${esc(q.img)}" alt="Exercice du livre" loading="eager"><figcaption>${icon("search")} Touche l'image pour l'agrandir</figcaption></figure>`;
+      if (q.listen && byN[q.les] && byN[q.les].texts[q.listen - 1]) body += `<div class="center mb"><button class="btn gold listenbtn" type="button">${icon("sound")} Écouter le texte ${q.listen}</button></div>`;
+      body += `<div class="qnum">${q.num ? "Question " + esc(q.num) : "Ta réponse"}</div>`;
+      if (!q.hideText) body += `<div class="qtext small-q ${isZh ? "zhq" : ""}">${q.ruby && isZh && S.settings.pinyin ? ruby(q.prompt) : esc(q.prompt)}</div>`;
+    }
+    else if (q.audio) body = `<div class="center"><button class="btn gold" data-say="${esc(q.audio)}" style="font-size:1.2rem">${icon("sound")} Écouter</button></div>`;
     else if (q.big) body = `<div class="big">${esc(q.prompt)}</div>`;
     else {
       if (q.scene) body += `<div class="scenebox">${icon("image")}<span><span class="muted small">Sur l'image :</span><br>${esc(q.scene)}</span></div>`;
@@ -450,10 +456,22 @@
     return src + cons + body + (tools ? `<div class="qtools">${tools}<div class="trbox" hidden></div></div>` : "");
   }
   function wireHead(q, host) {
+    const im = host.querySelector(".bookimg img"); if (im) host.querySelector(".bookimg").onclick = () => zoomImg(q.img);
+    const lb = host.querySelector(".listenbtn"); if (lb) lb.onclick = () => speak(byN[q.les].texts[q.listen - 1].lines.map((x) => x.zh).join("。"));
     const b = host.querySelector(".trbtn"); if (!b) return;
     b.onclick = () => { const box = host.querySelector(".trbox"); if (!box.hidden) { box.hidden = true; return; } box.innerHTML = trHtml((q.passage ? q.passage + " " : "") + q.prompt); box.hidden = false; };
   }
 
+  /* affichage plein écran d'une capture du livre (touche pour zoomer, glisse pour te déplacer) */
+  function zoomImg(src) {
+    const d = document.createElement("div"); d.className = "zoomview";
+    d.innerHTML = `<button class="iconbtn zclose" aria-label="Fermer">${icon("x")}</button><div class="zscroll"><img src="${esc(src)}" alt=""></div><div class="zhint">Touche l'image pour zoomer · ✕ pour fermer</div>`;
+    document.body.appendChild(d);
+    const img = d.querySelector("img");
+    img.onclick = (e) => { const r = img.getBoundingClientRect(); const fx = (e.clientX - r.left) / r.width, fy = (e.clientY - r.top) / r.height; d.classList.toggle("big"); const sc = d.querySelector(".zscroll");
+      if (d.classList.contains("big")) requestAnimationFrame(() => { sc.scrollLeft = fx * img.offsetWidth - sc.clientWidth / 2; sc.scrollTop = fy * img.offsetHeight - sc.clientHeight / 2; }); };
+    d.querySelector(".zclose").onclick = () => d.remove();
+  }
   function renderQ(q, host, done) {
     const fb = (ok, extra) => {
       feedbackSound(ok);
@@ -464,8 +482,9 @@
     };
     if (q.audio) setTimeout(() => speak(q.audio), 250);
     if (q.kind === "mcq") {
-      host.innerHTML = `<div class="card qcard">${qHead(q)}<div class="opts">${q.options.map((o, k) => `<button class="opt ${/[一-鿿]/.test(o) ? "zh" : ""}" data-k="${k}"><span class="optk">${"ABCDEF"[k]}</span><span class="optt">${esc(o)}</span></button>`).join("")}</div></div>`;
+      host.innerHTML = `<div class="card qcard">${qHead(q)}<div class="opts">${q.options.map((o, k) => `<button class="opt ${/[一-鿿]/.test(o) ? "zh" : ""}" data-k="${k}"><span class="optk">${esc((q.lab || "ABCDEF")[k])}</span><span class="optt">${q.letterOnly ? "" : esc(o)}</span></button>`).join("")}</div></div>`;
       wireHead(q, host);
+      if (q.letterOnly) host.querySelector(".opts").classList.add("letters");
       host.querySelector(".opts").onclick = (e) => {
         const b = e.target.closest(".opt"); if (!b || b.disabled) return; const o = q.options[+b.dataset.k]; const ok = o === q.answer;
         host.querySelectorAll(".opt").forEach((x) => { x.disabled = true; if (q.options[+x.dataset.k] === q.answer) x.classList.add("ok"); else if (x !== b) x.classList.add("dim"); });
@@ -485,6 +504,30 @@
       };
       $("#ok", host).onclick = () => go(false); $("#show", host).onclick = () => go(true);
       $("#inp", host).onkeydown = (e) => { if (e.key === "Enter") go(false); };
+    } else if (q.kind === "text") {
+      host.innerHTML = `<div class="card qcard">${qHead(q)}<textarea class="input answerbox" id="inp" rows="2" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Écris ta réponse ici (caractères ou pinyin)…"></textarea>
+        <div class="row mt"><button class="btn primary" id="ok">Valider</button><button class="btn ghost" id="show">Je ne sais pas</button></div></div>`;
+      wireHead(q, host);
+      const alts = q.alts || [q.answer];
+      const go = (giveUp) => {
+        const v = $("#inp", host).value.trim(); const nv = norm(v);
+        const pyOk = (a) => PY && nv && norm(PY.pinyin(a, { toneType: "none" })).replace(/\s/g, "") === nv.replace(/\s/g, "");
+        const exact = !giveUp && nv && alts.some((a) => norm(a) === nv || pyOk(a));
+        $("#inp", host).disabled = true; $("#ok", host).remove(); $("#show", host).remove();
+        const ans = q.speakFull || q.answer;
+        if (exact || giveUp || !nv) { fb(exact, v && !exact ? `<div class="small yours">Ta réponse : <span class="zh">${esc(v)}</span></div>` : ""); speak(ans); done(exact, v); return; }
+        // réponse différente : on montre le modèle et on laisse juger (plusieurs réponses sont souvent possibles)
+        const d = document.createElement("div"); d.className = "feedback neutral";
+        d.innerHTML = `<div class="head">${icon("bulb")} Compare avec la réponse du livre</div><div class="small yours">Ta réponse : <span class="zh">${esc(v)}</span></div>
+          <div class="ans"><div class="row"><div class="zhline" style="flex:1">${ruby(ans)}</div>${sayBtn(ans)}</div>${info(ans) && info(ans).fr ? `<span class="m">${esc(info(ans).fr)}</span>` : ""}</div>
+          ${alts.length > 1 ? `<div class="small muted">Aussi possible : ${alts.slice(1).map((a) => `<span class="zh">${esc(a)}</span>`).join(" · ")}</div>` : ""}
+          <div class="row mt selfgrade"><button class="btn k-again" data-s="0">${icon("x")} Je me suis trompé(e)</button><button class="btn k-good" data-s="1">${icon("check")} J'avais juste</button></div>`;
+        host.firstElementChild.appendChild(d); speak(ans);
+        d.querySelector(".selfgrade").onclick = (e) => {
+          const b = e.target.closest("[data-s]"); if (!b) return; const ok = b.dataset.s === "1"; d.remove(); fb(ok, `<div class="small yours">Ta réponse : <span class="zh">${esc(v)}</span></div>`); done(ok, v);
+        };
+      };
+      $("#ok", host).onclick = () => go(false); $("#show", host).onclick = () => go(true);
     } else if (q.kind === "open") {
       host.innerHTML = `<div class="card qcard">${qHead(q)}<div class="steps"><div><b>1.</b> Dis ta réponse à voix haute (ou écris-la sur une feuille).</div><div><b>2.</b> Compare avec la réponse modèle.</div><div><b>3.</b> Sois honnête : tu avais l'idée principale ?</div></div><button class="btn primary block" id="rev">Voir la réponse modèle</button></div>`;
       wireHead(q, host);
@@ -582,6 +625,19 @@
     const isZh = (/[一-鿿]/.test(prompt) && !latin) || !!passage; const pron = e.src === "Cahier · Prononciation";
     const base = { exId: e.id, key: "e:" + e.id, src: e.src, les: e.les || "", explain: e.e || autoExplain(e, passage), prompt, scene, passage, ruby: !pron, tr: isZh && !pron,
       reread: /Compréhension|Répondre/.test(e.src), help: consigneFor(e) };
+    if (e.img) {
+      // question présentée comme dans le livre : capture de la page + zone de réponse en dessous
+      Object.assign(base, { img: "book/" + e.img + ".webp", num: e.num || "", help: e.help || base.help, listen: e.listen || 0, keep: true, scene: null,
+        lab: e.lab || "ABCDEFGH".split(""), explain: base.explain || (scene ? "Sur l'image : " + scene : "") });
+      if (latin && !passage) { base.hideText = true; base.tr = false; }
+      if (e.type === "mcq" || e.type === "fill") {
+        const blank = /___|（ ）/;
+        return Object.assign(base, { kind: "mcq", options: e.opts.slice(), answer: e.a, noSpeak: !/[一-鿿]/.test(e.a), letterOnly: e.opts.every((o) => !/[一-鿿]/.test(o) && /[a-zA-Zé]{4,}/.test(o)),
+          speakFull: !passage && blank.test(prompt) && /[一-鿿]/.test(e.a) ? prompt.replace(blank, e.a) : null });
+      }
+      const first = String(e.a).split(/\s*\/\/\s*/)[0];
+      return Object.assign(base, { kind: "text", answer: first, alts: String(e.a).split(/\s*\/\/\s*/), speakFull: e.type === "write" ? prompt.replace(/___/g, first) : null });
+    }
     if (e.type === "mcq" || e.type === "fill") {
       const blank = /___|（ ）/;
       return Object.assign(base, { kind: "mcq", options: shuffle(e.opts), answer: e.a, noSpeak: !/[一-鿿]/.test(e.a),

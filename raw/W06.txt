@@ -10,17 +10,20 @@ PRON L'apostrophe de séparation | Quand une syllabe commençant par « a, o, e 
 PEX 十二 | shí'èr
 PEX 西安 | Xī'ān
 PEX 天安门 | Tiān'ān Mén
+IMG wb 36 12 16 92 72 | Lecture, 1re partie : choisis l'image (A à D) qui correspond à chaque phrase.
 WB A Une fille qui lit/B Un papier « 星期二 »/C Un ordinateur portable/D Un supermarché
-WQ 我有一个新电脑。 | C | Image C : un ordinateur portable.
-WQ 今天星期二。 | B | Image B : un papier « 星期二 ».
-WQ 我想去超市买东西。 | D | Image D : un supermarché.
+WQ [11] 我有一个新电脑。 | C | Image C : un ordinateur portable.
+WQ [12] 今天星期二。 | B | Image B : un papier « 星期二 ».
+WQ [13] 我想去超市买东西。 | D | Image D : un supermarché.
+IMG wb 37 10 7 92 55 | Lecture, 2e partie : choisis la réponse (A à D) qui va avec chaque phrase.
 WB A 坐出租车。/B 真好看！/C 包子。/D 好的，谢谢！
-WQ 你喝水吗？ | D | (exemple) – Tu veux de l'eau ? – Oui, merci !
-WQ 你吃什么？ | C | – Que manges-tu ? – Des baozi.
-WQ 我们怎么去？ | A | – Comment on y va ? – En taxi.
-WQ 这是老师的新电脑。 | B | – C'est le nouvel ordi du prof. – Il est vraiment beau !
+WQ [14] 你吃什么？ | C | – Que manges-tu ? – Des baozi.
+WQ [15] 我们怎么去？ | A | – Comment on y va ? – En taxi.
+WQ [16] 这是老师的新电脑。 | B | – C'est le nouvel ordi du prof. – Il est vraiment beau !
+IMG wb 37 10 61 92 88 + wb 38 10 6 92 17 | Lecture, 3e partie : choisis le mot (A, B ou C) qui va dans les parenthèses.
 WB A 有/B 牛奶/C 名字
-WQ 我想买（ ）。 | B | 买牛奶 = acheter du lait.
-WQ 男：我的手机号是+86 13552721160。 女：我（ ）你的手机号，你的电话号呢？ | A | 我有你的手机号 = j'ai ton numéro de portable.
-WR 我家有三口人：爸爸、妈妈和我。 ★ 说话人家里有几口人？ | A 三口人/B 四口人/C 六口人 | A
-WR 明天星期天，我休息，想去超市买牛奶。 ★ 说话人想买什么？ | A 菜/B 牛奶/C 饺子 | B
+WQ [17] 我想买（ ）。 | B | 买牛奶 = acheter du lait.
+WQ [18] 男：我的手机号是+86 13552721160。 女：我（ ）你的手机号，你的电话号呢？ | A | 我有你的手机号 = j'ai ton numéro de portable.
+IMG wb 38 10 23 92 81 | Lecture, 4e partie : lis la phrase, puis choisis la bonne réponse (A, B ou C).
+WR [19] 我家有三口人：爸爸、妈妈和我。 ★ 说话人家里有几口人？ | A 三口人/B 四口人/C 六口人 | A | 爸爸、妈妈和我 = 3.
+WR [20] 明天星期天，我休息，想去超市买牛奶。 ★ 说话人想买什么？ | A 菜/B 牛奶/C 饺子 | B | 想去超市买牛奶.

@@ -16,8 +16,9 @@ PEX 九 | jiǔ
 PEX 朋友 | péngyou
 PEX 牛奶 | niúnǎi
 PEX 休息 | xiūxi
-WB A 老师，再见！ — 再见！/B 对不起。 — 没关系。/C 很高兴认识你。 — 认识你我也很高兴。/D 大家好，我叫白家月。 — 白家月，你好。
-WQ Deux hommes se serrent la main pour la première fois. | C | Première rencontre : 很高兴认识你。
-WQ Des élèves quittent leur professeure. | A | Au revoir : 老师，再见！
-WQ Une étudiante se présente devant la classe. | D | Se présenter : 我叫……
-WQ Un garçon a bousculé une fille et s'excuse. | B | 对不起 — 没关系 (pardon / pas grave).
+IMG wb 8 14 56 92 92 | Regarde les images et choisis le bon dialogue (① à ④) pour chaque image.
+WB ① 老师，再见！ — 再见！/② 对不起。 — 没关系。/③ 很高兴认识你。 — 认识你我也很高兴。/④ 大家好，我叫白家月。 — 白家月，你好。
+WQ [Image 1] Deux hommes se serrent la main pour la première fois. | ③ | Première rencontre : 很高兴认识你。
+WQ [Image 2] Des élèves quittent leur professeure. | ① | Au revoir : 老师，再见！
+WQ [Image 3] Une étudiante se présente. | ④ | Se présenter : 大家好，我叫……
+WQ [Image 4] Quelqu'un s'excuse. | ② | 对不起 — 没关系 (pardon / pas grave).

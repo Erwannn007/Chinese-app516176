@@ -20,16 +20,20 @@ PEX 一半 | yíbàn
 PEX 一下 | yíxià
 PEX 一点儿 | yìdiǎnr
 PEX 一天 | yì tiān
+IMG wb 28 12 15 92 71 | Lecture, 1re partie : choisis l'image (A à D) qui correspond à chaque phrase.
 WB A Une fille qui lit/B Un garçon qui écrit/C Quelqu'un allongé qui se repose/D Deux personnes se font signe
-WQ 王老师，再见。 | D | Image D : deux personnes se font signe (au revoir).
-WQ 今天我休息。 | C | Image C : quelqu'un se repose.
-WQ 我有一个儿子，他今年7岁。 | B | Image B : un petit garçon.
+WQ [11] 王老师，再见。 | D | Image D : deux personnes se font signe (au revoir).
+WQ [12] 今天我休息。 | C | Image C : quelqu'un se repose.
+WQ [13] 我有一个儿子，他今年7岁。 | B | Image B : un jeune garçon.
+IMG wb 28 12 73 92 96 + wb 29 8 6 92 32 | Lecture, 2e partie : choisis la réponse (A à D) qui va avec chaque phrase.
 WB A 好的，谢谢！/B 我不会。/C 面条儿。/D 5月6号。
-WQ 你去超市买什么？ | C | – Que vas-tu acheter ? – Des nouilles.
-WQ 你会做饭吗？ | B | – Tu sais cuisiner ? – Non.
-WQ 今天几号？ | D | – On est le combien ? – Le 6 mai.
+WQ [14] 你去超市买什么？ | C | – Que vas-tu acheter au supermarché ? – Des nouilles.
+WQ [15] 你会做饭吗？ | B | – Tu sais cuisiner ? – Non.
+WQ [16] 今天几号？ | D | – On est le combien ? – Le 6 mai.
+IMG wb 29 8 34 92 74 | Lecture, 3e partie : choisis le mot (A, B ou C) qui va dans les parenthèses.
 WB A 几/B 好看/C 名字
-WQ 今天（ ）号？ | A | 几号 = quel jour du mois.
-WQ 男：你的新电脑真（ ）！ 女：谢谢，我也很喜欢。 | B | 真好看 = vraiment beau.
-WR 我非常喜欢我的中文名字。 ★ 说话人喜欢什么？ | A 新电脑/B 中国菜/C 中文名字 | C
-WR 今天8号，你几号休息？ ★ 说话人想知道什么？ | A 今天几号/B 哪天休息/C 星期几上班 | B
+WQ [17] 今天（ ）号？ | A | 几号 = quel jour du mois.
+WQ [18] 男：你的新电脑真（ ）！ 女：谢谢，我也很喜欢。 | B | 真好看 = vraiment beau.
+IMG wb 30 12 6 92 69 | Lecture, 4e partie : lis la phrase, puis choisis la bonne réponse (A, B ou C).
+WR [19] 我非常喜欢我的中文名字。 ★ 说话人喜欢什么？ | A 新电脑/B 中国菜/C 中文名字 | C | 喜欢我的中文名字.
+WR [20] 今天8号，你几号休息？ ★ 说话人想知道什么？ | A 今天几号/B 哪天休息/C 星期几上班 | B | 你几号休息 = quel jour te reposes-tu ?
