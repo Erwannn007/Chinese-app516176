@@ -382,9 +382,9 @@
         $("#rev", host).remove();
         const d = document.createElement("div"); d.className = "feedback ok";
         const ai = info(q.answer);
-        d.innerHTML = `<div class="head">${icon("bulb")} Réponse modèle</div><div class="ans"><div class="row"><div class="zhline" style="flex:1">${ruby(q.answer)}</div>${sayBtn(q.answer)}</div>${ai && ai.fr ? `<span class="m">${esc(ai.fr)}</span>` : ""}${ai ? wordsHtml(ai.parts) : ""}</div><div class="row mt"><button class="btn k-again" data-s="0">Je me suis trompé(e)</button><button class="btn k-good" data-s="1">J'avais juste</button></div>`;
+        d.innerHTML = `<div class="head">${icon("bulb")} Réponse modèle</div><div class="ans"><div class="row"><div class="zhline" style="flex:1">${ruby(q.answer)}</div>${sayBtn(q.answer)}</div>${ai && ai.fr ? `<span class="m">${esc(ai.fr)}</span>` : ""}${ai ? wordsHtml(ai.parts) : ""}</div><div class="row mt selfgrade"><button class="btn k-again" data-s="0">Je me suis trompé(e)</button><button class="btn k-good" data-s="1">J'avais juste</button></div>`;
         host.firstElementChild.appendChild(d); speak(q.answer);
-        d.querySelector(".row").onclick = (e) => { const b = e.target.closest("[data-s]"); if (!b) return; d.querySelector(".row").remove(); done(b.dataset.s === "1"); };
+        d.querySelector(".selfgrade").onclick = (e) => { const b = e.target.closest("[data-s]"); if (!b) return; d.querySelector(".selfgrade").remove(); done(b.dataset.s === "1"); };
       };
     } else if (q.kind === "order") {
       const toks = shuffle(q.tokens.map((t, k) => ({ t, k })));
