@@ -1,0 +1,72 @@
+erwann@linux:~/P1_Erwann$ uname -r
+6.8.0-147-generic
+erwann@linux:~/P1_Erwann$ ls
+p1_erwann.ko
+erwann@linux:~/P1_Erwann$ modinfo p1_erwann
+filename:       p1_erwann.ko
+author:         Erwann Arnould
+description:    Practice 1 - module noyau multi-fichiers avec parametres
+license:        GPL
+parm:           nums:Liste d'entiers separes par des virgules (max 10)
+parm:           shout:Si 1 / Y : le message est affiche en MAJUSCULES (defaut: N)
+parm:           times:Nombre de repetitions du message, de 1 a 10 (defaut: 1)
+parm:           lang:Langue: 0=anglais 1=francais 2=chinois 3=espagnol (defaut: 0)
+parm:           name:Nom de la personne a saluer (defaut: world)
+version:        1.0
+srcversion:     ACBDA61A0D0462290D0031A
+depends:        
+vermagic:       6.8.0-147-generic SMP preempt mod_unload modversions 
+erwann@linux:~/P1_Erwann$ dmesg -c > /dev/null
+erwann@linux:~/P1_Erwann$ insmod p1_erwann.ko
+erwann@linux:~/P1_Erwann$ dmesg -c
+[    2.410878] p1_erwann: loading out-of-tree module taints kernel.
+[    2.411200] p1_erwann: module verification failed: signature and/or required key missing - tainting kernel
+[    2.418105] p1_erwann: insertion (name=world lang=0 times=1 shout=0 nb_nums=0)
+[    2.418337] p1_erwann: [1/1] Hello, world !
+[    2.418386] p1_erwann: pas de nombres fournis (parametre nums vide)
+erwann@linux:~/P1_Erwann$ rmmod p1_erwann
+erwann@linux:~/P1_Erwann$ dmesg -c
+[    2.436879] p1_erwann: Goodbye, world ! Module retire.
+erwann@linux:~/P1_Erwann$ insmod p1_erwann.ko name=Erwann lang=1 times=3 nums=4,9,-3
+erwann@linux:~/P1_Erwann$ dmesg -c
+[    2.465258] p1_erwann: insertion (name=Erwann lang=1 times=3 shout=0 nb_nums=3)
+[    2.465511] p1_erwann: [1/3] Bonjour, Erwann !
+[    2.465554] p1_erwann: [2/3] Bonjour, Erwann !
+[    2.465563] p1_erwann: [3/3] Bonjour, Erwann !
+[    2.465631] p1_erwann: nums[0] = 4
+[    2.465668] p1_erwann: nums[1] = 9
+[    2.465674] p1_erwann: nums[2] = -3
+[    2.465695] p1_erwann: 3 valeur(s) : somme=10 min=-3 max=9 moyenne=3 pairs=1
+erwann@linux:~/P1_Erwann$ cat /sys/module/p1_erwann/parameters/name
+Erwann
+erwann@linux:~/P1_Erwann$ lsmod
+Module                  Size  Used by    Tainted: G  
+p1_erwann              12288  0 
+erwann@linux:~/P1_Erwann$ rmmod p1_erwann
+erwann@linux:~/P1_Erwann$ dmesg -c
+[    2.504194] p1_erwann: Au revoir, Erwann ! Module retire.
+erwann@linux:~/P1_Erwann$ insmod p1_erwann.ko name=Prof lang=2 times=2 shout=1
+erwann@linux:~/P1_Erwann$ dmesg -c
+[    2.526328] p1_erwann: insertion (name=Prof lang=2 times=2 shout=1 nb_nums=0)
+[    2.526589] p1_erwann: [1/2] NI HAO, PROF !!!
+[    2.526619] p1_erwann: [2/2] NI HAO, PROF !!!
+[    2.526662] p1_erwann: pas de nombres fournis (parametre nums vide)
+erwann@linux:~/P1_Erwann$ rmmod p1_erwann
+erwann@linux:~/P1_Erwann$ dmesg -c > /dev/null
+erwann@linux:~/P1_Erwann$ insmod p1_erwann.ko name=Amigo lang=3 nums=10,20,31
+erwann@linux:~/P1_Erwann$ dmesg -c
+[    2.565408] p1_erwann: insertion (name=Amigo lang=3 times=1 shout=0 nb_nums=3)
+[    2.565668] p1_erwann: [1/1] Hola, Amigo !
+[    2.565758] p1_erwann: nums[0] = 10
+[    2.565794] p1_erwann: nums[1] = 20
+[    2.565800] p1_erwann: nums[2] = 31
+[    2.565820] p1_erwann: 3 valeur(s) : somme=61 min=10 max=31 moyenne=20 pairs=2
+erwann@linux:~/P1_Erwann$ rmmod p1_erwann
+erwann@linux:~/P1_Erwann$ dmesg -c > /dev/null
+erwann@linux:~/P1_Erwann$ insmod p1_erwann.ko times=42
+insmod: can't insert 'p1_erwann.ko': Invalid argument
+erwann@linux:~/P1_Erwann$ dmesg -c
+[    2.601870] p1_erwann: insertion (name=world lang=0 times=42 shout=0 nb_nums=0)
+[    2.602121] p1_erwann: times=42 invalide (doit etre entre 1 et 10)
+[    2.616510] p1_erwann: insertion (name=world lang=0 times=42 shout=0 nb_nums=0)
+[    2.616597] p1_erwann: times=42 invalide (doit etre entre 1 et 10)
