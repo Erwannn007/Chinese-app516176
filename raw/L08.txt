@@ -57,19 +57,32 @@ G Le verbe modal « 能 » | « 能 » devant un verbe exprime la capacité, la 
 EX 下午两点你能到吗？ | Tu peux arriver à 14 h ?
 EX 爸爸能去。 | Papa peut y aller.
 EX 我不能去学校吃午饭。 | Je ne peux pas aller déjeuner à l'école.
-XL 白家月和李文在___见。 | 书店前 | 家里/书店里/书店前 | « 在学校书店前见吧。»
-XL 李文下午___能到。 | 两点 | 两点/两点半/三点后 | « 下午两点你能到吗？— 我能到。»
-XL 大医院里___。 | 病人多 | 人很少/病人多/医生不忙 | « 大医院病人多，医生非常忙。»
-XL 胡医生家有___医生。 | 两个 | 一个/两个/三个 | Lui et son père sont médecins.
-XQ 胡医生的爸爸在哪儿工作？ | 他爸爸在医院工作。
-XQ 胡医生的爸爸工作忙吗？ | 他爸爸工作非常忙。
-XB 哪儿/在/桌子/书店/能
-X 胡医生的爸爸___医院工作。 | 在 | 在 + lieu + verbe.
-X 我下午两点___到学校。 | 能 | 能 = pouvoir.
-X 陈天中：小猫在___呢？ | 哪儿 | 在哪儿 = où.
-X 白家月：小猫在___下。 | 桌子 | 桌子下 = sous la table.
-X 白家月：我们去___，你去吗？ 李文：我现在有事，不能去。 | 书店 | Un lieu : la librairie.
-XP 医生___。 (photo : deux médecins) | 医生非常忙。
-XP 我们在___见吧。 (photo : une librairie) | 我们在书店见吧。
-XP 你___去___吗？ (photo : supermarché) | 你想去超市买菜吗？
-XP 桌子上___。 (photo : un chat sur la table) | 桌子上有一只小猫。
+IMG tb 54 9 49 87 83 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 小猫/B 学校/C 书店/D 医生/E 桌子/F 房间
+XM [Image 1 (en haut à gauche)] Des étagères pleines de livres. | 书店 | 书店 shūdiàn = librairie.
+XM [Image 2 (en haut au milieu)] Une chambre d'enfant. | 房间 | 房间 fángjiān = pièce, chambre.
+XM [Image 3 (en haut à droite)] Un grand bâtiment avec une piste de sport. | 学校 | 学校 xuéxiào = école.
+XM [Image 4 (en bas à gauche)] Un petit chat. | 小猫 | 小猫 xiǎo māo = chaton.
+XM [Image 5 (en bas au milieu)] Deux personnes en blouse blanche. | 医生 | 医生 yīshēng = médecin.
+XM [Image 6 (en bas à droite)] Une table ronde. | 桌子 | 桌子 zhuōzi = table.
+IMG tb 56 12 52 92 71 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 白家月和李文在___见。 | 书店前 | A 家里/B 书店里/C 书店前 | « 我们在书店前见吧。»
+XL [2] 李文下午___能到。 | 两点 | A 两点/B 两点半/C 三点后 | « 下午两点我能到。»
+IMG tb 58 12 44 92 63 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 大医院里___。 | 病人多 | A 人很少/B 病人多/C 医生不忙 | « 大医院病人多。»
+XL [2] 胡医生家有___医生。 | 两个 | A 一个/B 两个/C 三个 | Lui et son père : 两个医生.
+IMG tb 59 13 64 92 78 | Réponds aux questions d'après le texte 3.
+XQ [1] 胡医生的爸爸在哪儿工作？ | 他爸爸在医院工作。 // 胡医生的爸爸在医院工作。 // 在医院工作。
+XQ [2] 胡医生的爸爸工作忙吗？ | 他爸爸工作非常忙。 // 他工作非常忙。 // 非常忙。 // 很忙。
+IMG tb 59 13 82 92 97 + tb 60 13 5 92 22 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 哪儿/B 在/C 桌子/D 书店/E 能
+X [1] 胡医生的爸爸___医院工作。 | 在 | 在 + lieu + verbe.
+X [2] 我下午两点___到学校。 | 能 | 能 = pouvoir.
+X [3] 陈天中：小猫在___呢？ | 哪儿 | 在哪儿 = où.
+X [3 · 2e trou] 白家月：小猫在___下。 | 桌子 | 桌子下 = sous la table.
+X [4] 白家月：我们去___，你去吗？ 李文：我现在有事，不能去。 | 书店 | 去书店 = aller à la librairie.
+IMG tb 60 13 23 92 61 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 医生___。 | 医生非常忙。 // 医生工作很忙。 // 医生很忙。
+XP [Image 2] 我们在___见吧。 | 我们在书店见吧。 // 我们在书店前见吧。
+XP [Image 3] 你___去___吗？ | 你想去超市买菜吗？ // 你能去超市买菜吗？
+XP [Image 4] 桌子上___。 | 桌子上有一只小猫。 // 桌子上有小猫。

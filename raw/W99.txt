@@ -1,24 +1,28 @@
 @ 99
+IMG wb 127 12 17 92 95 | HSK 1 blanc · Lecture, 1re partie : choisis l'image (A à F) qui correspond à chaque phrase.
 WB A Un verre de lait et des œufs/B Un médecin/C Une famille de quatre/D Une femme achète des légumes/E Une fille qui lit/F Deux amies chantent
-WQ 王先生是医生。 | B | Image B : un médecin.
-WQ 姐姐上午去超市买了菜。 | D | Image D : une femme achète des légumes.
-WQ 今天的早饭是牛奶和鸡蛋。 | A | Image A : un verre de lait et des œufs.
-WQ 我家有四口人，爸爸、妈妈、弟弟和我。 | C | Image C : une famille de quatre.
-WQ 她和好朋友都爱唱歌。 | F | Image F : deux amies chantent.
+WQ [21] 王先生是医生。 | B | Image B : un médecin.
+WQ [22] 姐姐上午去超市买了菜。 | D | Image D : une femme achète des légumes.
+WQ [23] 今天的早饭是牛奶和鸡蛋。 | A | Image A : un verre de lait et des œufs.
+WQ [24] 我家有四口人，爸爸、妈妈、弟弟和我。 | C | Image C : une famille de quatre.
+WQ [25] 她和好朋友都爱唱歌。 | F | Image F : deux amies chantent.
+IMG wb 128 10 8 92 64 | HSK 1 blanc · Lecture, 2e partie : choisis la réponse (A à F) qui va avec chaque phrase.
 WB A 商店。/B 我学生。/C 在桌子上。/D 还没有。/E 下雪了。/F 好的，谢谢！
-WQ 这是我的书，你的呢？ | C | – C'est mon livre, et le tien ? – Sur la table.
-WQ 你去哪儿买苹果？ | A | – Où achètes-tu les pommes ? – Au magasin.
-WQ 昨天天气怎么样？ | E | – Quel temps faisait-il hier ? – Il a neigé.
-WQ 你和谁打电话呢？ | B | – Avec qui es-tu au téléphone ? – Avec mon élève.
-WQ 你下班了吗？ | D | – Tu as fini le travail ? – Pas encore.
+WQ [26] 这是我的书，你的呢？ | C | – C'est mon livre, et le tien ? – Sur la table.
+WQ [27] 你去哪儿买苹果？ | A | – Où achètes-tu les pommes ? – Au magasin.
+WQ [28] 昨天天气怎么样？ | E | – Quel temps faisait-il hier ? – Il a neigé.
+WQ [29] 你和谁打电话呢？ | B | – Avec qui es-tu au téléphone ? – Avec mon élève.
+WQ [30] 你下班了吗？ | D | – Tu as fini le travail ? – Pas encore.
+IMG wb 129 12 8 92 74 | HSK 1 blanc · Lecture, 3e partie : choisis le mot (A à F) qui va dans les parenthèses.
 WB A 认识/B 住/C 晚饭/D 叫/E 汉字/F 块
-WQ 大家都没吃（ ）呢。 | C | 吃晚饭 = dîner.
-WQ 在今天的中文课上，我学了很多（ ）。 | E | 学汉字 = apprendre des caractères.
-WQ 对不起，我不（ ）这个人。 | A | 认识 = connaître (une personne).
-WQ 我和家人（ ）在北京。 | B | 住在 = habiter à.
-WQ 男：这些东西可以卖多少钱？ 女：80（ ）。 | F | 80块 = 80 yuans.
-WR 下雨了，我们坐出租车回家吧。 ★ 说话人想怎么回家？ | A 开车/B 坐飞机/C 坐出租车 | C
-WR 我儿子今年16岁了，正在上中学。 ★ 说话人的儿子是： | A 小学生/B 中学生/C 大学生 | B
-WR 小猫和小狗都在房间外睡觉呢。 ★ 小狗在： | A 桌子下/B 房间里/C 房间外 | C
-WR 我同学在这个学校工作很多年了，你有问题可以问他。 ★ 说话人的同学在哪儿上班？ | A 饭店/B 医院/C 学校 | C
-WR 这个小朋友写字真好看。 ★ 那个小朋友： | A 名字好听/B 写字好看/C 正在读书 | B
+WQ [31] 大家都没吃（ ）呢。 | C | 吃晚饭 = dîner.
+WQ [32] 在今天的中文课上，我学了很多（ ）。 | E | 学汉字 = apprendre des caractères.
+WQ [33] 对不起，我不（ ）这个人。 | A | 认识 = connaître (une personne).
+WQ [34] 我和家人（ ）在北京。 | B | 住在 = habiter à.
+WQ [35] 男：这些东西可以卖多少钱？ 女：80（ ）。 | F | 80块 = 80 yuans.
+IMG wb 130 10 8 92 92 | HSK 1 blanc · Lecture, 4e partie : lis la phrase, puis choisis la bonne réponse (A, B ou C).
+WR [36] 下雨了，我们坐出租车回家吧。 ★ 说话人想怎么回家？ | A 开车/B 坐飞机/C 坐出租车 | C
+WR [37] 我儿子今年16岁了，正在上中学。 ★ 说话人的儿子是： | A 小学生/B 中学生/C 大学生 | B
+WR [38] 小猫和小狗都在房间外睡觉呢。 ★ 小狗在： | A 桌子下/B 房间里/C 房间外 | C
+WR [39] 我同学在这个学校工作很多年了，你有问题可以问他。 ★ 说话人的同学在哪儿上班？ | A 饭店/B 医院/C 学校 | C
+WR [40] 这个小朋友写字真好看。 ★ 那个小朋友： | A 名字好听/B 写字好看/C 正在读书 | B

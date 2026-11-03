@@ -617,6 +617,12 @@
     const pool = [...new Set(ALLWORDS.filter((w) => w.les <= Math.max(les || 1, 2)).map((w) => w.zh).join("").replace(/[^一-鿿]/g, ""))].filter((c) => !answer.includes(c));
     return pick(pool, 3);
   }
+  // remplit les trous ___ : une réponse « 了，没 » se répartit dans l'ordre quand il y a plusieurs trous
+  function fillBlanks(prompt, ans) {
+    const n = (prompt.match(/___/g) || []).length; const parts = String(ans).split(/[，,]\s*/);
+    if (n > 1 && parts.length === n) { let k = 0; return prompt.replace(/___/g, () => parts[k++]); }
+    return prompt.replace(/___/g, ans);
+  }
   function exToQ(e) {
     let prompt = e.q, scene = null, passage = null;
     if (/image/i.test(e.src)) { const m = prompt.match(/^(.*?)\s*\(([^()]*[a-zA-Zàâçéèêëîïôûù][^()]*)\)\s*$/); if (m) { prompt = m[1]; scene = m[2].replace(/^(photo|image|horloge|calendrier)\s*:\s*/i, (x, k) => k[0].toUpperCase() + k.slice(1) + " : "); } }
@@ -632,11 +638,12 @@
       if (latin && !passage) { base.hideText = true; base.tr = false; }
       if (e.type === "mcq" || e.type === "fill") {
         const blank = /___|（ ）/;
-        return Object.assign(base, { kind: "mcq", options: e.opts.slice(), answer: e.a, noSpeak: !/[一-鿿]/.test(e.a), letterOnly: e.opts.every((o) => !/[一-鿿]/.test(o) && /[a-zA-Zé]{4,}/.test(o)),
+        return Object.assign(base, { kind: "mcq", options: e.opts.slice(), answer: e.a, noSpeak: !/[一-鿿]/.test(e.a), letterOnly: e.src === "Cahier · Exercice type HSK" && e.opts.every((o) => !/[一-鿿]/.test(o)),
           speakFull: !passage && blank.test(prompt) && /[一-鿿]/.test(e.a) ? prompt.replace(blank, e.a) : null });
       }
       const first = String(e.a).split(/\s*\/\/\s*/)[0];
-      return Object.assign(base, { kind: "text", answer: first, alts: String(e.a).split(/\s*\/\/\s*/), speakFull: e.type === "write" ? prompt.replace(/___/g, first) : null });
+      if ((prompt.match(/___/g) || []).length > 1 && /[，,]/.test(first)) base.help += " (Plusieurs trous : écris les réponses dans l'ordre, séparées par une virgule.)";
+      return Object.assign(base, { kind: "text", answer: first, alts: String(e.a).split(/\s*\/\/\s*/), speakFull: e.type === "write" ? fillBlanks(prompt, first) : null });
     }
     if (e.type === "mcq" || e.type === "fill") {
       const blank = /___|（ ）/;
@@ -935,7 +942,7 @@
   ["gesturestart", "gesturechange", "gestureend"].forEach((ev) => document.addEventListener(ev, (e) => e.preventDefault(), { passive: false }));
   document.addEventListener("touchmove", (e) => { if (e.scale && e.scale !== 1) e.preventDefault(); }, { passive: false });
 
-  window.addEventListener("hashchange", route);
+  window.addEventListener("hashchange", () => { document.querySelectorAll(".zoomview").forEach((x) => x.remove()); route(); });
   route();
   if (!store.get("welcomed", false)) { store.set("welcomed", true); setTimeout(openSheet, 400); }
 

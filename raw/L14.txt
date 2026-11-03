@@ -65,25 +65,44 @@ G L'adverbe « 都 » | « 都 » = tous / tout. Les personnes ou choses concern
 EX 我们都会写了。 | Nous savons tous écrire.
 EX 我和我的朋友们都去。 | Mes amis et moi y allons tous.
 EX 同学们都没听见。 | Aucun élève n'a entendu.
-XC A：你去哪儿___？ B：我今天有课，去学校上了课，还在那儿吃了午饭。 | 了 | 了 = action réalisée.
-XC A：我昨天看了电影，___去超市。你呢？ | 没 | Négation d'une action passée : 没 (sans 了).
-XL 陈天中___王老师。 | 没看见 | 正在看/没看见/看见了 | « 你们看见王老师了吗？— 没看见。»
-XL 陈天中在火车上___。 | 看了一个电影 | 读书/找王老师/看了一个电影 | « 我看了一个电影。»
-XL 同学们___汉语了。 | 都会说 | 想说/不会说/都会说 | « 你们会说汉语了…… — 我们都会写了。»
-XL 陈天中___王老师在说什么。 | 没听见 | 听见了/没听见/不想听 | « 老师，我听不见。»
-XL 明年刘明和王一雪的女儿___。 | 上中学 | 上小学/上中学/上大学 | « 明年女儿上中学。»
-XL ___孩子们都忙了。 | 上学后 | 上学/上学前/上学后 | « 上学后，他们都忙了。»
-XQ 车开后，大家在做什么？ | 有些人在看书，有些人睡觉了。
-XQ 陈天中为什么没看见王老师？ | 因为他在火车上看了一个电影。
-XQ 白家月会写汉字了吗？ | 她会写汉字了。
-XQ 明年女儿和儿子都上小学吗？ | 不，女儿上中学，儿子上小学。
-XB 上学/了/都/听见/有的
-X 我写___很多汉字。 | 了 | Verbe + 了.
-X 他没___老师说什么。 | 听见 | 听见 = entendre.
-X 陈天中：我看了一本书，___人在睡觉。 | 有的 | 有的人 = certains.
-X 刘明：明年___后，他们都忙了。 | 上学 | 上学 = entrer à l'école.
-X 刘明：明年上学后，他们___忙了。 | 都 | 都 = tous les deux.
-XP 姐姐和弟弟___。 (photo : deux enfants vont à l'école) | 姐姐和弟弟都上学了。
-XP 我们昨天___，没去看电影。 (photo : des étudiants en classe) | 我们昨天上了课，没去看电影。
-XP 鸡蛋、面包我___。 (photo : œuf sur du pain) | 鸡蛋、面包我都吃了。
-XP 老师说：“___！” (photo : classe bruyante) | 老师说：“请大家不要说话！”
+IMG tb 103 13 52 92 85 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 火车/B 看见/C 汉字/D 听/E 小学生/F 说话
+XM [Image 1 (en haut à gauche)] Une enfant regarde avec des jumelles. | 看见 | 看见 kànjiàn = voir.
+XM [Image 2 (en haut au milieu)] Le caractère 春 écrit au pinceau. | 汉字 | 汉字 Hànzì = caractère chinois.
+XM [Image 3 (en haut à droite)] Une femme écoute avec des écouteurs. | 听 | 听 tīng = écouter.
+XM [Image 4 (en bas à gauche)] Deux hommes discutent. | 说话 | 说话 shuōhuà = parler.
+XM [Image 5 (en bas au milieu)] Une écolière lève la main. | 小学生 | 小学生 xiǎoxuéshēng = écolier (primaire).
+XM [Image 6 (en bas à droite)] Un train. | 火车 | 火车 huǒchē = train.
+IMG tb 104 13 19 92 38 | Écoute le texte 1 (deux fois), puis choisis la bonne réponse. | t1
+XL [1] 陈天中___王老师。 | 没看见 | A 正在看/B 没看见/C 看见了 | « 你们看见王老师了吗？— 没看见。»
+XL [2] 陈天中在火车上___。 | 看了一个电影 | A 读书/B 找王老师/C 看了一个电影 | « 我看了一个电影。»
+IMG tb 104 13 82 92 94 | Réponds aux questions d'après le texte 1.
+XQ [1] 车开后，大家在做什么？ | 有些人在看书，有些人睡觉了。
+XQ [2] 陈天中为什么没看见王老师？ | 因为他在火车上看了一个电影。 // 他在火车上看了一个电影。
+IMG tb 105 13 69 92 85 | Complète les dialogues : écris ce qui manque dans les parenthèses.
+XC [1] A：你去哪儿___？ B：我今天有课，去学校上___课，还在那儿吃___午饭。 | 了，了，了 | 了 après le verbe = action réalisée.
+XC [2] A：我昨天看___电影，___去超市。你呢？ B：我昨天去___超市，___看电影。 | 了，没，了，没 | Action réalisée : verbe + 了 ; non réalisée : 没 + verbe (sans 了).
+IMG tb 106 13 54 92 73 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 同学们___汉语了。 | 都会说 | A 想说/B 不会说/C 都会说 | « 你们会说汉语了…… — 我们都会写了。»
+XL [2] 陈天中___王老师在说什么。 | 没听见 | A 听见了/B 没听见/C 不想听 | « 老师，我听不见。»
+IMG tb 107 13 77 92 87 | Réponds aux questions d'après le texte 2.
+XQ [1] 白家月会写汉字了吗？ | 她会写汉字了。 // 白家月会写汉字了。 // 会写了。
+XQ [2] 陈天中会写汉字了吗？ | 他会写汉字了。 // 陈天中会写这些字了。 // 会写了。
+IMG tb 108 13 47 92 68 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 明年刘明和王一雪的女儿___。 | 上中学 | A 上小学/B 上中学/C 上大学 | « 明年女儿上中学。»
+XL [2] ___孩子们都忙了。 | 上学后 | A 上学/B 上学前/C 上学后 | « 上学后，他们都忙了。»
+IMG tb 110 13 7 92 21 | Réponds aux questions d'après le texte 3.
+XQ [1] 明年女儿和儿子都上小学吗？ | 不，女儿上中学，儿子上小学。 // 不都上小学，女儿上中学，儿子上小学。
+XQ [2] 上学后，他们忙不忙？ | 上学后，他们都忙了。 // 他们都忙了。 // 很忙。
+IMG tb 110 13 30 92 57 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 上学/B 了/C 都/D 听见/E 有的
+X [1] 我写___很多汉字。 | 了 | Verbe + 了.
+X [2] 他没___老师说什么。 | 听见 | 听见 = entendre.
+X [3] 白家月：你们昨天在车上做什么了？ 陈天中：我看了一本书，___人在睡觉。 | 有的 | 有的人 = certains.
+X [4] 刘明：明年___后，他们都忙了。 | 上学 | 上学 = entrer à l'école.
+X [4 · 2e trou] 刘明：明年上学后，他们___忙了。 王一雪：是的。 | 都 | 都 = tous les deux.
+IMG tb 110 13 57 92 82 + tb 111 13 6 92 28 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 姐姐和弟弟___。 | 姐姐和弟弟都上学了。 // 姐姐和弟弟都去上学了。
+XP [Image 2] 我们昨天___，没去看电影。 | 我们昨天上了课，没去看电影。 // 我们昨天上课了，没去看电影。
+XP [Image 3] 鸡蛋、面包我___。 | 鸡蛋、面包我都吃了。
+XP [Image 4] 老师说：“___！” | 老师说：“请大家不要说话！”

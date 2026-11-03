@@ -59,19 +59,32 @@ G Le pronom interrogatif « 怎么样 » | « 怎么样 » sert à demander un a
 EX A：这个杯子怎么样？ B：我很喜欢，也不贵。 | – Comment trouves-tu cette tasse ? – Je l'aime beaucoup, et elle n'est pas chère.
 EX A：这本书怎么样？ B：很好看。 | – Comment est ce livre ? – Très bien.
 EX A：这个菜怎么样？ B：这个菜不太好吃，我不喜欢。 | – Comment est ce plat ? – Pas très bon, je ne l'aime pas.
-XL 这儿的水果___。 | 真不少 | 很少/真不少/真不多 | « 这儿的水果真不少！»
-XL 苹果___一斤。 | 三块五 | 三块/三块五/七块二 | « 苹果三块五一斤。»
-XL 这件衣服___。 | 一百元 | 二十元/一百元/一百一十元 | « 这件一百元。»
-XL 这件衣服___。 | 不贵 | 太贵/很贵/不贵 | « 好看，也不贵。»
-XQ 那件衣服王一雪想买几件？ | 她想买一件。
-XQ 男孩子的衣服在哪儿？ | 男孩子的衣服在那儿。
-XB 杯子/怎么样/多少/这些/块
-X 请问，这本书___钱？ | 多少 | 多少钱 = combien ça coûte.
-X 这个___不便宜，六十五块钱一个。 | 杯子 | 一个杯子 = une tasse.
-X 这个杯子不便宜，六十五___钱一个。 | 块 | 块 = yuan (oral).
-X 售货员：___苹果很好吃，你买一些吧。 | 这些 | 这些 = ces…-ci.
-X 安妮：这件衣服___？ 白家月：很好看。 | 怎么样 | Demander un avis.
-XP 这儿的苹果___。 (photo : des pommes) | 这儿的苹果真便宜。
-XP 这个电影___？ (photo : un film) | 这个电影怎么样？
-XP 那些杯子___，非常___。 (photo : des tasses) | 那些杯子很好看，非常便宜。
-XP 这件衣服___，一件___块。 (photo : une chemise) | 这件衣服不贵，一件五十块。
+IMG tb 70 9 51 87 86 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 衣服/B 便宜/C 苹果/D 穿/E 杯子/F 商店
+XM [Image 1 (en haut à gauche)] Des pommes. | 苹果 | 苹果 píngguǒ = pomme.
+XM [Image 2 (en haut au milieu)] Des vêtements posés en tas. | 衣服 | 衣服 yīfu = vêtements.
+XM [Image 3 (en haut à droite)] Une tasse blanche. | 杯子 | 杯子 bēizi = tasse, verre.
+XM [Image 4 (en bas à gauche)] Un homme aide un autre à mettre sa veste. | 穿 | 穿 chuān = mettre, porter (un vêtement).
+XM [Image 5 (en bas au milieu)] L'intérieur d'un magasin. | 商店 | 商店 shāngdiàn = magasin.
+XM [Image 6 (en bas à droite)] Une étiquette « 50 » de soldes. | 便宜 | 便宜 piányi = bon marché.
+IMG tb 72 12 68 92 89 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 这儿的水果___。 | 真不少 | A 很少/B 真不少/C 真不多 | « 这儿的水果真不少！»
+XL [2] 苹果___一斤。 | 三块五 | A 三块/B 三块五/C 七块二 | « 苹果三块五一斤。»
+IMG tb 74 12 50 92 68 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 这件衣服___。 | 一百元 | A 二十元/B 一百元/C 一百一十元 | « 这件一百元。»
+XL [2] 这件衣服___。 | 不贵 | A 太贵/B 很贵/C 不贵 | « 好看，也不贵。»
+IMG tb 75 13 76 92 91 | Réponds aux questions d'après le texte 3.
+XQ [1] 那件衣服王一雪想买几件？ | 她想买一件。 // 王一雪想买一件。 // 一件。
+XQ [2] 男孩子的衣服在哪儿？ | 男孩子的衣服在那儿。 // 在那儿。
+IMG tb 76 9 55 92 83 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 杯子/B 怎么样/C 多少/D 这些/E 块
+X [1] 请问，这本书___钱？ | 多少 | 多少钱 = combien ça coûte.
+X [2] 这个___不便宜，六十五块钱一个。 | 杯子 | 一个杯子 = une tasse.
+X [2 · 2e trou] 这个杯子不便宜，六十五___钱一个。 | 块 | 块 = yuan (oral).
+X [3] 售货员：___苹果很好吃，你买一些吧。 王一雪：好的，我买五个。 | 这些 | 这些 = ces…-ci.
+X [4] 安妮：这件衣服___？ 白家月：很好看。 | 怎么样 | Demander un avis : ……怎么样？
+IMG tb 77 13 7 92 42 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 这儿的苹果___。 | 这儿的苹果真便宜。 // 这儿的苹果真多。 // 这儿的苹果真不少。 // 这儿的苹果很好吃。
+XP [Image 2] 这个电影___？ | 这个电影怎么样？
+XP [Image 3] 那些杯子___，非常___。 | 那些杯子很好看，非常便宜。 // 那些杯子真好看，非常便宜。
+XP [Image 4] 这件衣服___，一件___块。 | 这件衣服不贵，一件五十块。 // 这件衣服很便宜，一件五十块。

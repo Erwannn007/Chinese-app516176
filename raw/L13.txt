@@ -53,25 +53,41 @@ G Les phrases à double objet (1) | Un verbe peut avoir deux objets : Verbe + pe
 EX 请给我一杯牛奶。 | Donnez-moi un verre de lait, s'il vous plaît.
 EX 白家月给安妮一个苹果。 | Bai Jiayue donne une pomme à Annie.
 EX 我问老师两个问题。 | Je pose deux questions au professeur.
-XL 白家月想再问王老师___。 | 一个问题 | 一个问题/两个问题/这个问题 | « 我可以再问您一个问题吗？»
-XL 王老师___那里卖不卖手机。 | 不知道 | 知道/不知道/也想知道 | « 我不知道。»
-XL 王一雪要喝___。 | 牛奶 | 水/茶/牛奶 | « 请给我一杯牛奶。»
-XL 王一雪还想吃___。 | 面包和鸡蛋 | 包子/面条儿/面包和鸡蛋 | « 再要这个面包和鸡蛋吧。»
-XL 刘明想吃___。 | 饺子 | 米饭/饺子/米饭和饺子 | « 我要一斤饺子。»
-XL 刘明想喝___。 | 茶 | 水/茶/牛奶 | « 请给我一杯茶吧。»
-XQ 白家月还有什么问题？ | 她想知道那个小店卖不卖手机。
-XQ 王老师对白家月说什么了？ | 她说：“我不知道。你可以打电话问一下。”
-XQ 服务员问王一雪什么问题了？ | 服务员问她喝什么，还要什么。
-XQ 王一雪吃早饭了吗？ | 她还没吃早饭。
-XQ 刘明想要多少饺子？ | 他想要半斤饺子，20个。
-XQ 刘明要米饭了吗？ | 他没要米饭。
-XB 一下/可以/给/问题/要
-X 请___我一杯热水。 | 给 | 给 + personne + chose.
-X 我们___一斤饺子。 | 要 | 要 = commander, vouloir.
-X A：我___坐这儿吗？ | 可以 | Demander la permission.
-X A：我可以坐这儿吗？ B：没___，请坐。 | 问题 | 没问题 = pas de problème.
-X A：这个商店卖不卖手机？ B：你可以去问___。 | 一下 | Verbe + 一下.
-XP 我___？ (photo : une femme lève la main) | 我可以问一个问题吗？
-XP 你好！我___坐这儿吗？ (photo : cantine) | 你好！我可以坐这儿吗？
-XP 我___热水，请___我___。 (photo : eau chaude) | 我要喝热水，请给我一杯热水。
-XP 服务员：请问，___？ 刘明：我要___。 (photo : jiaozi) | 服务员：请问，您要什么？ 刘明：我要半斤饺子。
+IMG tb 95 13 51 92 84 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 面包/B 说/C 给/D 茶/E 一半/F 请
+XM [Image 1 (en haut à gauche)] Une main tend un livre à une autre. | 给 | 给 gěi = donner.
+XM [Image 2 (en haut au milieu)] Un pain. | 面包 | 面包 miànbāo = pain.
+XM [Image 3 (en haut à droite)] Un serveur fait un geste d'accueil. | 请 | 请 qǐng = s'il vous plaît, inviter.
+XM [Image 4 (en bas à gauche)] Deux personnes discutent. | 说 | 说 shuō = parler, dire.
+XM [Image 5 (en bas au milieu)] Un verre de thé. | 茶 | 茶 chá = thé.
+XM [Image 6 (en bas à droite)] Une moitié de pomme. | 一半 | 一半 yíbàn = la moitié.
+IMG tb 96 13 19 92 40 | Écoute le texte 1 (deux fois), puis choisis la bonne réponse. | t1
+XL [1] 白家月想再问王老师___。 | 一个问题 | A 一个问题/B 两个问题/C 这个问题 | « 我可以再问您一个问题吗？»
+XL [2] 王老师___那里卖不卖手机。 | 不知道 | A 知道/B 不知道/C 也想知道 | « 我不知道。»
+IMG tb 96 13 81 92 94 | Réponds aux questions d'après le texte 1.
+XQ [1] 白家月还有什么问题？ | 她想知道那个小店卖不卖手机。 // 那个小店卖不卖手机？
+XQ [2] 王老师对白家月说什么了？ | 她说：“我不知道。你可以打电话问一下。” // 她说她不知道，白家月可以打电话问一下。
+IMG tb 98 13 17 92 36 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 王一雪要喝___。 | 牛奶 | A 水/B 茶/C 牛奶 | « 请给我一杯牛奶。»
+XL [2] 王一雪还想吃___。 | 面包和鸡蛋 | A 包子/B 面条儿/C 面包和鸡蛋 | « 再要这个面包和鸡蛋吧。»
+IMG tb 98 13 83 92 96 | Réponds aux questions d'après le texte 2.
+XQ [1] 服务员问王一雪什么问题了？ | 服务员问她喝什么，还要什么。 // 她问王一雪喝什么。
+XQ [2] 王一雪吃早饭了吗？ | 她还没吃早饭。 // 王一雪还没吃早饭。 // 还没吃。
+IMG tb 99 13 81 92 94 + tb 100 13 6 92 15 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 刘明想吃___。 | 饺子 | A 米饭/B 饺子/C 米饭和饺子 | « 我要一斤饺子。»
+XL [2] 刘明想喝___。 | 茶 | A 水/B 茶/C 牛奶 | « 请给我一杯茶吧。»
+IMG tb 100 13 73 92 86 | Réponds aux questions d'après le texte 3.
+XQ [1] 刘明想要多少饺子？ | 他想要半斤饺子，20个。 // 他要半斤饺子。 // 半斤，20个。
+XQ [2] 刘明要米饭了吗？ | 他没要米饭。 // 刘明没要米饭。 // 没要。
+IMG tb 101 13 14 92 40 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 一下/B 可以/C 给/D 问题/E 要
+X [1] 请___我一杯热水。 | 给 | 给 + personne + chose.
+X [2] 我们___一斤饺子。 | 要 | 要 = commander, vouloir.
+X [3] A：我___坐这儿吗？ | 可以 | Demander la permission : 我可以……吗？
+X [3 · 2e trou] A：我可以坐这儿吗？ B：没___，请坐。 | 问题 | 没问题 = pas de problème.
+X [4] A：这个商店卖不卖手机？ B：你可以去问___。 | 一下 | Verbe + 一下 = faire rapidement.
+IMG tb 101 13 40 92 87 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 我___？ | 我可以问一个问题吗？ // 我可以问您一个问题吗？
+XP [Image 2] 你好！我___坐这儿吗？ | 你好！我可以坐这儿吗？
+XP [Image 3] 我___热水，请___我___。 | 我要喝热水，请给我一杯热水。 // 我要热水，请给我一杯。
+XP [Image 4] 服务员：请问，___？ 刘明：我要___。 | 服务员：请问，您要什么？ 刘明：我要半斤饺子。 // 服务员：请问，您要什么？ 刘明：我要一斤饺子。

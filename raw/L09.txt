@@ -60,23 +60,38 @@ G « 第 » pour les ordinaux | « 第 » devant un nombre donne un ordinal. Str
 EX 第一，第二，第三 | premier, deuxième, troisième
 EX 第一个，第二个，第一本 | le premier, le deuxième, le premier (livre)
 EX 第一个学生，第一本书 | le premier élève, le premier livre
-XC A：你们今天下午两点___上课？ B：在学校。 | 在哪儿 | Ordre : temps + 在 + lieu + verbe.
-XC A：你们___在超市买什么呢？ B：买菜呢。 | 现在 | Expression de temps avant le lieu.
-XL 椅子上有___。 | 一本书 | 一本书/一只猫/一个手机 | « 椅子上有一本中文书。»
-XL 这是陈天中的___中文书。 | 第二本 | 第一本/第二本/第三本 | « 这是我的第二本中文书。»
-XL 杨同乐唱歌___。 | 很好听 | 不太好/不好听/很好听 | « 你唱歌很好听。»
-XL 王一雪家有一只___。 | 小狗 | 小猫/小狗/大狗 | « 和孩子们、小狗玩。»
-XQ 椅子上的书是谁的？ | 是陈天中的书。
-XQ 陈天中明天上午在哪儿学习？ | 他明天上午在学校学习。
-XQ 杨同乐星期六做什么？ | 他白天在家里读书，晚上和朋友们去外边唱歌。
-XQ 王一雪星期六做什么？ | 她在家里做饭、看电视，和孩子们、小狗玩。
-XB 是/好听/在学校/今天上午/椅子
-X ___上有一只小猫。 | 椅子 | 椅子上 = sur la chaise.
-X 房间外___一只小狗。 | 是 | Phrase d'existence avec 是.
-X 她___在家里学习。 | 今天上午 | Temps avant le lieu.
-X 王一雪：你唱歌很___。 | 好听 | 好听 = beau à entendre.
-X 安妮：我下午还___上课。 | 在学校 | 在 + lieu + verbe.
-XP 桌子上___。 (photo : un livre sur la table) | 桌子上有一本书。
-XP 孩子们___在家里___。 (photo : des enfants devant la télé) | 孩子们晚上在家里看电视。
-XP ___一只小狗是我的，___二只小狗是她的。 (photo : deux chiots) | 第一只小狗是我的，第二只小狗是她的。
-XP 学校外边是一家小店，___。 (photo : un homme dans un magasin) | 学校外边是一家小店，我在那儿买东西。
+IMG tb 61 13 54 92 87 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 小狗/B 电视/C 学习/D 玩/E 椅子/F 书
+XM [Image 1 (en haut à gauche)] Des enfants jouent par terre. | 玩 | 玩 wán = jouer, s'amuser.
+XM [Image 2 (en haut au milieu)] Un jeune homme travaille sur son ordinateur. | 学习 | 学习 xuéxí = étudier.
+XM [Image 3 (en haut à droite)] Un chien qui court. | 小狗 | 小狗 xiǎo gǒu = petit chien.
+XM [Image 4 (en bas à gauche)] Une télévision. | 电视 | 电视 diànshì = télévision.
+XM [Image 5 (en bas au milieu)] Une pile de livres. | 书 | 书 shū = livre.
+XM [Image 6 (en bas à droite)] Une chaise. | 椅子 | 椅子 yǐzi = chaise.
+IMG tb 63 13 59 92 69 | Complète les dialogues : écris ce qui manque dans les parenthèses.
+XC [1] A：你们今天下午两点___上课？ B：在学校。 | 在哪儿 | Ordre : temps + 在 + lieu + verbe.
+XC [2] A：你们___在超市买什么呢？ B：买菜呢。 | 现在 | Expression de temps avant le lieu : 现在在超市.
+IMG tb 63 13 83 92 95 + tb 64 13 6 92 15 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 椅子上有___。 | 一本书 | A 一本书/B 一只猫/C 一个手机 | « 椅子上有一本中文书。»
+XL [2] 这是陈天中的___中文书。 | 第二本 | A 第一本/B 第二本/C 第三本 | « 这是我的第二本中文书。»
+IMG tb 64 13 80 92 96 | Réponds aux questions d'après le texte 2.
+XQ [1] 椅子上的书是谁的？ | 是陈天中的书。 // 椅子上的书是陈天中的。 // 是陈天中的。
+XQ [2] 陈天中明天上午在哪儿学习？ | 他明天上午在学校学习。 // 陈天中明天上午在学校学习。 // 在学校学习。
+IMG tb 65 13 68 92 86 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 杨同乐唱歌___。 | 很好听 | A 不太好/B 不好听/C 很好听 | « 你唱歌很好听。»
+XL [2] 王一雪家有一只___。 | 小狗 | A 小猫/B 小狗/C 大狗 | « 和孩子们、小狗玩。»
+IMG tb 66 13 72 56 89 | Réponds aux questions d'après le texte 3.
+XQ [1] 杨同乐星期六做什么？ | 他白天在家里读书，晚上和朋友们去外边唱歌。
+XQ [2] 王一雪星期六做什么？ | 她在家里做饭、看电视，和孩子们、小狗玩。
+IMG tb 67 13 14 92 40 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 是/B 好听/C 在学校/D 今天上午/E 椅子
+X [1] ___上有一只小猫，房间外是一只小狗。 | 椅子 | 椅子上 = sur la chaise.
+X [1 · 2e trou] 椅子上有一只小猫，房间外___一只小狗。 | 是 | Phrase d'existence avec 是.
+X [2] 她___在家里学习。 | 今天上午 | Temps avant le lieu.
+X [3] 王一雪：你唱歌很___。 杨同乐：谢谢！ | 好听 | 好听 = beau à entendre.
+X [4] 陈天中：你下午去哪儿？ 安妮：我下午还___上课。 | 在学校 | 在 + lieu + verbe.
+IMG tb 67 13 40 92 87 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 桌子上___。 | 桌子上有一本书。 // 桌子上有书。
+XP [Image 2] 孩子们___在家里___。 | 孩子们晚上在家里看电视。 // 孩子们现在在家里看电视。 // 孩子们今天在家里看电视。
+XP [Image 3] ___一只小狗是我的，___二只小狗是她的。 | 第一只小狗是我的，第二只小狗是她的。
+XP [Image 4] 学校外边是一家小店，___。 | 学校外边是一家小店，我在那儿买东西。 // 学校外边是一家小店，他在那儿买东西。

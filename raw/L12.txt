@@ -61,23 +61,38 @@ G La structure « 太……了 » | « 太 + adjectif + 了 » exprime une excla
 EX 太冷了！ | Il fait trop froid !
 EX 这个杯子太小了。 | Cette tasse est trop petite.
 EX 我们今天太高兴了！ | On est tellement contents aujourd'hui !
-XL 王一飞那儿的天气___。 | 不太好 | 很好/很不好/不太好 | « 这里的天不太好，下雨了。»
-XL 王一飞觉得___。 | 很冷 | 不冷/很冷/有点儿冷 | « 我觉得很冷。»
-XL 杨同乐昨天___了。 | 生病 | 生病/上班/去公司 | « 你昨天没来公司，生病了？— 对。»
-XL 杨同乐今天___了。 | 来公司 | 在家里/去医院/来公司 | Il parle avec Wang Yixue dans l'ascenseur du bureau.
-XL 杨同乐觉得___。 | 很冷 | 很热/很冷/有点儿冷 | « 我很冷。»
-XL 医生对杨同乐说：“今天___吧。” | 休息半天 | 上班/下班/休息半天 | « 今天休息半天吧。»
-XQ 昨天天气怎么样？ | 昨天下雪了，太冷了。
-XQ 杨同乐昨天做什么了？ | 他昨天去医院看病了。
-XQ 杨同乐生病了吗？ | 他生病了。
-XQ 看病后，杨同乐回家要做什么？ | 他回家后要喝些热水。
-XB 怎么样/雪/了/看/太
-X 外边正在下___，太冷了！ | 雪 | 下雪 = neiger.
-X 外边正在下雪，___冷了！ | 太 | 太……了.
-X 他去公司工作___。 | 了 | 了 = changement / action réalisée.
-X 医生：你觉得___？ 杨同乐：我很冷。 | 怎么样 | Demander comment on se sent.
-X 王一雪：你昨天去医院___病了吗？ | 看 | 看病 = consulter un médecin.
-XP 昨天___。 (photo : il pleut) | 昨天下雨了。
-XP 今天___。 (photo : soleil) | 今天天气很好。
-XP 杨同乐___了，他昨天去___，今天来___。 (photo : malade au lit) | 杨同乐生病了，他昨天去医院看病，今天来公司了。
-XP 医生对杨同乐说：“今天___，回家___。” (photo : chez le médecin) | 医生对杨同乐说：“今天休息半天吧，回家喝些热水。”
+IMG tb 86 9 54 87 87 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 下雨/B 冷/C 生病/D 看病/E 雪/F 水
+XM [Image 1 (en haut à gauche)] Un verre d'eau. | 水 | 水 shuǐ = eau.
+XM [Image 2 (en haut au milieu)] Un patient chez le médecin. | 看病 | 看病 kànbìng = consulter un médecin.
+XM [Image 3 (en haut à droite)] Une personne emmitouflée qui a froid. | 冷 | 冷 lěng = froid.
+XM [Image 4 (en bas à gauche)] Un paysage sous la neige. | 雪 | 雪 xuě = neige.
+XM [Image 5 (en bas au milieu)] Une personne malade au lit. | 生病 | 生病 shēngbìng = tomber malade.
+XM [Image 6 (en bas à droite)] Un parapluie sous la pluie. | 下雨 | 下雨 xià yǔ = pleuvoir.
+IMG tb 87 13 19 92 39 | Écoute le texte 1 (deux fois), puis choisis la bonne réponse. | t1
+XL [1] 王一飞那儿的天气___。 | 不太好 | A 很好/B 很不好/C 不太好 | « 这里的天不太好，下雨了。»
+XL [2] 王一飞觉得___。 | 很冷 | A 不冷/B 很冷/C 有点儿冷 | « 我觉得很冷。»
+IMG tb 89 13 19 92 37 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 杨同乐昨天___了。 | 生病 | A 生病/B 上班/C 去公司 | « 你昨天没来公司，生病了？— 对。»
+XL [2] 杨同乐今天___了。 | 来公司 | A 在家里/B 去医院/C 来公司 | Il parle avec Wang Yixue dans l'ascenseur du bureau.
+IMG tb 90 13 21 92 32 | Réponds aux questions d'après le texte 2.
+XQ [1] 昨天天气怎么样？ | 昨天下雪了，太冷了。 // 昨天下雪了。 // 太冷了。
+XQ [2] 杨同乐昨天做什么了？ | 他昨天去医院看病了。 // 杨同乐昨天去医院看病了。
+IMG tb 90 13 75 92 94 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 杨同乐觉得___。 | 很冷 | A 很热/B 很冷/C 有点儿冷 | « 我很冷。»
+XL [2] 医生对杨同乐说：“今天___吧。” | 休息半天 | A 上班/B 下班/C 休息半天 | « 今天休息半天吧。»
+IMG tb 91 13 82 92 96 | Réponds aux questions d'après le texte 3.
+XQ [1] 杨同乐生病了吗？ | 他生病了。 // 杨同乐生病了。 // 生病了。
+XQ [2] 看病后，杨同乐回家要做什么？ | 他回家后要喝些热水。 // 回家后要喝热水。 // 他要喝些热水。
+IMG tb 92 9 13 92 40 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 怎么样/B 雪/C 了/D 看/E 太
+X [1] 外边正在下___，太冷了！ | 雪 | 下雪 = neiger.
+X [1 · 2e trou] 外边正在下雪，___冷了！ | 太 | 太……了 = trop…
+X [2] 他去公司工作___。 | 了 | 了 = changement / action réalisée.
+X [3] 医生：你觉得___？ 杨同乐：我很冷。 | 怎么样 | Demander comment on se sent.
+X [4] 王一雪：你昨天去医院___病了吗？ 杨同乐：没有，我今天去。 | 看 | 看病 = consulter un médecin.
+IMG tb 92 13 40 92 87 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 昨天___。 | 昨天下雨了。 // 昨天天气不太好。
+XP [Image 2] 今天___。 | 今天天气很好。 // 今天天气真好。
+XP [Image 3] 杨同乐___了，他昨天去___，今天来___。 | 杨同乐生病了，他昨天去医院看病，今天来公司了。 // 杨同乐生病了，他昨天去医院，今天来公司。
+XP [Image 4] 医生对杨同乐说：“今天___，回家___。” | 医生对杨同乐说：“今天休息半天吧，回家喝些热水。”

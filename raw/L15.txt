@@ -46,25 +46,41 @@ G La phrase coordonnée « ……，还/也…… » | Deux propositions (ou plu
 EX 我喜欢这个，也喜欢那个。 | J'aime celui-ci, et aussi celui-là.
 EX 王老师是北京人，李文也是北京人。 | Mme Wang est de Pékin, Li Wen aussi.
 EX 我喜欢喝中国茶，还喜欢吃中国菜。 | J'aime le thé chinois, et en plus la cuisine chinoise.
-XL 李文问大家___吃哪个菜。 | 爱 | 好/爱/不爱 | « 你们爱吃哪个菜？»
-XL 李文说：“大家___。” | 多吃点儿 | 吃点儿/少吃点儿/多吃点儿 | « 大家多吃点儿。»
-XL 安妮和她男朋友去年去了___。 | 西安 | 西安/北京/学校 | « 去年我和男朋友去了西安。»
-XL 王老师和李文都是___。 | 北京人 | 西安人/北京人/哪里人 | « 我和王老师都是北京人。»
-XL 白家月和安妮坐___去北京。 | 飞机 | 火车/飞机/出租车 | « 你们的飞机到北京要几个小时？»
-XL 王老师的___都在北京。 | 家人 | 家人/朋友/学生 | « 我家人都在北京。»
-XQ 白家月爱吃哪个菜？ | 她喜欢这个，也喜欢那个。
-XQ 李文做饭好吃不好吃？ | 很好吃，这些菜都好吃，还很好看。
-XQ 安妮今年想去哪儿？ | 她今年想去北京。
-XQ 前几年白家月去了哪儿？ | 她去了西安。
-XQ 大兴机场在哪儿？ | 大兴机场在北京。
-XQ 王老师的姐姐可以去接白家月和安妮吗？ | 可以，星期天她有时间。
-XB 爱/时间/早不早/都/飞机
-X 这本书有15课，我们___学了。 | 都 | 都 = tout.
-X 我的家人都___喝茶。 | 爱 | 爱 = adorer.
-X 陈天中：我们明天晚上六点到，你觉得___？ 李文：不早。 | 早不早 | Question affirmative-négative.
-X 王一飞：她们想坐___去北京，你们呢？ | 飞机 | 坐飞机 = prendre l'avion.
-X 陈天中：我们没有___，不能出去玩。 | 时间 | 没有时间 = ne pas avoir le temps.
-XP 我爱吃面包，___。 (photo : des baozi) | 我爱吃面包，也爱吃包子。
-XP 去年我去___。 (photo : la Grande Muraille) | 去年我去了北京。
-XP 王一飞的姐姐___。 (photo : elle fait signe à l'aéroport) | 王一飞的姐姐在机场接她们。
-XP 王老师是___人，她___。 (photo : Mme Wang) | 王老师是北京人，她很漂亮。
+IMG tb 112 9 54 87 87 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 北京/B 好玩儿/C 飞机/D 早饭/E 早/F 男朋友
+XM [Image 1 (en haut à gauche)] Des enfants s'amusent sur un manège. | 好玩儿 | 好玩儿 hǎowánr = amusant.
+XM [Image 2 (en haut au milieu)] Le temple du Ciel. | 北京 | 北京 Běijīng = Pékin.
+XM [Image 3 (en haut à droite)] Un petit-déjeuner sur une table. | 早饭 | 早饭 zǎofàn = petit-déjeuner.
+XM [Image 4 (en bas à gauche)] Un lever de soleil sur un champ. | 早 | 早 zǎo = tôt, le matin.
+XM [Image 5 (en bas au milieu)] Un avion. | 飞机 | 飞机 fēijī = avion.
+XM [Image 6 (en bas à droite)] Un couple souriant. | 男朋友 | 男朋友 nánpéngyou = petit ami.
+IMG tb 113 13 19 92 37 | Écoute le texte 1 (deux fois), puis choisis la bonne réponse. | t1
+XL [1] 李文问大家___吃哪个菜。 | 爱 | A 好/B 爱/C 不爱 | « 你们爱吃哪个菜？»
+XL [2] 李文说：“大家___。” | 多吃点儿 | A 吃点儿/B 少吃点儿/C 多吃点儿 | « 大家多吃点儿。»
+IMG tb 113 13 84 92 94 | Réponds aux questions d'après le texte 1.
+XQ [1] 白家月爱吃哪个菜？ | 她喜欢这个，也喜欢那个。 // 她都爱吃。
+XQ [2] 李文做饭好吃不好吃？ | 很好吃，这些菜都好吃，还很好看。 // 很好吃。 // 李文做饭很好吃。
+IMG tb 114 13 74 92 94 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 安妮和她男朋友去年去了___。 | 西安 | A 西安/B 北京/C 学校 | « 去年我和男朋友去了西安。»
+XL [2] 王老师和李文都是___。 | 北京人 | A 西安人/B 北京人/C 哪里人 | « 我和王老师都是北京人。»
+IMG tb 115 13 76 92 87 | Réponds aux questions d'après le texte 2.
+XQ [1] 安妮今年想去哪儿？ | 她今年想去北京。 // 安妮今年想去北京。 // 北京。
+XQ [2] 前几年白家月去了哪儿？ | 她去了西安。 // 白家月前几年去了西安。 // 西安。
+IMG tb 116 13 17 92 37 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 白家月和安妮坐___去北京。 | 飞机 | A 火车/B 飞机/C 出租车 | « 你们的飞机到北京要几个小时？»
+XL [2] 王老师的___都在北京。 | 家人 | A 家人/B 朋友/C 学生 | « 我家人都在北京。»
+IMG tb 117 13 84 92 96 | Réponds aux questions d'après le texte 3.
+XQ [1] 大兴机场在哪儿？ | 大兴机场在北京。 // 在北京。
+XQ [2] 王老师的姐姐可以去接白家月和安妮吗？ | 可以，星期天她有时间。 // 可以。
+IMG tb 118 9 13 92 40 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 爱/B 时间/C 早不早/D 都/E 飞机
+X [1] 这本书有15课，我们___学了。 | 都 | 都 = tout.
+X [2] 我的家人都___喝茶。 | 爱 | 爱 = adorer.
+X [3] 陈天中：我们明天晚上六点到，你觉得___？ 李文：不早。 | 早不早 | Question affirmative-négative.
+X [4] 王一飞：她们想坐___去北京，你们呢？ | 飞机 | 坐飞机 = prendre l'avion.
+X [4 · 2e trou] 陈天中：我们没有___，不能出去玩。 | 时间 | 没有时间 = ne pas avoir le temps.
+IMG tb 118 9 40 92 84 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 我爱吃面包，___。 | 我爱吃面包，也爱吃包子。 // 我爱吃面包，还爱吃包子。
+XP [Image 2] 去年我去___。 | 去年我去了北京。 // 去年我去北京了。
+XP [Image 3] 王一飞的姐姐___。 | 王一飞的姐姐在机场接她们。 // 王一飞的姐姐去机场接她们。
+XP [Image 4] 王老师是___人，她___。 | 王老师是北京人，她很漂亮。 // 王老师是中国人，她很漂亮。

@@ -1,13 +1,35 @@
 @ 15
-WR Quel mot correspond à « méi kànjiàn » ? | A 没看见/B 说话/C 哪些人 | A
-WR Quel mot correspond à « nǎxiē rén » ? | A 什么时候/B 哪些人/C 坐飞机 | B
-WR Quel mot correspond à « shénme shíhou » ? | A 说话/B 没看见/C 什么时候 | C
-WR Quel mot correspond à « zuò fēijī » ? | A 坐飞机/B 哪些人/C 说话 | A
-WR Wǒ ài chī shuǐguǒ — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | A
-WR Zhè jiàn yīfu zhēn piàoliang — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | C
-WR Nǐmen qù nǎlǐ — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | B
-WR Qǐng zuò — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | D
-WR Yǔ dà ma — quel type de phrase ? | A déclarative/B question/C exclamative/D impérative | B
+IMG wb 111 14 38 85 65 | Associe chaque pinyin au bon mot (comme les numéros entre parenthèses dans le livre).
+WB 你好/说话/坐飞机/没看见/哪些人/什么时候
+WQ [(2) méi kànjiàn] Quel mot correspond à « méi kànjiàn » ? | D | 没看见 méi kànjiàn = ne pas avoir vu.
+WQ [(3) nǎxiē rén] Quel mot correspond à « nǎxiē rén » ? | E | 哪些人 nǎxiē rén = quelles personnes.
+WQ [(4) shuōhuà] Quel mot correspond à « shuōhuà » ? | B | 说话 shuōhuà = parler.
+WQ [(5) shénme shíhou] Quel mot correspond à « shénme shíhou » ? | F | 什么时候 shénme shíhou = quand.
+WQ [(6) zuò fēijī] Quel mot correspond à « zuò fēijī » ? | C | 坐飞机 zuò fēijī = prendre l'avion.
+IMG wb 111 12 66 92 83 + wb 112 12 7 92 26 | Quel type de phrase ? A = déclarative, B = question, C = exclamative, D = impérative (ordre, demande). Lis la phrase à voix haute.
+WB A déclarative/B question/C exclamative/D impérative
+WQ [(2)] Wǒ ài chī shuǐguǒ | A | J'aime les fruits : déclarative.
+WQ [(3)] Zhè jiàn yīfu zhēn piàoliang | C | 真漂亮 (vraiment beau !) : exclamative.
+WQ [(4)] Nǐmen qù nǎlǐ | B | 哪里 nǎlǐ = où → question.
+WQ [(5)] Qǐng zuò | D | 请坐 = asseyez-vous : impérative.
+WQ [(6)] Yǔ dà ma | B | 吗 ma à la fin → question.
+IMG wb 117 10 15 92 71 | Lecture, 1re partie : choisis l'image (A à D) qui correspond à chaque phrase.
+WB A Une fille qui lit/B Un manège dans un parc/C Une feuille de caractères chinois/D Une famille assise ensemble
+WQ [11] 我家有五口人，我们现在住在北京。 | D | Image D : une famille.
+WQ [12] 这里有好吃的，还有好玩儿的。 | B | Image B : un manège (好玩儿 = amusant).
+WQ [13] 现在我会说一点儿汉语，也会写一些汉字了。 | C | Image C : des caractères chinois.
+IMG wb 118 13 7 92 55 | Lecture, 2e partie : choisis la réponse (A à D) qui va avec chaque phrase.
+WB A 我女儿。/B 十个。/C 苹果。/D 好的，谢谢！
+WQ [14] 你会写几个汉字？ | B | – Combien de caractères sais-tu écrire ? – Dix.
+WQ [15] 谁上中学了？ | A | – Qui est entré au collège ? – Ma fille.
+WQ [16] 你爱吃什么？ | C | – Qu'aimes-tu manger ? – Des pommes.
+IMG wb 118 13 57 92 90 + wb 119 10 6 92 17 | Lecture, 3e partie : choisis le mot (A, B ou C) qui va dans les parenthèses.
+WB A 电视/B 北京/C 名字
+WQ [17] 今年我们都想去（ ）。 | B | 去北京 = aller à Pékin.
+WQ [18] 男：我爱看电影，也爱唱歌。你呢？ 女：我喜欢看（ ）。 | A | 看电视 = regarder la télévision.
+IMG wb 119 10 23 92 81 | Lecture, 4e partie : lis la phrase, puis choisis la bonne réponse (A, B ou C).
+WR [19] 明天星期天，儿子想去看一个电影。 ★ 儿子明天想： | A 买电脑/B 打电话/C 看电影 | C
+WR [20] 下小雨了，小狗非常高兴，它喜欢小雨。 ★ 小狗喜欢： | A 下小雨/B 下大雨/C 下小雪 | A
 PRON Écriture des caractères (8) : les clés (偏旁) | Une clé est un composant qui indique souvent le sens. Clé de la bouche 口字旁 kǒuzìpáng (喝), clé de l'homme 单人旁 dānrénpáng (你), clé de la parole 言字旁 yánzìpáng (认), clé du soleil 日字旁 rìzìpáng (明), clé du bois 木字旁 mùzìpáng (杯), clé de la femme 女字旁 nǚzìpáng (姐).
 HR 口字旁 | Clé de la bouche (manger, boire, parler) | 喝
 HR 单人旁 | Clé de l'homme (personnes) | 你
@@ -16,12 +38,3 @@ HR 日字旁 | Clé du soleil (temps, lumière) | 明
 HR 木字旁 | Clé du bois (arbres, objets en bois) | 杯
 HR 女字旁 | Clé de la femme | 姐
 HC 喝 你 认 明 杯 姐
-WB A 我女儿。/B 十个。/C 苹果。/D 好的，谢谢！
-WQ 你会写几个汉字？ | B | – Combien de caractères sais-tu écrire ? – Dix.
-WQ 谁上中学了？ | A | – Qui est entré au collège ? – Ma fille.
-WQ 你爱吃什么？ | C | – Qu'aimes-tu manger ? – Des pommes.
-WB A 电视/B 北京/C 名字
-WQ 今年我们都想去（ ）。 | B | 去北京 = aller à Pékin.
-WQ 男：我爱看电影，也爱唱歌。你呢？ 女：我喜欢看（ ）。 | A | 看电视 = regarder la télé.
-WR 明天星期天，儿子想去看一个电影。 ★ 儿子明天想： | A 买电脑/B 打电话/C 看电影 | C
-WR 下小雨了，小狗非常高兴，它喜欢小雨。 ★ 小狗喜欢： | A 下小雨/B 下大雨/C 下小雪 | A

@@ -60,19 +60,32 @@ G Le verbe modal « 要 » | « 要 » devant un verbe exprime la volonté ou l'
 EX 他今天要和小朋友玩。 | Aujourd'hui il veut jouer avec ses copains.
 EX 妈妈要去超市。 | Maman va aller au supermarché.
 EX 白家月要在家里学中文。 | Bai Jiayue veut étudier le chinois à la maison.
-XL 李文___读大学。 | 在 | 不/没/在 | « 你还在读大学吗？— 对，我读大学呢。»
-XL 李文很忙，有很多___。 | 课 | 课/书/椅子 | « 我们的课很多。»
-XL 弟弟正在___。 | 睡觉 | 玩/起床/睡觉 | « 没起床呢，还在睡觉。»
-XL 爸爸问姐姐，弟弟___超市。 | 去不去 | 在/去/去不去 | « 他今天去不去那里？»
-XQ 弟弟起床没起床？ | 他没起床，还在睡觉。
-XQ 弟弟今天要做什么？ | 他今天要和小朋友玩。
-XB 那里/睡觉/去不去/要/正在
-X 你___超市？ | 去不去 | Question affirmative-négative.
-X 她没在看电视，___学习呢。 | 正在 | 正在 + verbe + 呢.
-X 弟弟：姐姐，我们去___玩吧，好不好？ | 那里 | 那里 = là-bas.
-X 姐姐：我不去，我___读书。 | 要 | 要 = vouloir, avoir l'intention.
-X 妈妈：爸爸在做什么？ 孩子：他在___呢。 | 睡觉 | 在 + verbe + 呢.
-XP 我们___。 (photo : une mère et sa fille au supermarché) | 我们在超市买东西呢。
-XP 桌子上___书？ (photo : une table vide) | 桌子上有没有书？
-XP 弟弟___睡觉，在学习呢，他明天___。 (photo : un garçon qui étudie) | 弟弟没睡觉，在学习呢，他明天要上课。
-XP 她___看电视，___。 (photo : une fille qui lit) | 她没在看电视，正在读书呢。
+IMG tb 78 9 50 87 84 | Échauffement : quel mot (A à F) va avec chaque image ?
+XB A 开车/B 睡觉/C 问/D 饭店/E 找/F 大学生
+XM [Image 1 (en haut à gauche)] La salle d'un restaurant. | 饭店 | 饭店 fàndiàn = restaurant.
+XM [Image 2 (en haut au milieu)] Des jeunes travaillent ensemble avec un ordinateur. | 大学生 | 大学生 dàxuéshēng = étudiant(e) à l'université.
+XM [Image 3 (en haut à droite)] Une femme au volant. | 开车 | 开车 kāi chē = conduire.
+XM [Image 4 (en bas à gauche)] Une femme fouille dans son sac. | 找 | 找 zhǎo = chercher.
+XM [Image 5 (en bas au milieu)] Un homme pose une question au comptoir. | 问 | 问 wèn = demander.
+XM [Image 6 (en bas à droite)] Une femme dort. | 睡觉 | 睡觉 shuìjiào = dormir.
+IMG tb 80 12 74 92 94 | Écoute le texte 2 (deux fois), puis choisis la bonne réponse. | t2
+XL [1] 李文___读大学。 | 在 | A 不/B 没/C 在 | « 你还在读大学吗？— 对，我读大学呢。»
+XL [2] 李文很忙，有很多___。 | 课 | A 课/B 书/C 椅子 | « 我们的课很多。»
+IMG tb 82 12 72 92 92 | Écoute le texte 3 (deux fois), puis choisis la bonne réponse. | t3
+XL [1] 弟弟正在___。 | 睡觉 | A 玩/B 起床/C 睡觉 | « 没起床呢，还在睡觉。»
+XL [2] 爸爸问姐姐，弟弟___超市。 | 去不去 | A 在/B 去/C 去不去 | « 他今天去不去那里？»
+IMG tb 83 13 75 92 88 | Réponds aux questions d'après le texte 3.
+XQ [1] 弟弟起床没起床？ | 他没起床，还在睡觉。 // 弟弟没起床，还在睡觉。 // 没起床。
+XQ [2] 弟弟今天要做什么？ | 他今天要和小朋友玩。 // 弟弟今天要和小朋友玩。
+IMG tb 84 9 66 92 94 | Choisis le bon mot (A à E) pour chaque trou.
+XB A 那里/B 睡觉/C 去不去/D 要/E 正在
+X [1] 你___超市？ | 去不去 | Question affirmative-négative.
+X [2] 她没在看电视，___学习呢。 | 正在 | 正在 + verbe + 呢.
+X [3] 弟弟：姐姐，我们去___玩吧，好不好？ | 那里 | 那里 = là-bas.
+X [3 · 2e trou] 姐姐：我不去，我___读书。 | 要 | 要 = vouloir, avoir l'intention.
+X [4] 妈妈：爸爸在做什么？ 孩子：他在___呢。 | 睡觉 | 在 + verbe + 呢.
+IMG tb 85 13 6 92 53 | Décris les images avec les mots de la leçon : écris les phrases complètes.
+XP [Image 1] 我们___。 | 我们在超市买东西呢。 // 我们正在超市买东西。 // 我们在买东西呢。
+XP [Image 2] 桌子上___书？ | 桌子上有没有书？
+XP [Image 3] 弟弟___睡觉，在学习呢，他明天___。 | 弟弟没睡觉，在学习呢，他明天要上课。 // 弟弟没在睡觉，在学习呢，他明天要上课。
+XP [Image 4] 她___看电视，___。 | 她没在看电视，正在读书呢。 // 她没看电视，在读书呢。

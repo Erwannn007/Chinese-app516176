@@ -1,17 +1,36 @@
 @ 9
 PRON Marquer les tons | Le signe du ton se place sur la voyelle principale : a > o > e > i/u (dans « iu » sur u, dans « ui » sur i). Ex. hǎo, xiè, nín, zhōng, tóngxué, dàjiā, zàijiàn, rènshi.
-WR Quel est le bon ton de « 好 » (hao) ? | A hāo/B hǎo/C hào | B
-WR Quel est le bon ton de « 谢 » (xie) ? | A xiē/B xié/C xiè | C
-WR Quel est le bon ton de « 您 » (nin) ? | A nīn/B nín/C nǐn | B
-WR Quel est le bon ton de « 中 » (zhong) ? | A zhōng/B zhóng/C zhòng | A
-WR Quelle est la bonne écriture de « 同学 » ? | A tōngxué/B tóngxué/C tòngxuě | B
-WR Quelle est la bonne écriture de « 大家 » ? | A dàjiā/B dājià/C dǎjiā | A
-WR Quelle est la bonne écriture de « 再见 » ? | A zàijiān/B zāijiàn/C zàijiàn | C
-WR Quelle est la bonne écriture de « 认识 » ? | A rènshi/B rénshí/C rěnshi | A
-WR Quelle syllabe n'a pas le même ton que les autres ? | A qián/B xiǎo/C nián | B
-WR Quelle syllabe n'a pas le même ton que les autres ? | A chàng/B shū/C zhōng | A
-WR Quelle syllabe n'a pas le même ton que les autres ? | A gǒu/B běn/C xué | C
-WR Quelle syllabe n'a pas le même ton que les autres ? | A biān/B gē/C dì | C
+IMG wb 57 10 38 92 54 | Mets le bon ton sur chaque syllabe : choisis la bonne écriture.
+WR [1] Quel est le bon ton de « 好 » (hao) ? | A hāo/B hǎo/C hào | B
+WR [2] Quel est le bon ton de « 谢 » (xie) ? | A xiē/B xié/C xiè | C
+WR [3] Quel est le bon ton de « 您 » (nin) ? | A nīn/B nín/C nǐn | B
+WR [4] Quel est le bon ton de « 中 » (zhong) ? | A zhōng/B zhóng/C zhòng | A
+WR [5] Quelle est la bonne écriture de « 同学 » ? | A tōngxué/B tóngxué/C tòngxuě | B
+WR [6] Quelle est la bonne écriture de « 大家 » ? | A dàjiā/B dājià/C dǎjiā | A
+WR [7] Quelle est la bonne écriture de « 再见 » ? | A zàijiān/B zāijiàn/C zàijiàn | C
+WR [8] Quelle est la bonne écriture de « 认识 » ? | A rènshi/B rénshí/C rěnshi | A
+IMG wb 57 10 53 92 77 | Dans chaque groupe, choisis la syllabe qui n'a pas le même ton que les deux autres.
+WR [1] Quelle syllabe n'a pas le même ton que les autres ? | A qián/B xiǎo/C nián | B
+WR [2] Quelle syllabe n'a pas le même ton que les autres ? | A chàng/B shū/C zhōng | A
+WR [3] Quelle syllabe n'a pas le même ton que les autres ? | A gǒu/B běn/C xué | C
+WR [4] Quelle syllabe n'a pas le même ton que les autres ? | A biān/B gē/C dì | C
+IMG wb 63 10 15 92 71 | Lecture, 1re partie : choisis l'image (A à D) qui correspond à chaque phrase.
+WB A Une fille qui lit/B Une femme avec un ordinateur/C Un chat près d'une porte/D Une fille joue avec un chien
+WQ [11] 妹妹和小狗今天在家里玩。 | D | Image D : une fille joue avec un chien.
+WQ [12] 房间外有一只小猫。 | C | Image C : un chat près d'une porte.
+WQ [13] 这是我的第三个电脑。 | B | Image B : une femme avec un ordinateur.
+IMG wb 64 12 7 92 55 | Lecture, 2e partie : choisis la réponse (A à D) qui va avec chaque phrase.
+WB A 在家里。/B 我女朋友。/C 一只小猫。/D 好的，谢谢！
+WQ [14] 桌子上有什么？ | C | – Qu'y a-t-il sur la table ? – Un petit chat.
+WQ [15] 你今天下午在哪儿？ | A | – Où es-tu cet après-midi ? – À la maison.
+WQ [16] 你和谁在超市呢？ | B | – Avec qui es-tu au supermarché ? – Avec ma copine.
+IMG wb 64 12 57 92 90 + wb 65 10 6 92 17 | Lecture, 3e partie : choisis le mot (A, B ou C) qui va dans les parenthèses.
+WB A 2:00/B 上课/C 名字
+WQ [17] 我上午在学校（ ），我们下午去看电影吧。 | B | 在学校上课 = avoir cours à l'école.
+WQ [18] 男：我们下午几点在学校见？ 女：下午（ ）吧。 | A | Réponse = une heure : 下午2:00.
+IMG wb 65 10 23 92 81 | Lecture, 4e partie : lis la phrase, puis choisis la bonne réponse (A, B ou C).
+WR [19] 我有一只小狗，很漂亮，它是我的好朋友。 ★ 说话人有几只小狗？ | A 一/B 四/C 十一 | A | 我有一只小狗 = un seul chien.
+WR [20] 星期天中午妈妈在做饭，我和妹妹在房间里玩。 ★ 说话人和妹妹在哪儿？ | A 外边/B 房间里/C 超市里 | B | 在房间里玩.
 PRON Écriture des caractères (2) | Nouveaux traits : 撇 piě (oblique vers la gauche), 捺 nà (oblique vers la droite), 点 diǎn (point), 提 tí (trait remontant). Nouvelles règles d'ordre des traits : « l'oblique gauche avant l'oblique droite » (人) et « de haut en bas » (文).
 HZ 丿 | 撇 piě : oblique tombant vers la gauche
 HZ ㇏ | 捺 nà : oblique tombant vers la droite
@@ -20,16 +39,3 @@ HZ ㇀ | 提 tí : trait remontant vers la droite
 HR 先撇后捺 | L'oblique gauche avant l'oblique droite | 人
 HR 从上到下 | De haut en bas | 文
 HC 个 今 认 打
-WB A Une fille qui lit/B Une femme avec un ordinateur/C Un chat près d'une porte/D Une fille joue avec un chien
-WQ 妹妹和小狗今天在家里玩。 | D | Image D : une fille joue avec un chien.
-WQ 房间外有一只小猫。 | C | Image C : un chat près d'une porte.
-WQ 这是我的第三个电脑。 | B | Image B : une femme avec un ordinateur.
-WB A 在家里。/B 我女朋友。/C 一只小猫。/D 好的，谢谢！
-WQ 桌子上有什么？ | C | – Qu'y a-t-il sur la table ? – Un petit chat.
-WQ 你今天下午在哪儿？ | A | – Où es-tu cet après-midi ? – À la maison.
-WQ 你和谁在超市呢？ | B | – Avec qui es-tu au supermarché ? – Avec ma copine.
-WB A 2:00/B 上课/C 名字
-WQ 我上午在学校（ ），我们下午去看电影吧。 | B | 在学校上课 = avoir cours à l'école.
-WQ 男：我们下午几点在学校见？ 女：下午（ ）吧。 | A | Réponse = une heure.
-WR 我有一只小狗，很漂亮，它是我的好朋友。 ★ 说话人有几只小狗？ | A 一/B 四/C 十一 | A
-WR 星期天中午妈妈在做饭，我和妹妹在房间里玩。 ★ 说话人和妹妹在哪儿？ | A 外边/B 房间里/C 超市里 | B
